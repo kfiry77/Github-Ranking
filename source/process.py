@@ -2,13 +2,8 @@
 from datetime import datetime
 import os
 import pandas as pd
-from common import get_api_repos, get_graphql_data, write_text, write_ranking_repo
+from common import get_graphql_data, write_text, write_ranking_repo
 import inspect
-
-languages = ['Python']  # For test
-languages_md = ['Python']  # For test
-table_of_contents = """
-* [Python](#python)"""  # For test
 
 languages = ["Ruby", "C", "CSharp", "CPP", "Go", "Java", "JavaScript", "Python", "TypeScript"]
 # Escape characters in markdown like # + - etc
@@ -35,7 +30,7 @@ class ProcessorGQL(object):
 
     def __init__(self):
         self.gql_format = """query{
-    search(query: "%s", type: REPOSITORY, first: 100) {
+    search(query: "%s", type: REPOSITORY, first: 20) {
         edges {
             node {
                 ...on Repository {
@@ -52,6 +47,8 @@ class ProcessorGQL(object):
                     stargazerCount
                     watchers {  totalCount }
                     primaryLanguage { name }
+                    openIssues: issues(states: OPEN) { totalCount }
+                    totalIssues: issues { totalCount }
                 }
             }
         }
@@ -70,7 +67,6 @@ class ProcessorGQL(object):
         qql_issue_query_format = '{repository(owner: "%s", name: "%s") { issues(states: OPEN) {totalCount } } }'
         for repo in result["data"]["search"]["edges"]:
             repo_data = repo['node']
-            total_issues_result = 0 if len(languages) <= 1 else get_graphql_data(qql_issue_query_format % (repo_data['owner']['login'], repo_data['name'] ))
             res.append({
                 'name': repo_data['name'],
                 'stargazers_count': repo_data['stargazerCount'],
@@ -80,7 +76,8 @@ class ProcessorGQL(object):
                 'owner': {
                     'login': repo_data['owner']['login'],
                 },
-                'open_issues_count': 0 if len(languages) <= 1 else total_issues_result['data']['repository']['issues']['totalCount'],
+                'open_issues_count': repo_data['openIssues']['totalCount'],
+                'total_issues_count': repo_data['totalIssues']['totalCount'],
                 'created_at': repo_data['createdAt'],
                 'updated_at': repo_data['updatedAt'],
                 'description': repo_data['description'],
@@ -118,7 +115,9 @@ class WriteFile(object):
         self.repos_stars = repos_stars
         self.repos_forks = repos_forks
         self.repos_languages = repos_languages
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests', 'milestones', 'issues', 'vulnerability','created', 'last_commit', 'description']
+        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username',
+                    'pullRequests', 'milestones', 'issues', 'totalIssues', 'vulnerability',
+                     'created', 'last_commit', 'description']
         self.repo_list = []
         self.repo_list.extend([{
             "desc": "Stars",
@@ -188,9 +187,10 @@ class WriteFile(object):
         # prepare for saving data to csv file
         repos_list = []
         for idx, repo in enumerate(repos):
-            repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'], repo['watchers']['totalCount'], repo['language'],
-                         repo['html_url'], repo['owner']['login'], repo['pullRequests'], repo['milestones'],repo['open_issues_count'], repo['vulnerabilityAlerts'],
-                         repo['created_at'], repo['updated_at'], repo['description']]
+            repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'],
+                         repo['watchers']['totalCount'], repo['language'], repo['html_url'], repo['owner']['login'],
+                         repo['pullRequests'], repo['milestones'],repo['open_issues_count'], repo['total_issues_count'],
+                         repo['vulnerabilityAlerts'], repo['created_at'], repo['updated_at'], repo['description']]
             repos_list.append(repo_info)
         return pd.DataFrame(repos_list, columns=self.col)
 
@@ -217,7 +217,6 @@ def run_by_gql():
     wt_obj.write_head_contents()
     wt_obj.write_readme_lang_md()
     wt_obj.save_to_csv()
-
 
 if __name__ == "__main__":
     t1 = datetime.now()
