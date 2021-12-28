@@ -9,7 +9,6 @@ def get_access_token():
         access_token = f.read().strip()
     return access_token
 
-
 def write_text(file_name, method, text):
     """
     write text to file
@@ -21,20 +20,19 @@ def write_text(file_name, method, text):
 
 def write_ranking_repo(file_name, method, repos):
     # method: 'a'-append or 'w'-overwrite
-    table_head = "| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |\n\
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |\n"
+    table_head = "| Ranking | Project Name | Stars | Forks | Watcher | Language | Pull Requests | Open Issues | Vulnerabulities | Description | Create At | Last Commit |\n\
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- | ------- | ------- | ------- | ------- | \n"
     with open(file_name, method, encoding='utf-8') as f:
         f.write(table_head)
         for idx, repo in enumerate(repos):
             repo_description = repo['description']
             if repo_description is not None:
                 repo_description = repo_description.replace('|', '\|')  # in case there is '|' in description
-            f.write("| {} | [{}]({}) | {} | {} | {} | {} | {} | {} |\n".format(
-                idx + 1, repo['name'], repo['html_url'], repo['stargazers_count'], repo['forks_count'],
-                repo['language'], repo['open_issues_count'], repo_description, repo['created_at']
+            f.write("| {} | [{}]({}) | {} | {} | {} | {} | {} | {} | {} | {} | {} | \n".format(
+                idx + 1, repo['name'], repo['html_url'], repo['stargazers_count'], repo['forks_count'], repo['watchers']['totalCount'],
+                repo['language'], repo['open_issues_count'], repo['vulnerabilityAlerts'], repo_description, repo['created_at'], repo['updated_at']
             ))
         f.write('\n')
-
 
 def get_api_repos(API_URL):
     """
@@ -65,7 +63,6 @@ def get_graphql_data(GQL):
     """
     access_token = get_access_token()
     headers = {
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
         'Authorization': 'bearer {}'.format(access_token),
     }
     s = requests.session()
@@ -75,6 +72,6 @@ def get_graphql_data(GQL):
     r = requests.post(url=graphql_api, json={"query": GQL}, headers=headers)
 
     if r.status_code != 200:
-        raise ValueError('Can not retrieve from {}'.format(GQL))
+        raise ValueError('Can not retrieve from {} error: {} '.format(GQL, r.Content))
 
     return r.json()

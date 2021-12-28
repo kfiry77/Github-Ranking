@@ -5,6 +5,11 @@ import pandas as pd
 from common import get_api_repos, get_graphql_data, write_text, write_ranking_repo
 import inspect
 
+languages = ['Python']  # For test
+languages_md = ['Python']  # For test
+table_of_contents = """
+* [Python](#python)"""  # For test
+
 languages = ["Ruby", "C", "CSharp", "CPP", "Go", "Java", "JavaScript", "Python", "TypeScript"]
 # Escape characters in markdown like # + - etc
 languages_md = ["Ruby", "C", "C\#", "C\+\+", "Go", "Java", "JavaScript", "Python", "TypeScript"]
@@ -17,14 +22,7 @@ table_of_contents = """
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
-* [TypeScript](#typeScript)
-* [Vim script](#vim-script)"""
-
-languages = ['Python']  # For test
-languages_md = ['Python']  # For test
-table_of_contents = """
-* [Python](#python)"""  # For test
-
+* [TypeScript](#typeScript)"""
 
 class ProcessorGQL(object):
     """
@@ -177,7 +175,7 @@ class WriteFile(object):
             title_readme, title_100, file_100, data = repo["title_readme"], repo["title_100"], repo["file_100"], repo["data"]
             write_text('../README.md', 'a',
                        f"\n## {title_readme}\n\nThis is top 10, for more click **[{title_100}](Top100/{file_100})**\n\n")
-            write_ranking_repo('../README.md', 'a', data[:15])
+            write_ranking_repo('../README.md', 'a', data[:10])
             print(f"Save {title_readme} in README.md!")
 
             # Top 100 file
