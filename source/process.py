@@ -5,10 +5,6 @@ import pandas as pd
 from common import get_api_repos, get_graphql_data, write_text, write_ranking_repo
 import inspect
 
-# languages = ['Python']  # For test
-# languages_md = ['Python']  # For test
-# table_of_contents = """
-# * [Python](#python)"""  # For test
 languages = ["Ruby", "C", "CSharp", "CPP", "Go", "Java", "JavaScript", "Python", "TypeScript"]
 # Escape characters in markdown like # + - etc
 languages_md = ["Ruby", "C", "C\#", "C\+\+", "Go", "Java", "JavaScript", "Python", "TypeScript"]
@@ -24,39 +20,10 @@ table_of_contents = """
 * [TypeScript](#typeScript)
 * [Vim script](#vim-script)"""
 
-class ProcessorREST(object):
-    """
-    Github REST API v3
-    Deprecating API authentication through query parameters, should send the token in the header
-    ref: https://developer.github.com/changes/2020-02-10-deprecating-auth-through-query-param/
-    search limit 10 times per minute, with token is 30 per minute
-    check rate_limit with : curl -H "Authorization: token your-access-token" https://api.github.com/rate_limit
-    """
-
-    def __init__(self):
-
-        self.api_repo_stars = r'https://api.github.com/search/repositories?q=stars:>0&sort=stars&per_page=100'
-        self.api_repo_forks = r'https://api.github.com/search/repositories?q=forks:>0&sort=forks&per_page=100'
-        self.api_repo_stars_lang = r'https://api.github.com/search/repositories?q=language:{lang}&stars:>0&sort=stars&per_page=100'
-
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
-                    'last_commit', 'description']
-        self.repos_stars, self.repos_forks, self.repos_languages = self.get_all_repos()
-
-    def get_all_repos(self):
-        # get all repos of most stars and forks, and different languages
-
-#        print("Get repos of most stars...")
-#        repos_stars = get_api_repos(self.api_repo_stars)
-
-        print("Get repos of most forks...")
-        repos_forks = get_api_repos(self.api_repo_forks)
-
-        repos_languages = {}
-#        for lang in languages:
-#            print("Get most stars repos of {}...".format(lang))
-#            repos_languages[lang] = get_api_repos(self.api_repo_stars_lang.format(lang=lang))
-        return repos_stars, repos_forks, repos_languages
+languages = ['Python']  # For test
+languages_md = ['Python']  # For test
+table_of_contents = """
+* [Python](#python)"""  # For test
 
 
 class ProcessorGQL(object):
@@ -96,17 +63,16 @@ class ProcessorGQL(object):
         self.gql_stars = self.gql_format % "stars:>1000 sort:stars"
         self.gql_forks = self.gql_format % "forks:>1000 sort:forks"
         self.gql_stars_lang = self.gql_format % "language:%s stars:>0 sort:stars"
-
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests',
-                    'milestones', 'issues', 'vulnerability','created', 'last_commit', 'description']
+        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests', 'milestones', 'issues', 'vulnerability','created', 'last_commit', 'description']
 
     @staticmethod
     def parse_gql_result(result):
+
         res = []
         qql_issue_query_format = '{repository(owner: "%s", name: "%s") { issues(states: OPEN) {totalCount } } }'
         for repo in result["data"]["search"]["edges"]:
             repo_data = repo['node']
-            total_issues_result = get_graphql_data(qql_issue_query_format % (repo_data['owner']['login'], repo_data['name'] ))
+            total_issues_result = 0 if len(languages) <= 1 else get_graphql_data(qql_issue_query_format % (repo_data['owner']['login'], repo_data['name'] ))
             res.append({
                 'name': repo_data['name'],
                 'stargazers_count': repo_data['stargazerCount'],
@@ -116,7 +82,7 @@ class ProcessorGQL(object):
                 'owner': {
                     'login': repo_data['owner']['login'],
                 },
-                'open_issues_count': total_issues_result['data']['repository']['issues']['totalCount'],
+                'open_issues_count': 0 if len(languages) <= 1 else total_issues_result['data']['repository']['issues']['totalCount'],
                 'created_at': repo_data['createdAt'],
                 'updated_at': repo_data['updatedAt'],
                 'description': repo_data['description'],
@@ -154,8 +120,7 @@ class WriteFile(object):
         self.repos_stars = repos_stars
         self.repos_forks = repos_forks
         self.repos_languages = repos_languages
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
-                    'last_commit', 'description']
+        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests', 'milestones', 'issues', 'vulnerability','created', 'last_commit', 'description']
         self.repo_list = []
         self.repo_list.extend([{
             "desc": "Stars",
@@ -174,6 +139,7 @@ class WriteFile(object):
             "data": repos_forks,
             "item": "top-100-forks",
         }])
+
         for i in range(len(languages)):
             lang = languages[i]
             lang_md = languages_md[i]
@@ -211,7 +177,7 @@ class WriteFile(object):
             title_readme, title_100, file_100, data = repo["title_readme"], repo["title_100"], repo["file_100"], repo["data"]
             write_text('../README.md', 'a',
                        f"\n## {title_readme}\n\nThis is top 10, for more click **[{title_100}](Top100/{file_100})**\n\n")
-            write_ranking_repo('../README.md', 'a', data[:10])
+            write_ranking_repo('../README.md', 'a', data[:15])
             print(f"Save {title_readme} in README.md!")
 
             # Top 100 file
@@ -224,9 +190,9 @@ class WriteFile(object):
         # prepare for saving data to csv file
         repos_list = []
         for idx, repo in enumerate(repos):
-            repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'], repo['language'],
-                         repo['html_url'], repo['owner']['login'], repo['open_issues_count'], repo['pushed_at'],
-                         repo['description']]
+            repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'], repo['watchers']['totalCount'], repo['language'],
+                         repo['html_url'], repo['owner']['login'], repo['pullRequests'], repo['milestones'],repo['open_issues_count'], repo['vulnerabilityAlerts'],
+                         repo['created_at'], repo['updated_at'], repo['description']]
             repos_list.append(repo_info)
         return pd.DataFrame(repos_list, columns=self.col)
 
@@ -247,7 +213,6 @@ def run_by_gql():
     ROOT_PATH = os.path.abspath(os.path.join(__file__, "../../"))
     os.chdir(os.path.join(ROOT_PATH, 'source'))
 
-    # processor = ProcessorREST()  # use Github REST API v3
     processor = ProcessorGQL()  # use Github GraphQL API v4
     repos_stars, repos_forks, repos_languages = processor.get_all_repos()
     wt_obj = WriteFile(repos_stars, repos_forks, repos_languages)
