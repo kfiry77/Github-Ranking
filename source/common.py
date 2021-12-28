@@ -31,7 +31,7 @@ def write_ranking_repo(file_name, method, repos):
                 repo_description = repo_description.replace('|', '\|')  # in case there is '|' in description
             f.write("| {} | [{}]({}) | {} | {} | {} | {} | {} | {} |\n".format(
                 idx + 1, repo['name'], repo['html_url'], repo['stargazers_count'], repo['forks_count'],
-                repo['language'], repo['open_issues_count'], repo_description, repo['pushed_at']
+                repo['language'], repo['open_issues_count'], repo_description, repo['created_at']
             ))
         f.write('\n')
 
@@ -65,16 +65,13 @@ def get_graphql_data(GQL):
     """
     access_token = get_access_token()
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-        'Accept-Language': 'zh-CN,zh;q=0.9',
         'Authorization': 'bearer {}'.format(access_token),
     }
     s = requests.session()
     s.keep_alive = False  # don't keep the session
     graphql_api = "https://api.github.com/graphql"
 
-    # requests.packages.urllib3.disable_warnings() # disable InsecureRequestWarning of verify=False,
     r = requests.post(url=graphql_api, json={"query": GQL}, headers=headers)
 
     if r.status_code != 200:

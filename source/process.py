@@ -9,49 +9,20 @@ import inspect
 # languages_md = ['Python']  # For test
 # table_of_contents = """
 # * [Python](#python)"""  # For test
-languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
-             "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
-             "Swift", "TeX", "TypeScript", "Vim-script"]
+languages = ["Ruby", "C", "CSharp", "CPP", "Go", "Java", "JavaScript", "Python", "TypeScript"]
 # Escape characters in markdown like # + - etc
-languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
-                "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
-                "Swift", "TeX", "TypeScript", "Vim script"]
+languages_md = ["Ruby", "C", "C\#", "C\+\+", "Go", "Java", "JavaScript", "Python", "TypeScript"]
 table_of_contents = """
-* [ActionScript](#actionscript)
 * [C](#c)
 * [C\#](#c-1)
 * [C\+\+](#c-2)
-* [Clojure](#clojure)
-* [CoffeeScript](#coffeescript)
-* [CSS](#css)
-* [Dart](#dart)
-* [DM](#dm)
-* [Elixir](#elixir)
 * [Go](#go)
-* [Groovy](#groovy)
-* [Haskell](#haskell)
-* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Julia](#julia)
-* [Kotlin](#kotlin)
-* [Lua](#lua)
-* [MATLAB](#matlab)
-* [Objective\-C](#objective-c)
-* [Perl](#perl)
-* [PHP](#php)
-* [PowerShell](#powershell)
 * [Python](#python)
-* [R](#r)
 * [Ruby](#ruby)
-* [Rust](#rust)
-* [Scala](#scala)
-* [Shell](#shell)
-* [Swift](#swift)
-* [TeX](#tex)
 * [TypeScript](#typeScript)
 * [Vim script](#vim-script)"""
-
 
 class ProcessorREST(object):
     """
@@ -75,16 +46,16 @@ class ProcessorREST(object):
     def get_all_repos(self):
         # get all repos of most stars and forks, and different languages
 
-        print("Get repos of most stars...")
-        repos_stars = get_api_repos(self.api_repo_stars)
+#        print("Get repos of most stars...")
+#        repos_stars = get_api_repos(self.api_repo_stars)
 
         print("Get repos of most forks...")
         repos_forks = get_api_repos(self.api_repo_forks)
 
         repos_languages = {}
-        for lang in languages:
-            print("Get most stars repos of {}...".format(lang))
-            repos_languages[lang] = get_api_repos(self.api_repo_stars_lang.format(lang=lang))
+#        for lang in languages:
+#            print("Get most stars repos of {}...".format(lang))
+#            repos_languages[lang] = get_api_repos(self.api_repo_stars_lang.format(lang=lang))
         return repos_stars, repos_forks, repos_languages
 
 
@@ -99,37 +70,35 @@ class ProcessorGQL(object):
 
     def __init__(self):
         self.gql_format = """query{
-            search(query: "%s", type: REPOSITORY, first: 100) {
-                edges {
-                    node {
-                        ...on Repository {
-                            id
-                            name
-                            url
-                            forkCount
-                            stargazers {
-                                totalCount
-                            }
-                            owner {
-                                login
-                            }
-                            description
-                            pushedAt
-                            primaryLanguage {
-                                name
-                            }
-                        }
-                    }
+    search(query: "%s", type: REPOSITORY, first: 100) {
+        edges {
+            node {
+                ...on Repository {
+                    name
+                    owner { login }
+                    url
+                    description
+                    createdAt
+                    updatedAt
+                    vulnerabilityAlerts { totalCount  }
+                    pullRequests { totalCount }
+                    milestones { totalCount }
+                    forkCount
+                    stargazerCount
+                    watchers {  totalCount }
+                    primaryLanguage { name }
                 }
             }
         }
-        """
+    }
+}
+ """
         self.gql_stars = self.gql_format % "stars:>1000 sort:stars"
         self.gql_forks = self.gql_format % "forks:>1000 sort:forks"
         self.gql_stars_lang = self.gql_format % "language:%s stars:>0 sort:stars"
 
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
-                    'last_commit', 'description']
+        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests',
+                    'milestones', 'issues', 'vulnerability','created', 'last_commit', 'description']
 
     @staticmethod
     def parse_gql_result(result):
@@ -140,7 +109,7 @@ class ProcessorGQL(object):
             total_issues_result = get_graphql_data(qql_issue_query_format % (repo_data['owner']['login'], repo_data['name'] ))
             res.append({
                 'name': repo_data['name'],
-                'stargazers_count': repo_data['stargazers']['totalCount'],
+                'stargazers_count': repo_data['stargazerCount'],
                 'forks_count': repo_data['forkCount'],
                 'language': repo_data['primaryLanguage']['name'] if repo_data['primaryLanguage'] is not None else None,
                 'html_url': repo_data['url'],
@@ -148,8 +117,13 @@ class ProcessorGQL(object):
                     'login': repo_data['owner']['login'],
                 },
                 'open_issues_count': total_issues_result['data']['repository']['issues']['totalCount'],
-                'pushed_at': repo_data['pushedAt'],
+                'created_at': repo_data['createdAt'],
+                'updated_at': repo_data['updatedAt'],
                 'description': repo_data['description'],
+                'vulnerabilityAlerts': repo_data['vulnerabilityAlerts']['totalCount'],
+                'pullRequests': repo_data['pullRequests']['totalCount'],
+                'milestones': repo_data['milestones']['totalCount'],
+                'watchers': repo_data['watchers']
             })
         return res
 
