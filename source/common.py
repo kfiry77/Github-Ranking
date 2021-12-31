@@ -16,7 +16,7 @@ def write_text(file_name, method, text):
 
 def write_ranking_repo(file_name, method, repos):
     # method: 'a'-append or 'w'-overwrite
-    table_head = "| Ranking | Project Name | Stars | Forks | Watcher | Language | Pull Requests | Open Issues |  Total Issues | Description | Create At | Last Commit |\n\
+    table_head = "| Ranking | Project Name | Stars | Forks | Watchers | Language | Pull Requests | Open Issues |  Total Issues | Description | Create At | Last Commit |\n\
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ------- | ------- | ------- | ------- | ------- |\n"
     with open(file_name, method, encoding='utf-8') as f:
         f.write(table_head)

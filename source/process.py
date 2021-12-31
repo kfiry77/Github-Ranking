@@ -30,8 +30,9 @@ class ProcessorGQL(object):
 
     def __init__(self):
         self.gql_format = """query{
-    search(query: "%s", type: REPOSITORY, first: 20) {
-        edges {
+    search(query: "%s", type: REPOSITORY, first:%d %s) {
+      pageInfo { endCursor }
+      edges {
             node {
                 ...on Repository {
                     name
@@ -54,16 +55,17 @@ class ProcessorGQL(object):
     }
 }
  """
-        self.gql_stars = self.gql_format % "stars:>1000 sort:stars"
-        self.gql_forks = self.gql_format % "forks:>1000 sort:forks"
-        self.gql_stars_lang = self.gql_format % "language:%s stars:>0 sort:stars"
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests', 'milestones', 'issues', 'created', 'last_commit', 'description']
+        self.bulk_size = 20
+        self.bulk_count = 5
+        self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
+        self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
+        self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
+        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username',
+                    'pullRequests', 'milestones', 'issues', 'created', 'last_commit', 'description']
 
     @staticmethod
     def parse_gql_result(result):
-
         res = []
-        qql_issue_query_format = '{repository(owner: "%s", name: "%s") { issues(states: OPEN) {totalCount } } }'
         for repo in result["data"]["search"]["edges"]:
             repo_data = repo['node']
             res.append({
@@ -86,24 +88,29 @@ class ProcessorGQL(object):
             })
         return res
 
+    def get_repos(self, qql):
+        cursor = ''
+        repos = []
+        for i in range(0, self.bulk_count):
+            repos_gql = get_graphql_data(qql % cursor)
+            cursor = ', after:"' + repos_gql["data"]["search"]["pageInfo"]["endCursor"] + '"'
+            repos += self.parse_gql_result(repos_gql)
+        return repos
+
     def get_all_repos(self):
         # get all repos of most stars and forks, and different languages
         print("Get repos of most stars...")
-        repos_stars_gql = get_graphql_data(self.gql_stars)
-        repos_stars = self.parse_gql_result(repos_stars_gql)
+        repos_stars = self.get_repos(self.gql_stars)
         print("Get repos of most stars success!")
 
         print("Get repos of most forks...")
-        repos_forks_gql = get_graphql_data(self.gql_forks)
-        repos_forks = self.parse_gql_result(repos_forks_gql)
+        repos_forks = self.get_repos(self.gql_forks)
         print("Get repos of most forks success!")
 
         repos_languages = {}
         for lang in languages:
             print("Get most stars repos of {}...".format(lang))
-            repos_languages[lang] = self.parse_gql_result(
-                get_graphql_data(self.gql_stars_lang % lang)
-            )
+            repos_languages[lang] = self.get_repos(self.gql_stars_lang % (lang, '%s'))
             print("Get most stars repos of {} success!".format(lang))
         return repos_stars, repos_forks, repos_languages
 
