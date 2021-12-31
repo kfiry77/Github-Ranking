@@ -40,7 +40,6 @@ class ProcessorGQL(object):
                     description
                     createdAt
                     updatedAt
-                    vulnerabilityAlerts { totalCount  }
                     pullRequests { totalCount }
                     milestones { totalCount }
                     forkCount
@@ -58,7 +57,7 @@ class ProcessorGQL(object):
         self.gql_stars = self.gql_format % "stars:>1000 sort:stars"
         self.gql_forks = self.gql_format % "forks:>1000 sort:forks"
         self.gql_stars_lang = self.gql_format % "language:%s stars:>0 sort:stars"
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests', 'milestones', 'issues', 'vulnerability','created', 'last_commit', 'description']
+        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username', 'pullRequests', 'milestones', 'issues', 'created', 'last_commit', 'description']
 
     @staticmethod
     def parse_gql_result(result):
@@ -81,10 +80,9 @@ class ProcessorGQL(object):
                 'created_at': repo_data['createdAt'],
                 'updated_at': repo_data['updatedAt'],
                 'description': repo_data['description'],
-                'vulnerabilityAlerts': repo_data['vulnerabilityAlerts']['totalCount'],
                 'pullRequests': repo_data['pullRequests']['totalCount'],
                 'milestones': repo_data['milestones']['totalCount'],
-                'watchers': repo_data['watchers']
+                'watchers': repo_data['watchers']['totalCount']
             })
         return res
 
@@ -116,7 +114,7 @@ class WriteFile(object):
         self.repos_forks = repos_forks
         self.repos_languages = repos_languages
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username',
-                    'pullRequests', 'milestones', 'issues', 'totalIssues', 'vulnerability',
+                    'pullRequests', 'milestones', 'issues', 'totalIssues',
                      'created', 'last_commit', 'description']
         self.repo_list = []
         self.repo_list.extend([{
@@ -188,9 +186,9 @@ class WriteFile(object):
         repos_list = []
         for idx, repo in enumerate(repos):
             repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'],
-                         repo['watchers']['totalCount'], repo['language'], repo['html_url'], repo['owner']['login'],
+                         repo['watchers'], repo['language'], repo['html_url'], repo['owner']['login'],
                          repo['pullRequests'], repo['milestones'],repo['open_issues_count'], repo['total_issues_count'],
-                         repo['vulnerabilityAlerts'], repo['created_at'], repo['updated_at'], repo['description']]
+                         repo['created_at'], repo['updated_at'], repo['description']]
             repos_list.append(repo_info)
         return pd.DataFrame(repos_list, columns=self.col)
 
