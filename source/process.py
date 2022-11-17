@@ -5,19 +5,7 @@ import pandas as pd
 from common import get_graphql_data, write_text, write_ranking_repo
 import inspect
 
-languages = ["Ruby", "C", "CSharp", "CPP", "Go", "Java", "JavaScript", "Python", "TypeScript"]
 # Escape characters in markdown like # + - etc
-languages_md = ["Ruby", "C", "C\#", "C\+\+", "Go", "Java", "JavaScript", "Python", "TypeScript"]
-table_of_contents = """
-* [C](#c)
-* [C\#](#c-1)
-* [C\+\+](#c-2)
-* [Go](#go)
-* [Java](#java)
-* [JavaScript](#javascript)
-* [Python](#python)
-* [Ruby](#ruby)
-* [TypeScript](#typeScript)"""
 
 class ProcessorGQL(object):
     """
@@ -32,8 +20,7 @@ class ProcessorGQL(object):
         self.gql_format = """query{
     search(query: "%s", type: REPOSITORY, first:%d %s) {
       pageInfo { endCursor }
-      edges {
-            node {
+            nodes {
                 ...on Repository {
                     name
                     owner { login }
@@ -51,23 +38,22 @@ class ProcessorGQL(object):
                     totalIssues: issues { totalCount }
                 }
             }
-        }
     }
 }
  """
-        self.bulk_size = 20
-        self.bulk_count = 5
-        self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
-        self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
-        self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
+        self.bulk_size = 10
+        self.bulk_count = 100
+        self.gql_stars = self.gql_format % ("stars:>0 sort:stars", self.bulk_size, "%s")
+        self.gql_forks = self.gql_format % ("forks:>0 sort:forks", self.bulk_size, "%s")
+        self.gql_stars_lang = self.gql_format % ("language:%s forks:>0 sort:forks", self.bulk_size, "%s")
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username',
                     'pullRequests', 'milestones', 'issues', 'created', 'last_commit', 'description']
 
     @staticmethod
     def parse_gql_result(result):
         res = []
-        for repo in result["data"]["search"]["edges"]:
-            repo_data = repo['node']
+        for repo in result["data"]["search"]["nodes"]:
+            repo_data = repo
             res.append({
                 'name': repo_data['name'],
                 'stargazers_count': repo_data['stargazerCount'],
@@ -93,22 +79,27 @@ class ProcessorGQL(object):
         repos = []
         for i in range(0, self.bulk_count):
             repos_gql = get_graphql_data(qql % cursor)
-            cursor = ', after:"' + repos_gql["data"]["search"]["pageInfo"]["endCursor"] + '"'
             repos += self.parse_gql_result(repos_gql)
+            if repos_gql["data"]["search"]["pageInfo"]["endCursor"] is None:
+                break
+            else:
+                cursor = ', after:"' + repos_gql["data"]["search"]["pageInfo"]["endCursor"] + '"'
         return repos
 
     def get_all_repos(self):
         # get all repos of most stars and forks, and different languages
         print("Get repos of most stars...")
-        repos_stars = self.get_repos(self.gql_stars)
+        #        repos_stars = self.get_repos(self.gql_stars)
+        repos_stars = []
         print("Get repos of most stars success!")
 
         print("Get repos of most forks...")
         repos_forks = self.get_repos(self.gql_forks)
         print("Get repos of most forks success!")
 
+        langs = {l['language'] for l in repos_forks if l['language'] is not None}
         repos_languages = {}
-        for lang in languages:
+        for lang in langs:
             print("Get most stars repos of {}...".format(lang))
             repos_languages[lang] = self.get_repos(self.gql_stars_lang % (lang, '%s'))
             print("Get most stars repos of {} success!".format(lang))
@@ -122,7 +113,7 @@ class WriteFile(object):
         self.repos_languages = repos_languages
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'watchers', 'language', 'repo_url', 'username',
                     'pullRequests', 'milestones', 'issues', 'totalIssues',
-                     'created', 'last_commit', 'description']
+                    'created', 'last_commit', 'description']
         self.repo_list = []
         self.repo_list.extend([{
             "desc": "Stars",
@@ -142,16 +133,16 @@ class WriteFile(object):
             "item": "top-100-forks",
         }])
 
-        for i in range(len(languages)):
-            lang = languages[i]
-            lang_md = languages_md[i]
+        for k,v in repos_languages.items():
+            lang = k
+            lang_md = k
             self.repo_list.append({
                 "desc": "Forks",
                 "desc_md": "Forks",
                 "title_readme": lang_md,
                 "title_100": f"Top 100 Stars in {lang_md}",
                 "file_100": f"{lang}.md",
-                "data": repos_languages[lang],
+                "data": v,
                 "item": lang,
             })
 
@@ -176,7 +167,8 @@ class WriteFile(object):
         os.makedirs('../Top100', exist_ok=True)
         for repo in self.repo_list:
             # README.md
-            title_readme, title_100, file_100, data = repo["title_readme"], repo["title_100"], repo["file_100"], repo["data"]
+            title_readme, title_100, file_100, data = repo["title_readme"], repo["title_100"], repo["file_100"], repo[
+                "data"]
             write_text('../README.md', 'a',
                        f"\n## {title_readme}\n\nThis is top 10, for more click **[{title_100}](Top100/{file_100})**\n\n")
             write_ranking_repo('../README.md', 'a', data[:10])
@@ -194,7 +186,8 @@ class WriteFile(object):
         for idx, repo in enumerate(repos):
             repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'],
                          repo['watchers'], repo['language'], repo['html_url'], repo['owner']['login'],
-                         repo['pullRequests'], repo['milestones'],repo['open_issues_count'], repo['total_issues_count'],
+                         repo['pullRequests'], repo['milestones'], repo['open_issues_count'],
+                         repo['total_issues_count'],
                          repo['created_at'], repo['updated_at'], repo['description']]
             repos_list.append(repo_info)
         return pd.DataFrame(repos_list, columns=self.col)
@@ -216,12 +209,13 @@ def run_by_gql():
     ROOT_PATH = os.path.abspath(os.path.join(__file__, "../../"))
     os.chdir(os.path.join(ROOT_PATH, 'source'))
 
-    processor = ProcessorGQL()  # use Github GraphQL API v4
+    processor = ProcessorGQL()
     repos_stars, repos_forks, repos_languages = processor.get_all_repos()
     wt_obj = WriteFile(repos_stars, repos_forks, repos_languages)
-    wt_obj.write_head_contents()
-    wt_obj.write_readme_lang_md()
+    #    wt_obj.write_head_contents()
+    #    wt_obj.write_readme_lang_md()
     wt_obj.save_to_csv()
+
 
 if __name__ == "__main__":
     t1 = datetime.now()
