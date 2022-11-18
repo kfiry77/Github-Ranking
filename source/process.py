@@ -97,7 +97,9 @@ class ProcessorGQL(object):
         repos_forks = self.get_repos(self.gql_forks)
         print("Get repos of most forks success!")
 
-        langs = {l['language'] for l in repos_forks if l['language'] is not None}
+#       langs = {l['language'] for l in repos_forks if l['language'] is not None}
+        langs = ['JavaScript', 'Java', 'Python', 'C++', 'Ruby', 'TypeScript', 'Go', 'C#']
+
         repos_languages = {}
         for lang in langs:
             print("Get most stars repos of {}...".format(lang))
