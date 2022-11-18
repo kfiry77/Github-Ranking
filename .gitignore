@@ -7,3 +7,5 @@ _site/
 .idea/
 __pycache__
 *.pyc
+/Data/sum_lang.csv
+/Data/github-ranking-unique.csv
