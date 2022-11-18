@@ -204,6 +204,7 @@ class WriteFile(object):
         save_date = datetime.utcnow().strftime("%Y-%m-%d")
         os.makedirs('../Data', exist_ok=True)
         df_all.to_csv('../Data/github-ranking-' + save_date + '.csv', index=False, encoding='utf-8')
+        df_all.to_csv('../Data/github-ranking-' + 'latest' + '.csv', index=False, encoding='utf-8')
         print('Save data to Data/github-ranking-' + save_date + '.csv')
 
 
