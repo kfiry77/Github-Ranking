@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13172 | 687 | ActionScript | 3464 | A Flash Player emulator written in Rust | 2023-10-13T01:43:09Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13176 | 687 | ActionScript | 3474 | A Flash Player emulator written in Rust | 2023-10-14T00:03:12Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7364 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6649 | 528 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-10-11T22:55:36Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2745 | 834 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
@@ -18,7 +18,7 @@
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 970 | 264 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 12 | [bfxr](https://github.com/increpare/bfxr) | 920 | 92 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 915 | 385 | ActionScript | 171 | User interface components for Starling Framework and Adobe AIR | 2023-06-22T12:10:38Z |
-| 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 809 | 190 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2023-06-23T15:44:07Z |
+| 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 810 | 190 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2023-06-23T15:44:07Z |
 | 15 | [flashls](https://github.com/mangui/flashls) | 756 | 270 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 278 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 629 | 122 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
@@ -39,7 +39,7 @@
 | 32 | [wck](https://github.com/jesses/wck) | 355 | 56 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 33 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 34 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 46 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
-| 35 | [royale-asjs](https://github.com/apache/royale-asjs) | 354 | 119 | ActionScript | 245 | Apache Royale ASJS | 2023-09-25T13:32:40Z |
+| 35 | [royale-asjs](https://github.com/apache/royale-asjs) | 354 | 119 | ActionScript | 245 | Apache Royale ASJS | 2023-10-13T11:12:16Z |
 | 36 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 353 | 32 | ActionScript | 1 | Anodyne 1 Source Code | 2023-09-23T09:10:20Z |
 | 37 | [Flare](https://github.com/prefuse/Flare) | 346 | 78 | ActionScript | 3 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 337 | 145 | ActionScript | 0 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
@@ -61,7 +61,7 @@
 | 54 | [skyui](https://github.com/schlangster/skyui) | 254 | 169 | ActionScript | 29 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 55 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 114 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 56 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 247 | 95 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
-| 57 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 246 | 45 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
+| 57 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 245 | 45 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 58 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 244 | 95 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 59 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 242 | 73 | ActionScript | 11 | HTTP Client for AS3 | 2021-11-03T03:04:15Z |
 | 60 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 241 | 54 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
