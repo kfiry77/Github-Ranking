@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13452 | 695 | ActionScript | 3584 | A Flash Player emulator written in Rust | 2023-11-01T04:22:48Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6653 | 527 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-11-01T05:56:50Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13459 | 695 | ActionScript | 3594 | A Flash Player emulator written in Rust | 2023-11-02T00:03:12Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7361 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6655 | 527 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-11-01T21:20:57Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2752 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2467 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1487 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -28,7 +28,7 @@
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 546 | 200 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 527 | 127 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 516 | 276 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
-| 24 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 514 | 67 | ActionScript | 46 | A simple music making program | 2023-09-27T22:44:02Z |
+| 24 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 515 | 67 | ActionScript | 46 | A simple music making program | 2023-09-27T22:44:02Z |
 | 25 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 475 | 39 | ActionScript | 23 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 26 | [Ash](https://github.com/richardlord/Ash) | 447 | 93 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
 | 27 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 408 | 141 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
@@ -57,7 +57,7 @@
 | 50 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 270 | 55 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 91 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 258 | 56 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
-| 53 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 258 | 126 | ActionScript | 0 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-10-15T23:58:12Z |
+| 53 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 257 | 126 | ActionScript | 0 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-10-15T23:58:12Z |
 | 54 | [skyui](https://github.com/schlangster/skyui) | 254 | 169 | ActionScript | 29 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 55 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 114 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 56 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 247 | 95 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
