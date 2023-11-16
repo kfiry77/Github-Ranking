@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 378013 | 34797 | TypeScript | 210 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2023-11-15T08:14:04Z |
-| 2 | [vscode](https://github.com/microsoft/vscode) | 152896 | 27452 | TypeScript | 8242 | Visual Studio Code | 2023-11-15T09:50:11Z |
-| 3 | [code-server](https://github.com/coder/code-server) | 62883 | 5273 | TypeScript | 303 | VS Code in the browser | 2023-11-14T22:44:21Z |
-| 4 | [nest](https://github.com/nestjs/nest) | 60952 | 7206 | TypeScript | 39 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 | 2023-11-15T08:38:15Z |
-| 5 | [redux](https://github.com/reduxjs/redux) | 60060 | 15470 | TypeScript | 38 | Predictable state container for JavaScript apps | 2023-11-15T08:00:03Z |
-| 6 | [supabase](https://github.com/supabase/supabase) | 59326 | 5312 | TypeScript | 314 | The open source Firebase alternative. | 2023-11-15T09:52:12Z |
-| 7 | [echarts](https://github.com/apache/echarts) | 57038 | 19606 | TypeScript | 2255 | Apache ECharts is a powerful, interactive charting and data visualization library for browser | 2023-11-08T07:26:32Z |
-| 8 | [playwright](https://github.com/microsoft/playwright) | 56565 | 3137 | TypeScript | 757 | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  | 2023-11-15T01:52:05Z |
-| 9 | [nuxt](https://github.com/nuxt/nuxt) | 48423 | 4543 | TypeScript | 900 | The Intuitive Vue Framework. | 2023-11-15T03:49:33Z |
-| 10 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 45765 | 29652 | TypeScript | 716 | The repository for high quality TypeScript type definitions. | 2023-11-15T08:47:14Z |
-| 11 | [jest](https://github.com/jestjs/jest) | 42944 | 6529 | TypeScript | 349 | Delightful JavaScript Testing. | 2023-11-15T08:28:39Z |
-| 12 | [babel](https://github.com/babel/babel) | 42621 | 5826 | TypeScript | 610 | 🐠 Babel is a compiler for writing next generation JavaScript. | 2023-11-15T00:38:19Z |
-| 13 | [styled-components](https://github.com/styled-components/styled-components) | 39680 | 2514 | TypeScript | 215 | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 | 2023-11-14T17:48:36Z |
-| 14 | [joplin](https://github.com/laurent22/joplin) | 39409 | 4222 | TypeScript | 301 | Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. | 2023-11-15T07:15:38Z |
-| 15 | [vuetify](https://github.com/vuetifyjs/vuetify) | 38295 | 6931 | TypeScript | 653 | 🐉 Vue Component Framework | 2023-11-15T04:30:15Z |
-| 16 | [astro](https://github.com/withastro/astro) | 37002 | 1926 | TypeScript | 114 | The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! | 2023-11-15T08:11:37Z |
-| 17 | [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 35100 | 8103 | TypeScript | 395 | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | 2023-11-10T23:22:47Z |
-| 18 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 33048 | 5239 | TypeScript | 473 | 一个基于 electron 的音乐软件 | 2023-11-11T05:59:48Z |
-| 19 | [novu](https://github.com/novuhq/novu) | 30726 | 3380 | TypeScript | 279 | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | 2023-11-15T10:01:57Z |
-| 20 | [graphql-engine](https://github.com/hasura/graphql-engine) | 30469 | 2736 | TypeScript | 2064 | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. | 2023-11-13T23:28:16Z |
-| 21 | [mobx](https://github.com/mobxjs/mobx) | 26824 | 1784 | TypeScript | 38 | Simple, scalable state management. | 2023-11-14T20:47:44Z |
-| 22 | [etcher](https://github.com/balena-io/etcher) | 26654 | 1987 | TypeScript | 357 | Flash OS images to SD cards & USB drives, safely and easily. | 2023-11-15T08:58:25Z |
-| 23 | [angular-cli](https://github.com/angular/angular-cli) | 26273 | 12138 | TypeScript | 264 | CLI tool for Angular | 2023-11-15T10:04:14Z |
-| 24 | [editor.js](https://github.com/codex-team/editor.js) | 24888 | 1893 | TypeScript | 495 | A block-style editor with clean JSON output | 2023-11-08T20:57:10Z |
-| 25 | [directus](https://github.com/directus/directus) | 23724 | 3244 | TypeScript | 312 | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. | 2023-11-14T20:46:21Z |
-| 26 | [react-redux](https://github.com/reduxjs/react-redux) | 23016 | 3384 | TypeScript | 21 | Official React bindings for Redux | 2023-11-14T02:56:18Z |
-| 27 | [react-navigation](https://github.com/react-navigation/react-navigation) | 22852 | 4989 | TypeScript | 669 | Routing and navigation for your React Native apps | 2023-11-14T21:45:36Z |
-| 28 | [table](https://github.com/TanStack/table) | 22848 | 2928 | TypeScript | 147 | 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table | 2023-11-09T19:26:23Z |
-| 29 | [sweetalert](https://github.com/t4t5/sweetalert) | 22308 | 2940 | TypeScript | 163 | A beautiful replacement for JavaScript's "alert" | 2023-04-15T22:54:03Z |
-| 30 | [refined-github](https://github.com/refined-github/refined-github) | 22120 | 1501 | TypeScript | 115 | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | 2023-11-15T06:54:51Z |
-| 31 | [tiptap](https://github.com/ueberdosis/tiptap) | 21933 | 1893 | TypeScript | 316 | The headless editor framework for web artisans. | 2023-11-11T17:14:29Z |
-| 32 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | 21646 | 3286 | TypeScript | 89 | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. | 2023-11-14T23:45:50Z |
-| 33 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | 21572 | 2363 | TypeScript | 360 | Switch hosts quickly! | 2023-11-11T12:31:49Z |
-| 34 | [immich](https://github.com/immich-app/immich) | 20928 | 874 | TypeScript | 195 | Self-hosted photo and video backup solution directly from your mobile phone. | 2023-11-15T06:36:21Z |
-| 35 | [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 20697 | 1944 | TypeScript | 38 | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  | 2023-10-20T14:33:27Z |
-| 36 | [motion](https://github.com/framer/motion) | 20489 | 670 | TypeScript | 330 | Open source, production-ready animation and gesture library for React | 2023-11-15T04:43:55Z |
-| 37 | [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | 19984 | 2195 | TypeScript | 17 | Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed. | 2023-11-15T02:20:22Z |
-| 38 | [squoosh](https://github.com/GoogleChromeLabs/squoosh) | 19897 | 1388 | TypeScript | 120 | Make images smaller using best-in-class codecs, right in the browser. | 2023-11-03T20:24:45Z |
-| 39 | [next-auth](https://github.com/nextauthjs/next-auth) | 19766 | 2449 | TypeScript | 237 | Authentication for the Web. | 2023-11-15T03:16:32Z |
-| 40 | [driver.js](https://github.com/kamranahmedse/driver.js) | 19608 | 943 | TypeScript | 17 | A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page | 2023-11-10T18:12:36Z |
-| 41 | [aws-cdk](https://github.com/aws/aws-cdk) | 10719 | 3536 | TypeScript | 1884 | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code | 2023-11-15T09:52:02Z |
-| 42 | [cvat](https://github.com/opencv/cvat) | 10383 | 2588 | TypeScript | 479 | Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. | 2023-11-15T10:02:24Z |
-| 43 | [comlink](https://github.com/GoogleChromeLabs/comlink) | 10377 | 383 | TypeScript | 64 | Comlink makes WebWorkers enjoyable. | 2023-11-10T13:36:43Z |
-| 44 | [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | 9889 | 952 | TypeScript | 134 | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | 2023-11-07T16:31:20Z |
-| 45 | [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) | 9826 | 508 | TypeScript | 5 | Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more. | 2023-11-04T14:36:29Z |
-| 46 | [signature_pad](https://github.com/szimek/signature_pad) | 9667 | 2019 | TypeScript | 7 | HTML5 canvas based smooth signature drawing | 2023-11-14T15:11:51Z |
-| 47 | [rsschool-app](https://github.com/rolling-scopes/rsschool-app) | 9644 | 197 | TypeScript | 80 | An application for the RS School education process | 2023-11-15T08:12:55Z |
-| 48 | [spectacle](https://github.com/FormidableLabs/spectacle) | 9607 | 740 | TypeScript | 59 | A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. | 2023-11-06T14:22:03Z |
-| 49 | [patch-package](https://github.com/ds300/patch-package) | 9492 | 265 | TypeScript | 187 | Fix broken node modules instantly  🏃🏽‍♀️💨 | 2023-09-11T16:43:26Z |
-| 50 | [llama-gpt](https://github.com/getumbrel/llama-gpt) | 9310 | 568 | TypeScript | 59 | A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! | 2023-11-06T14:00:42Z |
-| 51 | [satori](https://github.com/vercel/satori) | 9150 | 216 | TypeScript | 56 | Enlightened library to convert HTML and CSS to SVG | 2023-11-06T15:25:55Z |
-| 52 | [oclif](https://github.com/oclif/oclif) | 8611 | 305 | TypeScript | 68 | CLI for generating, building, and releasing oclif CLIs. Built by Salesforce. | 2023-11-14T17:38:23Z |
-| 53 | [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) | 8597 | 1041 | TypeScript | 3 | Clean Code concepts adapted for TypeScript | 2023-10-30T00:10:22Z |
-| 54 | [graphql-playground](https://github.com/graphql/graphql-playground) | 8591 | 740 | TypeScript | 339 | 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) | 2023-09-19T20:27:07Z |
-| 55 | [react-pdf](https://github.com/wojtekmaj/react-pdf) | 7946 | 802 | TypeScript | 22 | Display PDFs in your React app as easily as if they were images. | 2023-11-08T11:49:04Z |
-| 56 | [valtio](https://github.com/pmndrs/valtio) | 7691 | 223 | TypeScript | 4 | 💊 Valtio makes proxy-state simple  for React and Vanilla | 2023-11-14T12:44:17Z |
-| 57 | [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | 7622 | 1062 | TypeScript | 5 | An interactive TypeScript tutorial for beginners | 2023-09-24T23:11:59Z |
-| 58 | [changesets](https://github.com/changesets/changesets) | 7149 | 464 | TypeScript | 300 | 🦋       A way to manage your versioning and changelogs with a focus on monorepos | 2023-11-09T22:44:25Z |
-| 59 | [ethers.js](https://github.com/ethers-io/ethers.js) | 7134 | 1750 | TypeScript | 340 | Complete Ethereum library and wallet implementation in JavaScript. | 2023-11-15T02:47:34Z |
-| 60 | [kittenTricks](https://github.com/akveo/kittenTricks) | 7041 | 1018 | TypeScript | 17 | React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications. | 2023-03-17T17:33:16Z |
-| 61 | [verdaccio](https://github.com/verdaccio/verdaccio) | 15404 | 1366 | TypeScript | 58 | 📦🔐 A lightweight Node.js private proxy registry | 2023-11-14T11:23:10Z |
-| 62 | [graphiql](https://github.com/graphql/graphiql) | 15356 | 1760 | TypeScript | 308 | GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools. | 2023-11-05T11:38:48Z |
-| 63 | [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | 15246 | 2053 | TypeScript | 55 | Node.js client for the official ChatGPT API. 🔥 | 2023-11-13T12:25:23Z |
-| 64 | [amis](https://github.com/baidu/amis) | 15203 | 2206 | TypeScript | 862 | 前端低代码框架，通过 JSON 配置就能生成各种页面。 | 2023-11-15T09:35:56Z |
-| 65 | [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) | 15123 | 988 | TypeScript | 44 | Organize world's knowledge, explore connections and curate learning paths | 2023-11-15T10:01:37Z |
-| 66 | [react-sketchapp](https://github.com/airbnb/react-sketchapp) | 14971 | 900 | TypeScript | 30 | render React components to Sketch ⚛️💎 | 2023-03-04T02:16:59Z |
-| 67 | [deskreen](https://github.com/pavlobu/deskreen) | 14881 | 811 | TypeScript | 85 | Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! | 2023-03-21T16:26:40Z |
-| 68 | [rrweb](https://github.com/rrweb-io/rrweb) | 14752 | 1284 | TypeScript | 156 | record and replay the web | 2023-11-13T18:59:24Z |
-| 69 | [gitmoji](https://github.com/carloscuesta/gitmoji) | 14666 | 803 | TypeScript | 9 | An emoji guide for your commit messages. 😜  | 2023-11-13T18:05:30Z |
-| 70 | [umi](https://github.com/umijs/umi) | 14570 | 2624 | TypeScript | 118 | A framework in react community ✨ | 2023-11-15T04:08:21Z |
-| 71 | [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | 14197 | 1597 | TypeScript | 678 | Run compilers interactively from your web browser and interact with the assembly | 2023-11-14T23:26:04Z |
-| 72 | [truffle](https://github.com/trufflesuite/truffle) | 14013 | 2387 | TypeScript | 507 | :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years. | 2023-11-10T18:09:35Z |
-| 73 | [motion-canvas](https://github.com/motion-canvas/motion-canvas) | 13998 | 540 | TypeScript | 59 | Visualize Your Ideas With Code | 2023-11-14T20:41:12Z |
-| 74 | [msw](https://github.com/mswjs/msw) | 13749 | 436 | TypeScript | 70 | Seamless REST/GraphQL API mocking library for browser and Node.js. | 2023-11-14T23:18:49Z |
-| 75 | [got](https://github.com/sindresorhus/got) | 13567 | 982 | TypeScript | 100 | 🌐 Human-friendly and powerful HTTP request library for Node.js | 2023-10-29T07:49:56Z |
-| 76 | [hls.js](https://github.com/video-dev/hls.js) | 13560 | 2527 | TypeScript | 162 | HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. | 2023-11-15T01:00:32Z |
-| 77 | [chartist](https://github.com/chartist-js/chartist) | 13279 | 2602 | TypeScript | 197 | Simple responsive charts | 2023-11-01T15:55:58Z |
-| 78 | [chromeless](https://github.com/schickling/chromeless) | 13240 | 606 | TypeScript | 172 | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. | 2018-11-13T02:23:55Z |
-| 79 | [create-react-native-app](https://github.com/expo/create-react-native-app) | 13181 | 1450 | TypeScript | 15 | Create React Native apps that run on iOS, Android, and web | 2023-05-30T18:50:22Z |
-| 80 | [siyuan](https://github.com/siyuan-note/siyuan) | 13007 | 980 | TypeScript | 74 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | 2023-11-15T03:00:46Z |
-| 81 | [lowcode-engine](https://github.com/alibaba/lowcode-engine) | 12642 | 2210 | TypeScript | 443 | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 | 2023-11-15T08:49:13Z |
-| 82 | [primitives](https://github.com/radix-ui/primitives) | 12445 | 540 | TypeScript | 310 | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. | 2023-11-14T19:44:03Z |
-| 83 | [ioredis](https://github.com/redis/ioredis) | 12404 | 1073 | TypeScript | 252 | 🚀 A robust, performance-focused, and full-featured Redis client for Node.js. | 2023-11-06T16:34:41Z |
-| 84 | [type-fest](https://github.com/sindresorhus/type-fest) | 12340 | 472 | TypeScript | 163 | A collection of essential TypeScript types | 2023-11-15T09:28:17Z |
-| 85 | [crystal](https://github.com/graphile/crystal) | 12237 | 574 | TypeScript | 60 | 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! | 2023-11-13T17:35:23Z |
-| 86 | [ts-node](https://github.com/TypeStrong/ts-node) | 12219 | 524 | TypeScript | 158 | TypeScript execution and REPL for node.js | 2023-10-18T20:05:14Z |
-| 87 | [mean](https://github.com/linnovate/mean) | 12152 | 3506 | TypeScript | 7 | The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications | 2023-09-04T14:31:42Z |
-| 88 | [nivo](https://github.com/plouc/nivo) | 12029 | 983 | TypeScript | 87 | nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries | 2023-11-14T14:42:03Z |
-| 89 | [stencil](https://github.com/ionic-team/stencil) | 12024 | 767 | TypeScript | 355 | A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase. | 2023-11-14T22:25:04Z |
-| 90 | [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) | 11980 | 1406 | TypeScript | 157 | A powerful obfuscator for JavaScript and Node.js | 2023-11-10T22:39:10Z |
-| 91 | [framework](https://github.com/aurelia/framework) | 11753 | 671 | TypeScript | 51 | The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia. | 2023-01-27T11:32:58Z |
-| 92 | [react-toastify](https://github.com/fkhadra/react-toastify) | 11612 | 640 | TypeScript | 72 | React notification made easy 🚀 ! | 2023-11-03T13:49:52Z |
-| 93 | [react-native-paper](https://github.com/callstack/react-native-paper) | 11488 | 1998 | TypeScript | 103 | Material Design for React Native (Android & iOS) | 2023-11-14T14:13:52Z |
-| 94 | [fresh](https://github.com/denoland/fresh) | 11453 | 544 | TypeScript | 148 | The next-gen web framework. | 2023-11-15T09:50:42Z |
-| 95 | [vercel](https://github.com/vercel/vercel) | 11438 | 2043 | TypeScript | 211 | Develop. Preview. Ship. | 2023-11-15T00:47:37Z |
-| 96 | [botpress](https://github.com/botpress/botpress) | 11277 | 1618 | TypeScript | 3 | The open-source hub to build & deploy GPT/LLM Agents ⚡️ | 2023-11-14T22:12:48Z |
-| 97 | [ext-saladict](https://github.com/crimx/ext-saladict) | 11242 | 699 | TypeScript | 616 | 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. | 2023-11-10T10:01:29Z |
-| 98 | [barba](https://github.com/barbajs/barba) | 11138 | 493 | TypeScript | 3 | Create badass, fluid and smooth transitions between your website’s pages. | 2023-11-01T22:48:04Z |
-| 99 | [tui.calendar](https://github.com/nhn/tui.calendar) | 11138 | 1282 | TypeScript | 168 | 🍞📅A JavaScript calendar that has everything you need. | 2023-10-16T20:00:21Z |
-| 100 | [noodle](https://github.com/noodle-run/noodle) | 11026 | 843 | TypeScript | 10 | Open Source Education Platform | 2023-11-08T22:32:02Z |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 378052 | 34808 | TypeScript | 209 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2023-11-16T08:11:44Z |
+| 2 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 257543 | 35491 | TypeScript | 608 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2023-11-16T06:55:40Z |
+| 3 | [vscode](https://github.com/microsoft/vscode) | 152922 | 27460 | TypeScript | 8214 | Visual Studio Code | 2023-11-16T09:45:15Z |
+| 4 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 101652 | 13006 | TypeScript | 23 | 💯 Curated coding interview preparation materials for busy software engineers | 2023-11-03T06:28:31Z |
+| 5 | [TypeScript](https://github.com/microsoft/TypeScript) | 95194 | 12326 | TypeScript | 5608 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2023-11-16T09:54:39Z |
+| 6 | [ant-design](https://github.com/ant-design/ant-design) | 88239 | 42872 | TypeScript | 937 | An enterprise-class UI design language and React UI library | 2023-11-16T09:31:16Z |
+| 7 | [realworld](https://github.com/gothinkster/realworld) | 76818 | 7109 | TypeScript | 53 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more | 2023-11-13T17:25:14Z |
+| 8 | [code-server](https://github.com/coder/code-server) | 62901 | 5279 | TypeScript | 304 | VS Code in the browser | 2023-11-14T22:44:21Z |
+| 9 | [vite](https://github.com/vitejs/vite) | 60982 | 5463 | TypeScript | 337 | Next generation frontend tooling. It's fast! | 2023-11-16T09:59:57Z |
+| 10 | [nest](https://github.com/nestjs/nest) | 60975 | 7207 | TypeScript | 40 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 | 2023-11-16T08:05:41Z |
+| 11 | [socket.io](https://github.com/socketio/socket.io) | 59300 | 10235 | TypeScript | 86 | Realtime application framework (Node.JS server) | 2023-10-18T00:09:05Z |
+| 12 | [excalidraw](https://github.com/excalidraw/excalidraw) | 58040 | 5129 | TypeScript | 1073 | Virtual whiteboard for sketching hand-drawn like diagrams | 2023-11-16T08:33:10Z |
+| 13 | [echarts](https://github.com/apache/echarts) | 57063 | 19605 | TypeScript | 2254 | Apache ECharts is a powerful, interactive charting and data visualization library for browser | 2023-11-16T09:51:20Z |
+| 14 | [playwright](https://github.com/microsoft/playwright) | 56598 | 3138 | TypeScript | 667 | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  | 2023-11-16T04:06:18Z |
+| 15 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 56527 | 3926 | TypeScript | 214 | 👽 Open source API development ecosystem - https://hoppscotch.io | 2023-11-16T09:45:26Z |
+| 16 | [superset](https://github.com/apache/superset) | 55190 | 11747 | TypeScript | 1358 | Apache Superset is a Data Visualization and Data Exploration Platform | 2023-11-16T08:10:05Z |
+| 17 | [tabby](https://github.com/Eugeny/tabby) | 52184 | 3134 | TypeScript | 1600 | A terminal for a more modern age | 2023-11-15T22:01:25Z |
+| 18 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 49975 | 45163 | TypeScript | 29 | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 | 2023-11-16T07:47:41Z |
+| 19 | [ionic-framework](https://github.com/ionic-team/ionic-framework) | 49801 | 13727 | TypeScript | 397 | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. | 2023-11-16T06:07:02Z |
+| 20 | [docusaurus](https://github.com/facebook/docusaurus) | 49356 | 7569 | TypeScript | 254 | Easy to maintain open source documentation websites. | 2023-11-15T22:29:12Z |
+| 21 | [core](https://github.com/vuejs/core) | 41296 | 7562 | TypeScript | 680 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2023-11-16T09:50:53Z |
+| 22 | [styled-components](https://github.com/styled-components/styled-components) | 39688 | 2515 | TypeScript | 215 | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 | 2023-11-16T06:18:53Z |
+| 23 | [nocodb](https://github.com/nocodb/nocodb) | 38571 | 2552 | TypeScript | 400 | 🔥 🔥 🔥 Open Source Airtable Alternative | 2023-11-16T08:12:42Z |
+| 24 | [vuetify](https://github.com/vuetifyjs/vuetify) | 38307 | 6937 | TypeScript | 656 | 🐉 Vue Component Framework | 2023-11-16T04:08:03Z |
+| 25 | [type-challenges](https://github.com/type-challenges/type-challenges) | 37203 | 4001 | TypeScript | 27003 | Collection of TypeScript type challenges with online judge | 2023-11-14T00:04:05Z |
+| 26 | [astro](https://github.com/withastro/astro) | 37015 | 1925 | TypeScript | 115 | The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! | 2023-11-16T02:03:46Z |
+| 27 | [ui](https://github.com/shadcn-ui/ui) | 35272 | 1776 | TypeScript | 628 | Beautifully designed components built with Radix UI and Tailwind CSS. | 2023-11-16T03:42:29Z |
+| 28 | [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 35106 | 8103 | TypeScript | 398 | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | 2023-11-10T23:22:47Z |
+| 29 | [chakra-ui](https://github.com/chakra-ui/chakra-ui) | 34908 | 3080 | TypeScript | 202 | ⚡️ Simple, Modular & Accessible UI Components for your React Applications | 2023-11-14T20:30:33Z |
+| 30 | [prisma](https://github.com/prisma/prisma) | 34748 | 1357 | TypeScript | 2854 | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB | 2023-11-16T09:24:20Z |
+| 31 | [nativefier](https://github.com/nativefier/nativefier) | 34401 | 2174 | TypeScript | 256 | Make any web page a desktop application | 2023-09-29T13:45:16Z |
+| 32 | [taro](https://github.com/NervJS/taro) | 33846 | 4785 | TypeScript | 1036 | 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/ | 2023-11-16T08:18:01Z |
+| 33 | [formik](https://github.com/jaredpalmer/formik) | 33019 | 2751 | TypeScript | 670 | Build forms in React, without the tears 😭  | 2023-11-14T18:18:07Z |
+| 34 | [novu](https://github.com/novuhq/novu) | 30741 | 3381 | TypeScript | 281 | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 | 2023-11-16T09:43:27Z |
+| 35 | [trpc](https://github.com/trpc/trpc) | 29828 | 1069 | TypeScript | 87 | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | 2023-11-16T09:18:14Z |
+| 36 | [rxjs](https://github.com/ReactiveX/rxjs) | 29616 | 3040 | TypeScript | 208 | A reactive programming library for JavaScript | 2023-11-15T15:45:32Z |
+| 37 | [solid](https://github.com/solidjs/solid) | 29449 | 826 | TypeScript | 54 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2023-11-07T17:57:09Z |
+| 38 | [html2canvas](https://github.com/niklasvh/html2canvas) | 29037 | 4790 | TypeScript | 883 | Screenshots with JavaScript | 2023-11-14T13:04:15Z |
+| 39 | [slidev](https://github.com/slidevjs/slidev) | 28932 | 1129 | TypeScript | 46 | Presentation Slides for Developers | 2023-11-16T10:04:11Z |
+| 40 | [postcss](https://github.com/postcss/postcss) | 27909 | 1593 | TypeScript | 18 | Transforming styles with JS plugins | 2023-10-18T01:01:29Z |
+| 41 | [rxjs](https://github.com/ReactiveX/rxjs) | 29616 | 3040 | TypeScript | 208 | A reactive programming library for JavaScript | 2023-11-15T15:45:32Z |
+| 42 | [solid](https://github.com/solidjs/solid) | 29449 | 826 | TypeScript | 54 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2023-11-07T17:57:09Z |
+| 43 | [html2canvas](https://github.com/niklasvh/html2canvas) | 29037 | 4790 | TypeScript | 883 | Screenshots with JavaScript | 2023-11-14T13:04:15Z |
+| 44 | [slidev](https://github.com/slidevjs/slidev) | 28932 | 1129 | TypeScript | 46 | Presentation Slides for Developers | 2023-11-16T10:04:11Z |
+| 45 | [swr](https://github.com/vercel/swr) | 28379 | 1146 | TypeScript | 69 | React Hooks for Data Fetching | 2023-11-13T02:54:23Z |
+| 46 | [postcss](https://github.com/postcss/postcss) | 27909 | 1593 | TypeScript | 18 | Transforming styles with JS plugins | 2023-10-18T01:01:29Z |
+| 47 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 27463 | 9004 | TypeScript | 103 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 2023-11-15T14:39:09Z |
+| 48 | [floating-ui](https://github.com/floating-ui/floating-ui) | 27119 | 1559 | TypeScript | 14 | A JavaScript library to position floating elements and create interactions for them. | 2023-11-15T22:09:34Z |
+| 49 | [mobx](https://github.com/mobxjs/mobx) | 26824 | 1784 | TypeScript | 38 | Simple, scalable state management. | 2023-11-14T20:47:44Z |
+| 50 | [mattermost](https://github.com/mattermost/mattermost) | 26812 | 6591 | TypeScript | 663 | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. | 2023-11-16T09:44:11Z |
+| 51 | [zod](https://github.com/colinhacks/zod) | 26782 | 907 | TypeScript | 255 | TypeScript-first schema validation with static type inference | 2023-11-13T19:33:40Z |
+| 52 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | 26769 | 863 | TypeScript | 48 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | 2023-11-16T10:02:20Z |
+| 53 | [react-select](https://github.com/JedWatson/react-select) | 26739 | 4094 | TypeScript | 283 | The Select Component for React.js | 2023-11-14T07:56:02Z |
+| 54 | [etcher](https://github.com/balena-io/etcher) | 26658 | 1988 | TypeScript | 358 | Flash OS images to SD cards & USB drives, safely and easily. | 2023-11-15T15:33:51Z |
+| 55 | [react-spring](https://github.com/pmndrs/react-spring) | 26634 | 1179 | TypeScript | 86 | ✌️ A spring physics based React animation library | 2023-11-16T06:45:47Z |
+| 56 | [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 26489 | 1482 | TypeScript | 42 | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. | 2023-11-15T03:45:47Z |
+| 57 | [angular-cli](https://github.com/angular/angular-cli) | 26274 | 12139 | TypeScript | 259 | CLI tool for Angular | 2023-11-16T04:00:18Z |
+| 58 | [remix](https://github.com/remix-run/remix) | 25460 | 2125 | TypeScript | 147 | Build Better Websites. Create modern, resilient user experiences with web fundamentals. | 2023-11-16T02:04:19Z |
+| 59 | [editor.js](https://github.com/codex-team/editor.js) | 24899 | 1894 | TypeScript | 496 | A block-style editor with clean JSON output | 2023-11-15T17:56:39Z |
+| 60 | [ngx-admin](https://github.com/akveo/ngx-admin) | 24786 | 7882 | TypeScript | 410 | Customizable admin dashboard template based on Angular 10+ | 2023-11-08T03:05:10Z |
+| 61 | [expo](https://github.com/expo/expo) | 24530 | 4391 | TypeScript | 359 | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. | 2023-11-16T09:55:16Z |
+| 62 | [quivr](https://github.com/StanGirard/quivr) | 24262 | 2628 | TypeScript | 112 |  🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs  | 2023-11-16T10:05:03Z |
+| 63 | [backstage](https://github.com/backstage/backstage) | 24075 | 4739 | TypeScript | 397 | Backstage is an open platform for building developer portals | 2023-11-16T09:59:06Z |
+| 64 | [devtools](https://github.com/vuejs/devtools) | 24008 | 4166 | TypeScript | 451 | ⚙️ Browser devtools extension for debugging Vue.js applications. | 2023-11-09T00:51:40Z |
+| 65 | [components](https://github.com/angular/components) | 23768 | 6624 | TypeScript | 1813 | Component infrastructure and Material Design components for Angular | 2023-11-16T01:11:41Z |
+| 66 | [directus](https://github.com/directus/directus) | 23736 | 3248 | TypeScript | 310 | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. | 2023-11-16T10:04:47Z |
+| 67 | [coc.nvim](https://github.com/neoclide/coc.nvim) | 23458 | 977 | TypeScript | 28 | Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers. | 2023-11-14T06:26:06Z |
+| 68 | [AFFiNE](https://github.com/toeverything/AFFiNE) | 23420 | 1654 | TypeScript | 259 | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  | 2023-11-16T09:42:46Z |
+| 69 | [docz](https://github.com/doczjs/docz) | 23402 | 1496 | TypeScript | 108 | ✍ It has never been so easy to document your things! | 2023-09-30T19:48:39Z |
+| 70 | [NativeScript](https://github.com/NativeScript/NativeScript) | 23174 | 1685 | TypeScript | 847 | ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible. | 2023-11-15T09:22:50Z |
+| 71 | [react-admin](https://github.com/marmelab/react-admin) | 23131 | 5084 | TypeScript | 75 | A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design | 2023-11-16T09:51:38Z |
+| 72 | [react-redux](https://github.com/reduxjs/react-redux) | 23017 | 3384 | TypeScript | 21 | Official React bindings for Redux | 2023-11-16T04:25:49Z |
+| 73 | [tldraw](https://github.com/tldraw/tldraw) | 22947 | 1275 | TypeScript | 176 | a very good whiteboard | 2023-11-16T09:28:40Z |
+| 74 | [headlessui](https://github.com/tailwindlabs/headlessui) | 22683 | 937 | TypeScript | 7 | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. | 2023-11-04T14:09:22Z |
+| 75 | [intro.js](https://github.com/usablica/intro.js) | 22291 | 2634 | TypeScript | 49 | Lightweight, user-friendly onboarding tour library | 2023-11-09T13:43:20Z |
+| 76 | [mantine](https://github.com/mantinedev/mantine) | 22185 | 1568 | TypeScript | 49 | A fully featured React components library | 2023-11-16T08:23:43Z |
+| 77 | [vant](https://github.com/youzan/vant) | 22133 | 9538 | TypeScript | 32 | A lightweight, customizable Vue UI library for mobile web apps. | 2023-11-13T15:48:00Z |
+| 78 | [refined-github](https://github.com/refined-github/refined-github) | 22123 | 1501 | TypeScript | 118 | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | 2023-11-16T06:05:24Z |
+| 79 | [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) | 22083 | 3766 | TypeScript | 93 | A Foundation for Scalable Cross-Platform Apps | 2023-10-08T03:29:52Z |
+| 80 | [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | 22021 | 3609 | TypeScript | 127 | Bootstrap components built with React | 2023-11-08T12:59:36Z |
+| 81 | [recharts](https://github.com/recharts/recharts) | 21403 | 1625 | TypeScript | 503 | Redefined chart library built with React and D3 | 2023-11-16T06:59:40Z |
+| 82 | [create-t3-app](https://github.com/t3-oss/create-t3-app) | 21208 | 923 | TypeScript | 28 | The best way to start a full-stack, typesafe Next.js app  | 2023-11-15T20:57:00Z |
+| 83 | [outline](https://github.com/outline/outline) | 20999 | 1763 | TypeScript | 75 | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | 2023-11-16T04:31:21Z |
+| 84 | [generator-jhipster](https://github.com/jhipster/generator-jhipster) | 20973 | 4040 | TypeScript | 193 | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | 2023-11-16T09:00:29Z |
+| 85 | [jitsi-meet](https://github.com/jitsi/jitsi-meet) | 20630 | 6360 | TypeScript | 198 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | 2023-11-16T10:01:23Z |
+| 86 | [medusa](https://github.com/medusajs/medusa) | 20509 | 1759 | TypeScript | 232 | Building blocks for digital commerce | 2023-11-16T09:56:28Z |
+| 87 | [nx](https://github.com/nrwl/nx) | 20207 | 2053 | TypeScript | 681 | Smart, Fast and Extensible Build System | 2023-11-16T09:11:42Z |
+| 88 | [blueprint](https://github.com/palantir/blueprint) | 20157 | 2144 | TypeScript | 641 | A React-based UI toolkit for the web | 2023-11-16T01:14:59Z |
+| 89 | [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | 19987 | 2194 | TypeScript | 17 | Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed. | 2023-11-15T02:20:22Z |
+| 90 | [NativeBase](https://github.com/GeekyAnts/NativeBase) | 19783 | 2431 | TypeScript | 258 | Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web. | 2023-11-15T08:30:10Z |
+| 91 | [budibase](https://github.com/Budibase/budibase) | 19371 | 1269 | TypeScript | 484 | Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡   | 2023-11-16T09:48:41Z |
+| 92 | [upscayl](https://github.com/upscayl/upscayl) | 19336 | 801 | TypeScript | 16 | 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. | 2023-11-11T13:33:30Z |
+| 93 | [upterm](https://github.com/railsware/upterm) | 19313 | 648 | TypeScript | 219 | A terminal emulator for the 21st century. | 2019-05-20T17:42:14Z |
+| 94 | [apollo-client](https://github.com/apollographql/apollo-client) | 19014 | 2623 | TypeScript | 469 | :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server. | 2023-11-16T08:17:17Z |
+| 95 | [grapesjs](https://github.com/GrapesJS/grapesjs) | 19004 | 3643 | TypeScript | 10 | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | 2023-11-08T20:50:21Z |
+| 96 | [reselect](https://github.com/reduxjs/reselect) | 18977 | 709 | TypeScript | 21 | Selector library for Redux | 2023-11-16T04:28:33Z |
+| 97 | [theia](https://github.com/eclipse-theia/theia) | 18530 | 2451 | TypeScript | 1331 | Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. | 2023-11-14T18:48:50Z |
+| 98 | [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 18502 | 5528 | TypeScript | 350 | An open source ChatGPT UI. | 2023-11-14T19:59:47Z |
+| 99 | [xyflow](https://github.com/xyflow/xyflow) | 18484 | 1224 | TypeScript | 106 | React Flow \| Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. | 2023-11-15T18:06:52Z |
+| 100 | [sst](https://github.com/sst/sst) | 18282 | 1534 | TypeScript | 666 | Build modern full-stack applications on AWS | 2023-11-16T08:13:45Z |
 
