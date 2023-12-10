@@ -5,14 +5,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13610 | 712 | ActionScript | 3688 | A Flash Player emulator written in Rust | 2023-12-09T09:31:42Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13616 | 712 | ActionScript | 3688 | A Flash Player emulator written in Rust | 2023-12-10T01:23:12Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7365 | 142 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6669 | 537 | ActionScript | 27 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-12-08T22:33:31Z |
-| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2759 | 838 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6669 | 537 | ActionScript | 28 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-12-10T02:31:23Z |
+| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2760 | 838 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2470 | 1123 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 468 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1324 | 522 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
-| 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1290 | 212 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
+| 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1292 | 212 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 9 | [flixel](https://github.com/AdamAtomic/flixel) | 1124 | 198 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 10 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 210 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 968 | 266 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
@@ -58,7 +58,7 @@
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 93 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 52 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 259 | 125 | ActionScript | 0 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-12-04T09:18:37Z |
 | 53 | [Flint](https://github.com/richardlord/Flint) | 258 | 57 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
-| 54 | [skyui](https://github.com/schlangster/skyui) | 256 | 169 | ActionScript | 30 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
+| 54 | [skyui](https://github.com/schlangster/skyui) | 256 | 170 | ActionScript | 30 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 55 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 115 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 56 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 247 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 57 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 247 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
