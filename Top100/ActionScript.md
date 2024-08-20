@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7359 | 115 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7359 | 115 | ActionScript | 27 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6922 | 555 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-08-09T18:52:41Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2834 | 819 | ActionScript | 71 | The Cross Platform Game Engine | 2024-07-25T07:39:07Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2492 | 1108 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
@@ -13,7 +13,7 @@
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1332 | 512 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1300 | 210 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1132 | 193 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
-| 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1056 | 201 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2023-12-19T17:01:37Z |
+| 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 201 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2023-12-19T17:01:37Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 966 | 261 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 11 | [bfxr](https://github.com/increpare/bfxr) | 962 | 90 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 386 | ActionScript | 171 | User interface components for Starling Framework and Adobe AIR | 2024-07-31T21:06:16Z |
@@ -22,7 +22,7 @@
 | 15 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 642 | 123 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 640 | 275 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2024-06-03T14:06:14Z |
 | 17 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 617 | 176 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
-| 18 | [emulator](https://github.com/nesbox/emulator) | 594 | 246 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 18 | [emulator](https://github.com/nesbox/emulator) | 594 | 245 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 579 | 71 | ActionScript | 50 | A simple music making program | 2024-07-11T20:05:39Z |
 | 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 549 | 196 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 21 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 549 | 231 | ActionScript | 65 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
@@ -86,7 +86,7 @@
 | 79 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 178 | 94 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
 | 80 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 177 | 93 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
 | 81 | [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) | 175 | 36 | ActionScript | 10 | A RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS | 2017-07-08T01:07:49Z |
-| 82 | [books](https://github.com/zengfeng/books) | 174 | 93 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
+| 82 | [books](https://github.com/zengfeng/books) | 174 | 94 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 83 | [GPUImage](https://github.com/inspirit/GPUImage) | 170 | 31 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 84 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 167 | 52 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
 | 85 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 166 | 100 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
