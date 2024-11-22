@@ -8,10 +8,10 @@ date
 cd /home/kfiry/Github-Ranking
 git pull
 source .venv/bin/activate
-#python3 source/process.py
+python3 source/process.py
 deactivate
 git add .
 today=`date +"%Y-%m-%d"`
 git commit -m "auto update $today"
-#git push origin master
+git push origin master
 
