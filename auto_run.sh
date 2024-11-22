@@ -7,7 +7,7 @@ echo -e "\n----------Run Time:----------"
 date
 cd /home/kfiry/Github-Ranking
 git pull
-source ./venv/bin/activate
+source .venv/bin/activate
 #python3 source/process.py
 git add .
 today=`date +"%Y-%m-%d"`
