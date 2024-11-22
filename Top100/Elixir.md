@@ -9,18 +9,18 @@
 | 2 | [phoenix](https://github.com/phoenixframework/phoenix) | 21447 | 2875 | Elixir | 30 | Peace of mind from prototype to production | 2024-11-19T20:56:07Z |
 | 3 | [analytics](https://github.com/plausible/analytics) | 20515 | 1094 | Elixir | 16 | Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2024-11-21T21:08:01Z |
 | 4 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 12686 | 1176 | Elixir | 1 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2024-09-17T09:27:52Z |
-| 5 | [firezone](https://github.com/firezone/firezone) | 6857 | 286 | Elixir | 331 | Enterprise-ready zero-trust access platform built on WireGuard®. | 2024-11-22T05:37:26Z |
+| 5 | [firezone](https://github.com/firezone/firezone) | 6858 | 286 | Elixir | 331 | Enterprise-ready zero-trust access platform built on WireGuard®. | 2024-11-22T05:37:26Z |
 | 6 | [realtime](https://github.com/supabase/realtime) | 6825 | 315 | Elixir | 39 | Broadcast, Presence, and Postgres Changes via WebSockets | 2024-11-22T11:04:39Z |
-| 7 | [electric](https://github.com/electric-sql/electric) | 6468 | 156 | Elixir | 96 | Sync little subsets of your Postgres data into local apps and services. | 2024-11-22T16:08:55Z |
+| 7 | [electric](https://github.com/electric-sql/electric) | 6468 | 156 | Elixir | 96 | Sync little subsets of your Postgres data into local apps and services. | 2024-11-22T17:54:28Z |
 | 8 | [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6231 | 934 | Elixir | 31 | Rich, real-time user experiences with server-rendered HTML | 2024-11-21T08:29:14Z |
 | 9 | [ecto](https://github.com/elixir-ecto/ecto) | 6196 | 1436 | Elixir | 4 | A toolkit for data mapping and language integrated query. | 2024-11-15T18:38:31Z |
-| 10 | [teslamate](https://github.com/teslamate-org/teslamate) | 6035 | 750 | Elixir | 25 | A self-hosted data logger for your Tesla  🚘 | 2024-11-21T15:31:52Z |
+| 10 | [teslamate](https://github.com/teslamate-org/teslamate) | 6036 | 750 | Elixir | 25 | A self-hosted data logger for your Tesla  🚘 | 2024-11-21T15:31:52Z |
 | 11 | [papercups](https://github.com/papercups-io/papercups) | 5762 | 522 | Elixir | 155 | Open-source live customer chat | 2024-02-15T05:21:47Z |
-| 12 | [livebook](https://github.com/livebook-dev/livebook) | 4989 | 427 | Elixir | 16 | Automate code & data workflows with interactive Elixir notebooks | 2024-11-22T13:26:25Z |
+| 12 | [livebook](https://github.com/livebook-dev/livebook) | 4989 | 427 | Elixir | 16 | Automate code & data workflows with interactive Elixir notebooks | 2024-11-22T18:06:20Z |
 | 13 | [credo](https://github.com/rrrene/credo) | 4935 | 419 | Elixir | 9 | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | 2024-11-20T20:20:58Z |
 | 14 | [elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | 4367 | 299 | Elixir | 8 | A community driven style guide for Elixir | 2024-05-10T03:55:51Z |
 | 15 | [absinthe](https://github.com/absinthe-graphql/absinthe) | 4290 | 527 | Elixir | 53 | The GraphQL toolkit for Elixir | 2024-11-21T13:13:17Z |
-| 16 | [blockscout](https://github.com/blockscout/blockscout) | 3636 | 2430 | Elixir | 375 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2024-11-22T16:49:27Z |
+| 16 | [blockscout](https://github.com/blockscout/blockscout) | 3636 | 2430 | Elixir | 376 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2024-11-22T16:49:27Z |
 | 17 | [guardian](https://github.com/ueberauth/guardian) | 3443 | 381 | Elixir | 1 | Elixir Authentication | 2024-10-09T22:45:23Z |
 | 18 | [oban](https://github.com/oban-bg/oban) | 3366 | 313 | Elixir | 6 | 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3 | 2024-11-20T18:15:52Z |
 | 19 | [30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) | 3035 | 431 | Elixir | 0 | A walk through the Elixir language in 30 exercises. | 2022-04-13T18:14:27Z |

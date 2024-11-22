@@ -44,7 +44,7 @@
 | 37 | [js2coffee](https://github.com/js2coffee/js2coffee) | 2082 | 199 | CoffeeScript | 85 | Compile JavaScript to CoffeeScript | 2023-11-13T11:44:31Z |
 | 38 | [QuoJS](https://github.com/soyjavi/QuoJS) | 2070 | 234 | CoffeeScript | 23 | Micro #JavaScript Library for Mobile Devices | 2018-09-03T00:16:56Z |
 | 39 | [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui) | 2011 | 1159 | CoffeeScript | 0 | Shadowsocks GUI client | 2018-09-24T04:39:12Z |
-| 40 | [local_time](https://github.com/basecamp/local_time) | 1908 | 125 | CoffeeScript | 2 | Rails engine for cache-friendly, client-side local time | 2024-09-26T15:46:31Z |
+| 40 | [local_time](https://github.com/basecamp/local_time) | 1909 | 125 | CoffeeScript | 2 | Rails engine for cache-friendly, client-side local time | 2024-09-26T15:46:31Z |
 | 41 | [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) | 1840 | 111 | CoffeeScript | 91 | :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility | 2022-07-19T20:35:10Z |
 | 42 | [camo](https://github.com/atmos/camo) | 1810 | 371 | CoffeeScript | 17 | :lock: an http proxy to route images through SSL | 2021-04-04T19:59:16Z |
 | 43 | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) | 1793 | 234 | CoffeeScript | 98 | Token based authentication module for angular.js. | 2022-12-06T18:43:58Z |

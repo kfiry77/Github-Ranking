@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cloc](https://github.com/AlDanial/cloc) | 19713 | 1021 | Perl | 27 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2024-11-18T05:50:44Z |
+| 1 | [cloc](https://github.com/AlDanial/cloc) | 19714 | 1021 | Perl | 27 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2024-11-18T05:50:44Z |
 | 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 17420 | 1971 | Perl | 116 | Stack trace visualizer | 2024-10-20T21:48:45Z |
 | 3 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 17392 | 335 | Perl | 26 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2024-09-18T20:56:17Z |
 | 4 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 8979 | 1287 | Perl | 31 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2024-11-14T18:13:55Z |
@@ -55,10 +55,10 @@
 | 48 | [the-bastion](https://github.com/ovh/the-bastion) | 1533 | 88 | Perl | 38 | Authentication, authorization, traceability and auditability for SSH accesses. | 2024-10-23T12:15:50Z |
 | 49 | [ack2](https://github.com/beyondgrep/ack2) | 1478 | 140 | Perl | 0 | **ack 2 is no longer being maintained.  ack 3 is the latest version.** | 2019-03-19T14:41:58Z |
 | 50 | [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | 1476 | 501 | Perl | 54 | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part | 2020-08-14T16:15:37Z |
-| 51 | [checkinpanel](https://github.com/OreosLab/checkinpanel) | 1424 | 356 | Perl | 29 | 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5） | 2023-08-11T03:21:58Z |
+| 51 | [checkinpanel](https://github.com/OreosLab/checkinpanel) | 1423 | 356 | Perl | 29 | 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5） | 2023-08-11T03:21:58Z |
 | 52 | [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) | 1422 | 349 | Perl | 3 | Advanced dork Search & Mass Exploit Scanner | 2024-08-10T19:25:05Z |
 | 53 | [SmokePing](https://github.com/oetiker/SmokePing) | 1398 | 184 | Perl | 5 | The Active Monitoring System | 2024-08-19T07:08:35Z |
-| 54 | [packetfence](https://github.com/inverse-inc/packetfence) | 1387 | 291 | Perl | 663 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks. | 2024-11-22T16:49:43Z |
+| 54 | [packetfence](https://github.com/inverse-inc/packetfence) | 1387 | 291 | Perl | 662 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks. | 2024-11-22T17:27:26Z |
 | 55 | [backuppc](https://github.com/backuppc/backuppc) | 1380 | 186 | Perl | 162 | BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk. | 2024-07-26T12:23:29Z |
 | 56 | [openkore](https://github.com/OpenKore/openkore) | 1289 | 1044 | Perl | 130 | A free/open source client and automation tool for Ragnarok Online | 2024-11-05T23:34:21Z |
 | 57 | [evilgrade](https://github.com/infobyte/evilgrade) | 1284 | 281 | Perl | 11 | Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates. | 2021-09-01T17:08:27Z |
@@ -89,14 +89,14 @@
 | 82 | [xcode_shell](https://github.com/webfrogs/xcode_shell) | 1039 | 399 | Perl | 0 | shell script that used to auto-build xcode project | 2019-09-07T22:35:37Z |
 | 83 | [ora2pg](https://github.com/darold/ora2pg) | 1026 | 341 | Perl | 89 | Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL. | 2024-11-18T16:34:45Z |
 | 84 | [broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) | 1009 | 144 | Perl | 13 | Repository for various Broadcom Bluetooth firmware | 2024-02-15T13:34:42Z |
-| 85 | [dotdotpwn](https://github.com/wireghoul/dotdotpwn) | 990 | 178 | Perl | 2 | DotDotPwn - The Directory Traversal Fuzzer | 2022-09-28T02:51:18Z |
+| 85 | [dotdotpwn](https://github.com/wireghoul/dotdotpwn) | 990 | 177 | Perl | 2 | DotDotPwn - The Directory Traversal Fuzzer | 2022-09-28T02:51:18Z |
 | 86 | [asbru-cm](https://github.com/asbru-cm/asbru-cm) | 985 | 135 | Perl | 100 | Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks. | 2024-10-11T08:51:22Z |
 | 87 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 981 | 1757 | Perl | 0 | DuckDuckGo Instant Answers based on Perl & JavaScript | 2022-10-14T17:08:10Z |
 | 88 | [swaks](https://github.com/jetmore/swaks) | 966 | 87 | Perl | 36 | Swaks - Swiss Army Knife for SMTP | 2024-03-05T20:16:42Z |
 | 89 | [sysadmin-util](https://github.com/skx/sysadmin-util) | 957 | 111 | Perl | 0 | Tools for Linux/Unix sysadmins. | 2020-03-30T06:57:46Z |
 | 90 | [LaTeXML](https://github.com/brucemiller/LaTeXML) | 957 | 101 | Perl | 205 | LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. | 2024-11-20T15:12:20Z |
 | 91 | [code2ebook](https://github.com/agentzh/code2ebook) | 954 | 132 | Perl | 0 | Generate pretty ebooks in various formats from source trees in various programming languages | 2019-08-01T22:23:11Z |
-| 92 | [rt](https://github.com/bestpractical/rt) | 953 | 257 | Perl | 0 | Request Tracker, an enterprise-grade issue tracking system | 2024-11-22T15:19:37Z |
+| 92 | [rt](https://github.com/bestpractical/rt) | 953 | 257 | Perl | 0 | Request Tracker, an enterprise-grade issue tracking system | 2024-11-22T17:56:23Z |
 | 93 | [authentic-theme](https://github.com/webmin/authentic-theme) | 947 | 163 | Perl | 6 | Official theme for the best server management panel of the 21st Century | 2024-11-20T10:55:10Z |
 | 94 | [gdown.pl](https://github.com/circulosmeos/gdown.pl) | 936 | 196 | Perl | 5 | Google Drive direct download of big files | 2023-05-12T22:49:54Z |
 | 95 | [lm-sensors](https://github.com/lm-sensors/lm-sensors) | 925 | 272 | Perl | 212 | lm-sensors repository | 2024-06-01T14:05:14Z |

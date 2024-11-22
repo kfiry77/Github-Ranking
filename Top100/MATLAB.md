@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9985 | 1404 | MATLAB | 29 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2021-08-02T01:07:44Z |
-| 2 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 6974 | 1854 | MATLAB | 333 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2024-06-01T00:44:07Z |
+| 2 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 6973 | 1854 | MATLAB | 333 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2024-06-01T00:44:07Z |
 | 3 | [PRMLT](https://github.com/PRML/PRMLT) | 6030 | 2159 | MATLAB | 0 | Matlab code of machine learning algorithms in book PRML | 2020-03-04T13:50:30Z |
 | 4 | [vrn](https://github.com/AaronJackson/vrn) | 4512 | 746 | MATLAB | 6 | :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression" | 2022-07-26T00:06:01Z |
 | 5 | [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 3923 | 524 | MATLAB | 0 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." | 2024-11-19T07:54:07Z |
@@ -21,7 +21,7 @@
 | 14 | [OpenTLD](https://github.com/zk00006/OpenTLD) | 2092 | 1272 | MATLAB | 33 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html | 2022-05-18T19:06:49Z |
 | 15 | [Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) | 1913 | 667 | MATLAB | 0 | Matlab Coding homework for Machine Learning | 2020-04-28T02:45:57Z |
 | 16 | [CAM](https://github.com/zhoubolei/CAM) | 1844 | 467 | MATLAB | 20 | Class Activation Mapping | 2022-09-13T14:02:02Z |
-| 17 | [MCM-ICM](https://github.com/dick20/MCM-ICM) | 1674 | 318 | MATLAB | 1 | 2004-2020美赛O奖论文 | 2024-04-09T09:04:33Z |
+| 17 | [MCM-ICM](https://github.com/dick20/MCM-ICM) | 1675 | 318 | MATLAB | 1 | 2004-2020美赛O奖论文 | 2024-04-09T09:04:33Z |
 | 18 | [PlatEMO](https://github.com/BIMK/PlatEMO) | 1637 | 469 | MATLAB | 73 | Evolutionary multi-objective optimization platform | 2024-11-15T14:15:35Z |
 | 19 | [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 1570 | 318 | MATLAB | 247 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. | 2023-10-23T16:48:16Z |
 | 20 | [awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement) | 1484 | 217 | MATLAB | 0 | This is a resouce list for low light image enhancement | 2024-10-15T01:48:05Z |

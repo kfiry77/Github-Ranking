@@ -9,7 +9,7 @@
 | 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25059 | 5962 | Objective-C | 90 | Asynchronous image downloader with cache support as a UIImageView category | 2024-11-01T11:16:08Z |
 | 3 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22363 | 3614 | Objective-C | 897 | A plugin for Mac WeChat | 2023-07-19T14:53:21Z |
 | 4 | [GPUImage](https://github.com/BradLarson/GPUImage) | 20250 | 4614 | Objective-C | 910 | An open source iOS framework for GPU-based image and video processing | 2024-02-16T22:29:30Z |
-| 5 | [TrollStore](https://github.com/opa334/TrollStore) | 18496 | 1124 | Objective-C | 43 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2024-09-02T11:28:18Z |
+| 5 | [TrollStore](https://github.com/opa334/TrollStore) | 18498 | 1124 | Objective-C | 43 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2024-09-02T11:28:18Z |
 | 6 | [Masonry](https://github.com/SnapKit/Masonry) | 18055 | 3148 | Objective-C | 126 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 2023-04-13T18:23:56Z |
 | 7 | [realm-swift](https://github.com/realm/realm-swift) | 16335 | 2147 | Objective-C | 414 | Realm is a mobile database: a replacement for Core Data & SQLite | 2024-11-17T23:28:11Z |
 | 8 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 16012 | 3555 | Objective-C | 78 | MBProgressHUD + Customizations | 2024-08-14T01:48:59Z |
@@ -32,7 +32,7 @@
 | 25 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 12089 | 1732 | Objective-C | 166 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display | 2022-07-06T08:08:53Z |
 | 26 | [iCarousel](https://github.com/nicklockwood/iCarousel) | 12005 | 2577 | Objective-C | 366 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | 2024-06-27T05:43:24Z |
 | 27 | [darling](https://github.com/darlinghq/darling) | 11553 | 447 | Objective-C | 300 | Darwin/macOS emulation layer for Linux | 2024-11-13T23:20:09Z |
-| 28 | [GitUp](https://github.com/git-up/GitUp) | 11532 | 1280 | Objective-C | 353 | The Git interface you've been missing all your life has finally arrived. | 2024-08-07T15:07:23Z |
+| 28 | [GitUp](https://github.com/git-up/GitUp) | 11533 | 1280 | Objective-C | 353 | The Git interface you've been missing all your life has finally arrived. | 2024-08-07T15:07:23Z |
 | 29 | [JSPatch](https://github.com/bang590/JSPatch) | 11364 | 2236 | Objective-C | 104 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App. | 2020-12-01T02:18:35Z |
 | 30 | [WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) | 11356 | 1391 | Objective-C | 134 | A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 | 2024-08-01T03:37:21Z |
 | 31 | [Mantle](https://github.com/Mantle/Mantle) | 11322 | 1483 | Objective-C | 0 | Model framework for Cocoa and Cocoa Touch | 2022-10-18T09:40:02Z |
@@ -71,7 +71,7 @@
 | 64 | [Easydict](https://github.com/tisfeng/Easydict) | 7385 | 371 | Objective-C | 76 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.  | 2024-11-21T12:55:39Z |
 | 65 | [KVOController](https://github.com/facebookarchive/KVOController) | 7344 | 923 | Objective-C | 7 | Simple, modern, thread-safe key-value observing for iOS and OS X. | 2020-01-25T04:18:28Z |
 | 66 | [DateTools](https://github.com/MatthewYork/DateTools) | 7222 | 949 | Objective-C | 73 | Dates and times made easy in iOS | 2024-08-21T17:55:53Z |
-| 67 | [three20](https://github.com/facebookarchive/three20) | 7215 | 1479 | Objective-C | 0 | Three20 is an Objective-C library for iPhone developers | 2017-05-02T06:05:12Z |
+| 67 | [three20](https://github.com/facebookarchive/three20) | 7214 | 1479 | Objective-C | 0 | Three20 is an Objective-C library for iPhone developers | 2017-05-02T06:05:12Z |
 | 68 | [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) | 7192 | 732 | Objective-C | 28 | UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users | 2023-04-17T14:38:05Z |
 | 69 | [Dash-iOS](https://github.com/Kapeli/Dash-iOS) | 7135 | 924 | Objective-C | 37 | Dash for iOS was discontinued. Please check out Dash for macOS instead. | 2021-03-28T15:29:00Z |
 | 70 | [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | 7131 | 1271 | Objective-C | 135 | An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application) | 2021-05-20T14:43:51Z |

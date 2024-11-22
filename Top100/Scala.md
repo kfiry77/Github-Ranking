@@ -5,26 +5,26 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 62424 | 12154 | Scala | 244 | Source code for Twitter's Recommendation Algorithm | 2024-07-10T07:07:01Z |
-| 2 | [spark](https://github.com/apache/spark) | 40005 | 28331 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2024-11-22T11:22:42Z |
+| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 62425 | 12154 | Scala | 244 | Source code for Twitter's Recommendation Algorithm | 2024-07-10T07:07:01Z |
+| 2 | [spark](https://github.com/apache/spark) | 40006 | 28333 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2024-11-22T11:22:42Z |
 | 3 | [prisma1](https://github.com/prisma/prisma1) | 16538 | 862 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
-| 4 | [lila](https://github.com/lichess-org/lila) | 15710 | 2282 | Scala | 1000 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2024-11-22T16:20:01Z |
+| 4 | [lila](https://github.com/lichess-org/lila) | 15710 | 2282 | Scala | 989 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2024-11-22T17:40:21Z |
 | 5 | [scala](https://github.com/scala/scala) | 14352 | 3116 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2024-11-22T15:28:21Z |
 | 6 | [akka](https://github.com/akka/akka) | 13058 | 3592 | Scala | 858 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. | 2024-11-22T10:03:56Z |
 | 7 | [playframework](https://github.com/playframework/playframework) | 12559 | 4098 | Scala | 397 | The Community Maintained High Velocity Web Framework For Java and Scala. | 2024-11-20T22:15:54Z |
 | 8 | [predictionio](https://github.com/apache/predictionio) | 12544 | 1927 | Scala | 0 | PredictionIO, a machine learning server for developers and ML engineers. | 2021-01-09T10:30:58Z |
-| 9 | [CMAK](https://github.com/yahoo/CMAK) | 11838 | 2505 | Scala | 497 | CMAK is a tool for managing Apache Kafka clusters | 2023-08-02T19:26:23Z |
+| 9 | [CMAK](https://github.com/yahoo/CMAK) | 11838 | 2504 | Scala | 497 | CMAK is a tool for managing Apache Kafka clusters | 2023-08-02T19:26:23Z |
 | 10 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 11156 | 550 | Scala | 258 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2024-05-04T09:49:38Z |
 | 11 | [gitbucket](https://github.com/gitbucket/gitbucket) | 9164 | 1250 | Scala | 329 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | 2024-11-20T21:36:53Z |
-| 12 | [finagle](https://github.com/twitter/finagle) | 8793 | 1455 | Scala | 58 | A fault tolerant, protocol-agnostic RPC system | 2024-11-21T19:11:03Z |
+| 12 | [finagle](https://github.com/twitter/finagle) | 8793 | 1455 | Scala | 58 | A fault tolerant, protocol-agnostic RPC system | 2024-11-22T17:17:32Z |
 | 13 | [snowflake](https://github.com/twitter-archive/snowflake) | 7676 | 1134 | Scala | 2 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. | 2020-07-22T18:08:14Z |
 | 14 | [delta](https://github.com/delta-io/delta) | 7620 | 1712 | Scala | 588 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2024-11-18T22:37:37Z |
-| 15 | [enso](https://github.com/enso-org/enso) | 7386 | 323 | Scala | 735 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2024-11-22T16:48:07Z |
+| 15 | [enso](https://github.com/enso-org/enso) | 7386 | 323 | Scala | 735 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2024-11-22T17:19:12Z |
 | 16 | [snowplow](https://github.com/snowplow/snowplow) | 6849 | 1188 | Scala | 57 | The leader in Next-Generation Customer Data Infrastructure | 2024-09-02T14:31:11Z |
 | 17 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6733 | 290 | Scala | 69 | Arnold Schwarzenegger based programming language | 2024-01-31T22:40:52Z |
 | 18 | [openwhisk](https://github.com/apache/openwhisk) | 6546 | 1166 | Scala | 389 | Apache OpenWhisk is an open source serverless cloud platform | 2024-10-21T16:14:14Z |
 | 19 | [gatling](https://github.com/gatling/gatling) | 6478 | 1196 | Scala | 38 | Modern Load Testing as Code | 2024-11-21T23:26:20Z |
-| 20 | [scala3](https://github.com/scala/scala3) | 5880 | 1058 | Scala | 1425 | The Scala 3 compiler, also known as Dotty. | 2024-11-22T13:17:47Z |
+| 20 | [scala3](https://github.com/scala/scala3) | 5880 | 1058 | Scala | 1424 | The Scala 3 compiler, also known as Dotty. | 2024-11-22T17:22:29Z |
 | 21 | [frontend](https://github.com/guardian/frontend) | 5845 | 556 | Scala | 112 | The Guardian DotCom. | 2024-11-22T16:53:34Z |
 | 22 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5700 | 3046 | Scala | 79 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2024-09-03T21:03:49Z |
 | 23 | [linkerd](https://github.com/linkerd/linkerd) | 5331 | 504 | Scala | 134 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2023-03-04T18:59:40Z |

@@ -5,21 +5,21 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [winutil](https://github.com/ChrisTitusTech/winutil) | 24592 | 1494 | PowerShell | 158 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2024-11-16T15:32:42Z |
+| 1 | [winutil](https://github.com/ChrisTitusTech/winutil) | 24596 | 1494 | PowerShell | 158 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2024-11-16T15:32:42Z |
 | 2 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 21316 | 1410 | PowerShell | 244 | A command-line installer for Windows. | 2024-10-11T06:20:43Z |
-| 3 | [core](https://github.com/dotnet/core) | 21017 | 4907 | PowerShell | 320 | .NET news, announcements, release notes, and more! | 2024-11-20T19:46:58Z |
+| 3 | [core](https://github.com/dotnet/core) | 21019 | 4907 | PowerShell | 320 | .NET news, announcements, release notes, and more! | 2024-11-20T19:46:58Z |
 | 4 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18213 | 2046 | PowerShell | 284 | Script to remove Windows 10 bloatware. | 2023-03-10T04:15:01Z |
 | 5 | [WSL](https://github.com/microsoft/WSL) | 17501 | 822 | PowerShell | 1092 | Issues found on WSL | 2024-11-19T14:21:43Z |
-| 6 | [Atlas](https://github.com/Atlas-OS/Atlas) | 14272 | 529 | PowerShell | 23 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 2024-10-13T18:23:57Z |
-| 7 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 14198 | 614 | PowerShell | 25 | A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11. | 2024-11-11T22:30:41Z |
+| 6 | [Atlas](https://github.com/Atlas-OS/Atlas) | 14271 | 529 | PowerShell | 23 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 2024-10-13T18:23:57Z |
+| 7 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 14201 | 614 | PowerShell | 25 | A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11. | 2024-11-11T22:30:41Z |
 | 8 | [SpotX](https://github.com/SpotX-Official/SpotX) | 14138 | 773 | PowerShell | 4 | SpotX patcher used for patching the desktop version of Spotify | 2024-11-20T06:44:58Z |
 | 9 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 11937 | 4614 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
-| 10 | [tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 10267 | 876 | PowerShell | 87 | Scripts to build a trimmed-down Windows 11 image. | 2024-11-17T19:45:03Z |
+| 10 | [tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 10271 | 877 | PowerShell | 87 | Scripts to build a trimmed-down Windows 11 image. | 2024-11-17T19:45:03Z |
 | 11 | [runner-images](https://github.com/actions/runner-images) | 10216 | 3072 | PowerShell | 88 | GitHub Actions runner images | 2024-11-22T15:26:38Z |
-| 12 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 9914 | 1734 | PowerShell | 71 | Six Degrees of Domain Admin | 2024-06-28T14:31:41Z |
+| 12 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 9916 | 1734 | PowerShell | 71 | Six Degrees of Domain Admin | 2024-06-28T14:31:41Z |
 | 13 | [blazor](https://github.com/dotnet/blazor) | 9332 | 648 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
 | 14 | [nishang](https://github.com/samratashok/nishang) | 8804 | 2449 | PowerShell | 16 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2024-04-25T19:39:44Z |
-| 15 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 8740 | 4559 | PowerShell | 857 | The Microsoft community Windows Package Manager manifest repository | 2024-11-22T15:56:36Z |
+| 15 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 8740 | 4559 | PowerShell | 858 | The Microsoft community Windows Package Manager manifest repository | 2024-11-22T15:56:36Z |
 | 16 | [Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 7783 | 581 | PowerShell | 0 | :zap: The most powerful PowerShell module for fine-tuning Windows | 2024-11-18T16:45:24Z |
 | 17 | [posh-git](https://github.com/dahlbyk/posh-git) | 7705 | 802 | PowerShell | 79 | A PowerShell environment for Git | 2024-09-02T15:03:06Z |
 | 18 | [Empire](https://github.com/EmpireProject/Empire) | 7461 | 2821 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
@@ -42,7 +42,7 @@
 | 35 | [RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | 4065 | 1063 | PowerShell | 9 | Red Teaming Tactics and Techniques | 2024-08-22T07:17:31Z |
 | 36 | [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) | 3752 | 766 | PowerShell | 11 | PowerShell Obfuscator | 2023-08-10T23:49:06Z |
 | 37 | [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | 3648 | 4041 | PowerShell | 2 | AZ-104 Microsoft Azure Administrator | 2024-11-14T16:17:02Z |
-| 38 | [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) | 3539 | 399 | PowerShell | 18 | Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process. | 2024-11-22T06:41:23Z |
+| 38 | [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) | 3540 | 400 | PowerShell | 18 | Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process. | 2024-11-22T06:41:23Z |
 | 39 | [win10script](https://github.com/ChrisTitusTech/win10script) | 3494 | 1049 | PowerShell | 0 | This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  | 2022-06-24T03:57:47Z |
 | 40 | [discover](https://github.com/leebaird/discover) | 3446 | 825 | PowerShell | 2 | Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | 2024-10-04T00:53:42Z |
 | 41 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 3339 | 517 | PowerShell | 2 | Automation for internal Windows Penetrationtest / AD-Security | 2024-01-29T13:11:05Z |
@@ -53,7 +53,7 @@
 | 46 | [Thanos.sh](https://github.com/hotvulcan/Thanos.sh) | 2921 | 289 | PowerShell | 46 | if you are Thanos(root), this command could delete half your files randomly | 2022-06-27T09:16:53Z |
 | 47 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2803 | 344 | PowerShell | 138 | [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows. | 2017-03-03T15:02:50Z |
 | 48 | [OSCP](https://github.com/0xsyr0/OSCP) | 2796 | 576 | PowerShell | 0 | OSCP Cheat Sheet | 2024-11-14T21:05:57Z |
-| 49 | [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) | 2690 | 5114 | PowerShell | 1698 | The source for REST API specifications for Microsoft Azure. | 2024-11-22T15:34:20Z |
+| 49 | [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) | 2690 | 5114 | PowerShell | 1698 | The source for REST API specifications for Microsoft Azure. | 2024-11-22T17:11:41Z |
 | 50 | [sysmon-modular](https://github.com/olafhartong/sysmon-modular) | 2664 | 592 | PowerShell | 32 | A repository of sysmon configuration modules | 2024-08-21T12:08:06Z |
 | 51 | [bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) | 2649 | 1463 | PowerShell | 19 | The Official Bash Bunny Payload Repository | 2024-10-02T17:53:00Z |
 | 52 | [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | 2614 | 766 | PowerShell | 7 | My musings with PowerShell | 2021-11-19T12:18:24Z |
@@ -92,7 +92,7 @@
 | 85 | [Extras](https://github.com/ScoopInstaller/Extras) | 1803 | 1380 | PowerShell | 542 | 📦 The Extras bucket for Scoop. | 2024-11-22T16:33:13Z |
 | 86 | [DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) | 1786 | 377 | PowerShell | 12 | DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS! | 2024-07-11T18:18:57Z |
 | 87 | [windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) | 1763 | 392 | PowerShell | 28 | Scripts to simplify setting up a Windows developer box | 2024-02-02T23:15:52Z |
-| 88 | [ScubaGear](https://github.com/cisagov/ScubaGear) | 1759 | 226 | PowerShell | 181 | Automation to assess the state of your M365 tenant against CISA's baselines | 2024-11-22T16:20:01Z |
+| 88 | [ScubaGear](https://github.com/cisagov/ScubaGear) | 1759 | 226 | PowerShell | 181 | Automation to assess the state of your M365 tenant against CISA's baselines | 2024-11-22T18:08:13Z |
 | 89 | [bloatbox](https://github.com/builtbybel/bloatbox) | 1752 | 104 | PowerShell | 21 | ☑️🌠 Remove Bloatwares from Windows 10 | 2024-02-07T12:38:48Z |
 | 90 | [PSKoans](https://github.com/vexx32/PSKoans) | 1725 | 176 | PowerShell | 39 | A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing. | 2024-09-03T22:08:21Z |
 | 91 | [Enterprise-Scale](https://github.com/Azure/Enterprise-Scale) | 1725 | 980 | PowerShell | 77 | The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture | 2024-11-21T09:22:24Z |
@@ -102,7 +102,7 @@
 | 95 | [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) | 1675 | 148 | PowerShell | 14 | Install/uninstall scripts for Windows Terminal context menu items | 2024-05-08T01:41:44Z |
 | 96 | [packer-windows](https://github.com/joefitzgerald/packer-windows) | 1635 | 1123 | PowerShell | 35 | Windows Packer Templates | 2019-08-05T14:35:46Z |
 | 97 | [EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs) | 1631 | 1963 | PowerShell | 535 | Documentation for Entity Framework Core and Entity Framework 6 | 2024-11-22T11:40:37Z |
-| 98 | [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) | 1626 | 502 | PowerShell | 425 | Manages, configures, extracts and monitors Microsoft 365 tenant configurations | 2024-11-22T14:56:36Z |
+| 98 | [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) | 1626 | 502 | PowerShell | 424 | Manages, configures, extracts and monitors Microsoft 365 tenant configurations | 2024-11-22T17:27:41Z |
 | 99 | [Security-Datasets](https://github.com/OTRF/Security-Datasets) | 1605 | 239 | PowerShell | 6 | Re-play Security Events | 2024-03-20T20:19:19Z |
 | 100 | [Main](https://github.com/ScoopInstaller/Main) | 1599 | 970 | PowerShell | 106 | 📦 The default bucket for Scoop. | 2024-11-22T16:30:57Z |
 

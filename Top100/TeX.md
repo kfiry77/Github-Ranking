@@ -17,9 +17,9 @@
 | 10 | [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) | 11016 | 594 | TeX | 40 | Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source | 2024-10-20T14:27:37Z |
 | 11 | [resume](https://github.com/billryan/resume) | 9302 | 2612 | TeX | 27 | An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git | 2024-03-15T08:48:48Z |
 | 12 | [MathModel](https://github.com/zhanwen/MathModel) | 8298 | 2134 | TeX | 19 | 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT | 2024-09-30T13:00:30Z |
-| 13 | [lkmpg](https://github.com/sysprog21/lkmpg) | 7680 | 523 | TeX | 17 | The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) | 2024-11-12T22:00:59Z |
-| 14 | [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) | 7476 | 1269 | TeX | 9 | Classical equations and diagrams in machine learning | 2024-07-30T22:02:41Z |
-| 15 | [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) | 6528 | 597 | TeX | 0 | A curated list of awesome neural radiance fields papers | 2024-10-29T08:24:44Z |
+| 13 | [lkmpg](https://github.com/sysprog21/lkmpg) | 7679 | 523 | TeX | 17 | The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) | 2024-11-12T22:00:59Z |
+| 14 | [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) | 7476 | 1268 | TeX | 9 | Classical equations and diagrams in machine learning | 2024-07-30T22:02:41Z |
+| 15 | [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) | 6529 | 597 | TeX | 0 | A curated list of awesome neural radiance fields papers | 2024-10-29T08:24:44Z |
 | 16 | [mtheme](https://github.com/matze/mtheme) | 6433 | 846 | TeX | 81 | A modern LaTeX Beamer theme | 2022-11-23T10:26:55Z |
 | 17 | [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) | 6237 | 968 | TeX | 105 | A pandoc LaTeX template to convert markdown files to PDF or LaTeX. | 2024-10-03T12:38:00Z |
 | 18 | [AlgoXY](https://github.com/liuxinyu95/AlgoXY) | 6097 | 737 | TeX | 0 | Book of Elementary Functional Algorithms and Data structures | 2024-11-21T07:23:28Z |
@@ -32,10 +32,10 @@
 | 25 | [Deedy-Resume](https://github.com/deedy/Deedy-Resume) | 4798 | 1262 | TeX | 29 | A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student | 2022-09-18T07:22:40Z |
 | 26 | [thuthesis](https://github.com/tuna/thuthesis) | 4603 | 1080 | TeX | 10 | LaTeX Thesis Template for Tsinghua University | 2024-11-12T13:41:11Z |
 | 27 | [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) | 4084 | 436 | TeX | 74 | 《Machine Learning Systems: Design and Implementation》- Chinese Version | 2024-04-13T15:03:07Z |
-| 28 | [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) | 3991 | 6360 | TeX | 0 | 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code. | 2024-11-04T15:56:43Z |
+| 28 | [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) | 3991 | 6361 | TeX | 0 | 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code. | 2024-11-04T15:56:43Z |
 | 29 | [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) | 3758 | 218 | TeX | 0 | Examples of how to create colorful, annotated equations in Latex using Tikz. | 2022-07-12T23:11:07Z |
 | 30 | [DeepLearning](https://github.com/wangshusen/DeepLearning) | 3724 | 831 | TeX | 16 | None | 2021-05-12T01:14:30Z |
-| 31 | [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) | 3702 | 645 | TeX | 203 | RISC-V Instruction Set Manual | 2024-11-22T01:00:46Z |
+| 31 | [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) | 3703 | 645 | TeX | 203 | RISC-V Instruction Set Manual | 2024-11-22T01:00:46Z |
 | 32 | [ucasthesis](https://github.com/mohuangrui/ucasthesis) | 3482 | 931 | TeX | 14 | LaTeX Thesis Template for the University of Chinese Academy of Sciences  | 2024-02-29T13:15:36Z |
 | 33 | [SJTUThesis](https://github.com/sjtug/SJTUThesis) | 3362 | 792 | TeX | 6 | 上海交通大学 LaTeX 论文模板 \| Shanghai Jiao Tong University LaTeX Thesis Template | 2024-11-07T01:44:57Z |
 | 34 | [resumake.io](https://github.com/saadq/resumake.io) | 3318 | 446 | TeX | 81 | 📝 A website for automatically generating elegant LaTeX resumes. | 2024-06-19T14:03:03Z |
@@ -57,20 +57,20 @@
 | 50 | [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) | 2508 | 1657 | TeX | 22 | LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey. | 2024-04-09T22:30:06Z |
 | 51 | [transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial) | 2492 | 495 | TeX | 11 | 《迁移学习简明手册》LaTex源码 | 2023-05-02T02:20:59Z |
 | 52 | [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) | 2432 | 449 | TeX | 2 | A machine translation reading list maintained by Tsinghua Natural Language Processing Group | 2024-08-09T14:48:06Z |
-| 53 | [adv-r](https://github.com/hadley/adv-r) | 2362 | 1711 | TeX | 83 | Advanced R: a book | 2024-05-11T11:26:52Z |
+| 53 | [adv-r](https://github.com/hadley/adv-r) | 2363 | 1711 | TeX | 83 | Advanced R: a book | 2024-05-11T11:26:52Z |
 | 54 | [stat-cookbook](https://github.com/mavam/stat-cookbook) | 2246 | 342 | TeX | 2 | :orange_book: The probability and statistics cookbook | 2023-02-20T06:43:02Z |
 | 55 | [mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv) | 2191 | 775 | TeX | 13 | A Nice-looking CV template made into LaTeX | 2024-05-10T15:00:38Z |
 | 56 | [perf-book](https://github.com/dendibakh/perf-book) | 2183 | 159 | TeX | 11 | The book "Performance Analysis and Tuning on Modern CPU" | 2024-11-12T16:15:22Z |
 | 57 | [the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2182 | 265 | TeX | 6 | None | 2024-10-17T01:21:34Z |
-| 58 | [BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) | 2170 | 556 | TeX | 0 | Bayesian Data Analysis course at Aalto | 2024-11-22T16:40:20Z |
+| 58 | [BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) | 2170 | 556 | TeX | 0 | Bayesian Data Analysis course at Aalto | 2024-11-22T17:25:32Z |
 | 59 | [ixy-languages](https://github.com/ixy-languages/ixy-languages) | 2152 | 55 | TeX | 0 | A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python | 2024-06-11T22:55:02Z |
 | 60 | [python-coding-interview](https://github.com/liyin2015/python-coding-interview) | 2152 | 452 | TeX | 4 | A middle-to-high level open source algorithm book designed with coding interview at heart! | 2024-02-27T18:14:39Z |
 | 61 | [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) | 2054 | 400 | TeX | 42 | Elegant LaTeX Template for Books | 2022-12-31T02:44:17Z |
 | 62 | [CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) | 2038 | 335 | TeX | 0 | Clever Algorithms: Nature-Inspired Programming Recipes | 2020-05-26T22:16:38Z |
 | 63 | [book](https://github.com/HoTT/book) | 2034 | 360 | TeX | 73 | A textbook on informal homotopy type theory | 2024-06-17T16:38:47Z |
-| 64 | [latex2e](https://github.com/latex3/latex2e) | 1943 | 267 | TeX | 151 | The LaTeX2e kernel | 2024-11-22T14:23:37Z |
+| 64 | [latex2e](https://github.com/latex3/latex2e) | 1943 | 267 | TeX | 151 | The LaTeX2e kernel | 2024-11-22T17:35:21Z |
 | 65 | [ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) | 1934 | 141 | TeX | 2 | Pen and paper exercises in machine learning | 2024-05-21T20:05:42Z |
-| 66 | [latex3](https://github.com/latex3/latex3) | 1925 | 189 | TeX | 120 | The expl3 (LaTeX3) Development Repository | 2024-11-22T16:52:18Z |
+| 66 | [latex3](https://github.com/latex3/latex3) | 1925 | 189 | TeX | 120 | The expl3 (LaTeX3) Development Repository | 2024-11-22T17:02:33Z |
 | 67 | [the-turing-way](https://github.com/the-turing-way/the-turing-way) | 1920 | 656 | TeX | 476 | Host repository for The Turing Way: a how to guide for reproducible data science | 2024-11-22T13:12:22Z |
 | 68 | [resume](https://github.com/hijiangtao/resume) | 1880 | 550 | TeX | 0 | 个人中文简历 Latex 源码 https://hijiangtao.github.io/ | 2024-09-04T03:15:27Z |
 | 69 | [moderncv](https://github.com/xdanaux/moderncv) | 1819 | 559 | TeX | 52 | A modern curriculum vitae class for LaTeX | 2024-06-13T14:36:53Z |

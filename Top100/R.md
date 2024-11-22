@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [ggplot2](https://github.com/tidyverse/ggplot2) | 6527 | 2031 | R | 120 | An implementation of the Grammar of Graphics in R | 2024-11-13T08:35:14Z |
-| 2 | [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 6455 | 248 | R | 2 | Friends don't let friends make certain types of data visualization - What are they and why are they bad.  | 2024-07-11T02:09:19Z |
+| 2 | [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 6456 | 248 | R | 2 | Friends don't let friends make certain types of data visualization - What are they and why are they bad.  | 2024-07-11T02:09:19Z |
 | 3 | [awesome-R](https://github.com/qinwf/awesome-R) | 6024 | 1506 | R | 3 | A curated list of awesome R packages, frameworks and software. | 2024-06-02T03:45:50Z |
 | 4 | [shiny](https://github.com/rstudio/shiny) | 5374 | 1864 | R | 807 | Easy interactive web applications with R | 2024-11-07T15:55:13Z |
 | 5 | [dplyr](https://github.com/tidyverse/dplyr) | 4782 | 2123 | R | 78 | dplyr: A grammar of data manipulation | 2024-11-02T17:51:08Z |
@@ -15,7 +15,7 @@
 | 8 | [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4110 | 445 | R | 11 | Statistical Rethinking course winter 2022 | 2022-03-15T15:07:26Z |
 | 9 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3667 | 2217 | R | 23 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |
 | 10 | [data.table](https://github.com/Rdatatable/data.table) | 3623 | 986 | R | 950 | R's data.table package extends data.frame: | 2024-11-21T14:38:18Z |
-| 11 | [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 3568 | 607 | R | 9 | A curated list of awesome network analysis resources. | 2024-11-06T09:09:18Z |
+| 11 | [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 3569 | 607 | R | 9 | A curated list of awesome network analysis resources. | 2024-11-06T09:09:18Z |
 | 12 | [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | 3567 | 779 | R | 62 | Anomaly Detection with R | 2019-08-30T19:49:16Z |
 | 13 | [rmarkdown](https://github.com/rstudio/rmarkdown) | 2884 | 978 | R | 245 | Dynamic Documents for R | 2024-11-04T14:33:47Z |
 | 14 | [plotly.R](https://github.com/plotly/plotly.R) | 2570 | 627 | R | 673 | An interactive graphing library for R | 2024-09-20T13:59:57Z |
@@ -69,7 +69,7 @@
 | 62 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 1203 | 388 | R | 0 | 🤹 Shiny tips & tricks for improving your apps and solving common problems | 2024-08-18T18:40:18Z |
 | 63 | [lintr](https://github.com/r-lib/lintr) | 1199 | 187 | R | 296 | Static Code Analysis for R | 2024-11-21T19:08:07Z |
 | 64 | [tidytext](https://github.com/juliasilge/tidytext) | 1180 | 184 | R | 10 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: | 2024-04-10T13:44:30Z |
-| 65 | [r-source](https://github.com/wch/r-source) | 1149 | 312 | R | 0 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page. | 2024-11-22T11:30:44Z |
+| 65 | [r-source](https://github.com/wch/r-source) | 1149 | 312 | R | 0 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page. | 2024-11-22T17:35:40Z |
 | 66 | [ggpubr](https://github.com/kassambara/ggpubr) | 1138 | 165 | R | 230 | 'ggplot2' Based Publication Ready Plots | 2024-06-19T01:39:18Z |
 | 67 | [swirl](https://github.com/swirldev/swirl) | 1137 | 599 | R | 295 | :cyclone: Learn R, in R. | 2023-10-27T18:00:31Z |
 | 68 | [forecast](https://github.com/robjhyndman/forecast) | 1126 | 342 | R | 12 | Forecasting Functions for Time Series and Linear Models | 2024-08-30T03:02:00Z |
@@ -81,7 +81,7 @@
 | 74 | [rstan](https://github.com/stan-dev/rstan) | 1039 | 269 | R | 337 | RStan, the R interface to Stan | 2024-11-22T13:45:27Z |
 | 75 | [performance](https://github.com/easystats/performance) | 1032 | 94 | R | 94 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) | 2024-11-22T15:58:38Z |
 | 76 | [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1026 | 256 | R | 328 | :bar_chart: A universal enrichment tool for interpreting omics data | 2024-11-12T13:34:05Z |
-| 77 | [renv](https://github.com/rstudio/renv) | 1019 | 155 | R | 162 | renv: Project environments for R. | 2024-11-21T17:35:23Z |
+| 77 | [renv](https://github.com/rstudio/renv) | 1019 | 155 | R | 162 | renv: Project environments for R. | 2024-11-22T17:09:44Z |
 | 78 | [readr](https://github.com/tidyverse/readr) | 1011 | 286 | R | 94 | Read flat files (csv, tsv, fwf) into R | 2024-07-31T16:03:00Z |
 | 79 | [tinytex](https://github.com/rstudio/tinytex) | 988 | 117 | R | 24 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live | 2024-11-11T19:26:54Z |
 | 80 | [fasteR](https://github.com/matloff/fasteR) | 988 | 159 | R | 6 | Fast Lane to Learning R! | 2024-08-08T00:45:27Z |

@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [animate.css](https://github.com/animate-css/animate.css) | 80888 | 16235 | CSS | 29 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
-| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 54964 | 3649 | CSS | 7 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2024-11-21T13:39:39Z |
-| 3 | [normalize.css](https://github.com/necolas/normalize.css) | 52551 | 10648 | CSS | 49 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
+| 1 | [animate.css](https://github.com/animate-css/animate.css) | 80889 | 16235 | CSS | 29 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
+| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 54966 | 3649 | CSS | 7 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2024-11-21T13:39:39Z |
+| 3 | [normalize.css](https://github.com/necolas/normalize.css) | 52552 | 10648 | CSS | 49 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
 | 4 | [bulma](https://github.com/jgthms/bulma) | 49387 | 3953 | CSS | 298 | Modern CSS framework based on Flexbox | 2024-11-11T10:32:10Z |
 | 5 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 42872 | 5436 | CSS | 242 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | 2024-10-24T18:51:07Z |
 | 6 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 37445 | 9189 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2024-08-20T13:14:49Z |
@@ -18,7 +18,7 @@
 | 11 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 19926 | 1623 | CSS | 81 | Monospaced font family for user interface and coding environments | 2024-08-12T00:27:18Z |
 | 12 | [iCSS](https://github.com/chokcoco/iCSS) | 19716 | 2016 | CSS | 242 | 不止于 CSS | 2024-08-07T02:10:18Z |
 | 13 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 19355 | 1810 | CSS | 5 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
-| 14 | [Skeleton](https://github.com/dhg/Skeleton) | 19099 | 3144 | CSS | 79 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-11-14T19:22:32Z |
+| 14 | [Skeleton](https://github.com/dhg/Skeleton) | 19098 | 3143 | CSS | 79 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-11-14T19:22:32Z |
 | 15 | [30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) | 16108 | 1015 | CSS | 0 | Short CSS code snippets for all your development needs | 2023-05-07T17:09:56Z |
 | 16 | [pace](https://github.com/CodeByZach/pace) | 15676 | 1901 | CSS | 270 | Automatically add a progress bar to your site. | 2024-02-26T22:12:24Z |
 | 17 | [ratchet](https://github.com/twbs/ratchet) | 14630 | 1445 | CSS | 202 | Build mobile apps with simple HTML, CSS, and JavaScript components.  | 2023-11-16T16:40:05Z |
@@ -37,18 +37,18 @@
 | 30 | [photon](https://github.com/connors/photon) | 10012 | 579 | CSS | 64 | The fastest way to build beautiful Electron apps using simple HTML and CSS | 2023-12-21T03:09:57Z |
 | 31 | [devicon](https://github.com/devicons/devicon) | 9954 | 2324 | CSS | 388 | Set of icons representing programming languages, designing & development tools | 2024-11-17T08:02:55Z |
 | 32 | [jupyter-themes](https://github.com/dunovank/jupyter-themes) | 9780 | 1058 | CSS | 196 | Custom Jupyter Notebook Themes | 2023-10-18T13:16:38Z |
-| 33 | [plex](https://github.com/IBM/plex) | 9696 | 576 | CSS | 69 | The package of IBM’s typeface, IBM Plex. | 2024-11-22T05:46:22Z |
+| 33 | [plex](https://github.com/IBM/plex) | 9697 | 576 | CSS | 69 | The package of IBM’s typeface, IBM Plex. | 2024-11-22T05:46:22Z |
 | 34 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9665 | 654 | CSS | 41 | :octocat: Dark GitHub style | 2024-11-22T16:16:54Z |
 | 35 | [98.css](https://github.com/jdan/98.css) | 9655 | 311 | CSS | 24 | A design system for building faithful recreations of old UIs | 2024-11-06T13:40:34Z |
 | 36 | [colors](https://github.com/mrmrs/colors) | 9306 | 522 | CSS | 10 | Smarter defaults for colors on the web. | 2023-07-20T09:56:41Z |
 | 37 | [spin.js](https://github.com/fgnass/spin.js) | 9302 | 1022 | CSS | 10 | A spinning activity indicator | 2024-07-19T20:53:58Z |
 | 38 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 9063 | 3240 | CSS | 24 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2024-09-30T09:52:49Z |
-| 39 | [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) | 9053 | 3476 | CSS | 0 | 🏗 forkable Ethereum dev stack focused on fast product iterations  | 2024-06-04T15:20:23Z |
+| 39 | [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) | 9054 | 3476 | CSS | 0 | 🏗 forkable Ethereum dev stack focused on fast product iterations  | 2024-06-04T15:20:23Z |
 | 40 | [offline](https://github.com/HubSpot/offline) | 8645 | 848 | CSS | 104 | Automatically display online/offline indication to your users | 2023-02-26T00:19:50Z |
 | 41 | [hint.css](https://github.com/chinchang/hint.css) | 8426 | 698 | CSS | 43 | A CSS only tooltip library for your lovely websites. | 2024-10-17T14:08:37Z |
-| 42 | [water.css](https://github.com/kognise/water.css) | 8339 | 494 | CSS | 43 | A drop-in collection of CSS styles to make simple websites just a little nicer | 2024-02-11T14:50:20Z |
+| 42 | [water.css](https://github.com/kognise/water.css) | 8340 | 494 | CSS | 43 | A drop-in collection of CSS styles to make simple websites just a little nicer | 2024-02-11T14:50:20Z |
 | 43 | [arc-theme](https://github.com/horst3180/arc-theme) | 8279 | 608 | CSS | 173 | A flat theme with transparent elements | 2021-02-22T01:52:31Z |
-| 44 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8276 | 35230 | CSS | 148 | Build a Jekyll blog in minutes, without touching the command line. | 2024-08-19T16:05:35Z |
+| 44 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8276 | 35231 | CSS | 148 | Build a Jekyll blog in minutes, without touching the command line. | 2024-08-19T16:05:35Z |
 | 45 | [easings.net](https://github.com/ai/easings.net) | 8074 | 673 | CSS | 23 | Easing Functions Cheat Sheet | 2024-08-15T12:57:21Z |
 | 46 | [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 8051 | 448 | CSS | 0 | List of awesome CSS frameworks in 2024 | 2024-08-03T11:19:03Z |
 | 47 | [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | 8012 | 2097 | CSS | 13 | The minimal amount of CSS to replicate the GitHub Markdown style | 2024-11-15T17:34:30Z |
@@ -63,7 +63,7 @@
 | 56 | [seeker](https://github.com/thewhiteh4t/seeker) | 7227 | 1726 | CSS | 20 | Accurately Locate Smartphones using Social Engineering  | 2024-04-14T23:59:59Z |
 | 57 | [css-loaders](https://github.com/lukehaas/css-loaders) | 7053 | 1039 | CSS | 12 | A collection of loading spinners animated with CSS | 2024-04-30T16:55:53Z |
 | 58 | [weather-icons](https://github.com/erikflowers/weather-icons) | 6942 | 853 | CSS | 89 | 215 Weather Themed Icons and CSS | 2023-03-19T16:35:03Z |
-| 59 | [primereact](https://github.com/primefaces/primereact) | 6931 | 1053 | CSS | 353 | The Most Complete React UI Component Library | 2024-11-22T14:14:20Z |
+| 59 | [primereact](https://github.com/primefaces/primereact) | 6931 | 1053 | CSS | 352 | The Most Complete React UI Component Library | 2024-11-22T14:14:20Z |
 | 60 | [vex](https://github.com/HubSpot/vex) | 6923 | 491 | CSS | 50 | A modern dialog library which is highly configurable and easy to style. #hubspot-open-source | 2023-02-26T00:28:34Z |
 | 61 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 6843 | 288 | CSS | 8 | 🕶️ Awesome stuff for Obsidian | 2024-04-06T05:47:06Z |
 | 62 | [tabula](https://github.com/tabulapdf/tabula) | 6800 | 647 | CSS | 0 | Tabula is a tool for liberating data tables trapped inside PDF files | 2024-09-23T13:43:42Z |
@@ -83,8 +83,8 @@
 | 76 | [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) | 5653 | 291 | CSS | 148 | High-quality PNGs for logos I made for fun  | 2024-06-03T14:28:49Z |
 | 77 | [micro-app](https://github.com/micro-zoe/micro-app) | 5632 | 572 | CSS | 232 | A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 | 2024-11-22T13:43:34Z |
 | 78 | [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) | 5581 | 1191 | CSS | 0 | An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version. | 2024-05-27T06:41:44Z |
-| 79 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 5516 | 515 | CSS | 6 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. | 2023-03-09T17:09:56Z |
-| 80 | [wave](https://github.com/thedevdojo/wave) | 5447 | 744 | CSS | 0 | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰  | 2024-11-18T14:11:40Z |
+| 79 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 5517 | 515 | CSS | 6 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. | 2023-03-09T17:09:56Z |
+| 80 | [wave](https://github.com/thedevdojo/wave) | 5448 | 744 | CSS | 0 | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰  | 2024-11-18T14:11:40Z |
 | 81 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5415 | 1295 | CSS | 1 | Javascript tutorial book | 2023-04-01T08:50:14Z |
 | 82 | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) | 5318 | 610 | CSS | 53 | 💄CSS tricks for web developers~ | 2024-07-28T04:37:15Z |
 | 83 | [blueprint-css](https://github.com/joshuaclayton/blueprint-css) | 5314 | 594 | CSS | 0 | A CSS framework that aims to cut down on your CSS development time | 2016-06-27T05:08:49Z |
@@ -96,7 +96,7 @@
 | 89 | [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) | 5195 | 1192 | CSS | 123 | Synthwave inspired colour theme for VS Code 🌅🕶  | 2024-10-31T10:17:21Z |
 | 90 | [popcorn-app](https://github.com/popcorn-time/popcorn-app) | 5180 | 1691 | CSS | 0 | An experiment using the peerflix module of nodejs and connecting a bunch of APIs. | 2020-10-01T13:17:09Z |
 | 91 | [sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) | 5124 | 1476 | CSS | 10 | :book: [译] scikit-learn（sklearn） 中文文档 | 2023-07-21T08:48:33Z |
-| 92 | [spicetify-themes](https://github.com/spicetify/spicetify-themes) | 5109 | 1270 | CSS | 11 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli | 2024-11-07T20:02:36Z |
+| 92 | [spicetify-themes](https://github.com/spicetify/spicetify-themes) | 5110 | 1270 | CSS | 11 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli | 2024-11-07T20:02:36Z |
 | 93 | [youtube](https://github.com/safak/youtube) | 5067 | 5485 | CSS | 83 | None | 2024-05-30T23:04:41Z |
 | 94 | [Fira](https://github.com/mozilla/Fira) | 5062 | 308 | CSS | 89 | Mozilla's new typeface, used in Firefox OS | 2020-12-16T10:22:30Z |
 | 95 | [balloon.css](https://github.com/kazzkiq/balloon.css) | 5029 | 448 | CSS | 20 | Simple tooltips made of pure CSS | 2023-07-08T13:19:06Z |
