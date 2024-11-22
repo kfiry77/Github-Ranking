@@ -221,10 +221,10 @@ class WriteFile(object):
 
     def save_to_csv(self):
         # save top100 repos info to csv file in Data/github-ranking-year-month-day.md
-	df_all = pd.concat(
-	    [self.repo_to_df(repos=repo["data"], item=repo["item"]) for repo in self.repo_list], 
-	    ignore_index=True
-	)
+    	  df_all = pd.concat(
+	      [self.repo_to_df(repos=repo["data"], item=repo["item"]) for repo in self.repo_list], 
+	      ignore_index=True
+	      )
 
         save_date = datetime.utcnow().strftime("%Y-%m-%d")
         os.makedirs('../Data', exist_ok=True)
