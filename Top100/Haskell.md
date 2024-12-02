@@ -5,53 +5,53 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [shellcheck](https://github.com/koalaman/shellcheck) | 36533 | 1781 | Haskell | 1028 | ShellCheck, a static analysis tool for shell scripts | 2024-11-30T02:13:34Z |
-| 2 | [pandoc](https://github.com/jgm/pandoc) | 34869 | 3390 | Haskell | 1053 | Universal markup converter | 2024-11-30T16:10:17Z |
-| 3 | [postgrest](https://github.com/PostgREST/postgrest) | 23501 | 1032 | Haskell | 255 | REST API for any Postgres database | 2024-12-01T19:58:42Z |
-| 4 | [hadolint](https://github.com/hadolint/hadolint) | 10491 | 425 | Haskell | 206 | Dockerfile linter, validate inline bash, written in Haskell | 2024-10-28T08:27:47Z |
-| 5 | [semantic](https://github.com/github/semantic) | 8982 | 452 | Haskell | 109 | Parsing, analyzing, and comparing source code across many languages | 2024-07-24T03:56:04Z |
-| 6 | [purescript](https://github.com/purescript/purescript) | 8587 | 565 | Haskell | 274 | A strongly-typed language that compiles to JavaScript | 2024-09-29T06:33:12Z |
-| 7 | [compiler](https://github.com/elm/compiler) | 7564 | 662 | Haskell | 315 | Compiler for Elm, a functional language for reliable webapps. | 2024-07-17T21:53:51Z |
-| 8 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 7365 | 337 | Haskell | 678 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | 2024-12-01T19:10:37Z |
-| 9 | [unison](https://github.com/unisonweb/unison) | 5814 | 272 | Haskell | 1075 | A friendly programming language from the future | 2024-11-27T20:28:58Z |
-| 10 | [Carp](https://github.com/carp-lang/Carp) | 5551 | 178 | Haskell | 133 | A statically typed lisp, without a GC, for real-time applications. | 2024-11-26T10:58:51Z |
-| 11 | [ihp](https://github.com/digitallyinduced/ihp) | 4948 | 197 | Haskell | 243 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness | 2024-11-23T20:59:21Z |
+| 1 | [shellcheck](https://github.com/koalaman/shellcheck) | 36538 | 1781 | Haskell | 1029 | ShellCheck, a static analysis tool for shell scripts | 2024-11-30T02:13:34Z |
+| 2 | [pandoc](https://github.com/jgm/pandoc) | 34881 | 3390 | Haskell | 1051 | Universal markup converter | 2024-12-02T06:09:12Z |
+| 3 | [postgrest](https://github.com/PostgREST/postgrest) | 23504 | 1032 | Haskell | 255 | REST API for any Postgres database | 2024-12-01T19:58:42Z |
+| 4 | [hadolint](https://github.com/hadolint/hadolint) | 10493 | 425 | Haskell | 206 | Dockerfile linter, validate inline bash, written in Haskell | 2024-10-28T08:27:47Z |
+| 5 | [semantic](https://github.com/github/semantic) | 8984 | 452 | Haskell | 109 | Parsing, analyzing, and comparing source code across many languages | 2024-07-24T03:56:04Z |
+| 6 | [purescript](https://github.com/purescript/purescript) | 8589 | 565 | Haskell | 274 | A strongly-typed language that compiles to JavaScript | 2024-09-29T06:33:12Z |
+| 7 | [compiler](https://github.com/elm/compiler) | 7565 | 662 | Haskell | 315 | Compiler for Elm, a functional language for reliable webapps. | 2024-07-17T21:53:51Z |
+| 8 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 7384 | 339 | Haskell | 680 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | 2024-12-02T18:24:27Z |
+| 9 | [unison](https://github.com/unisonweb/unison) | 5815 | 272 | Haskell | 1076 | A friendly programming language from the future | 2024-12-02T18:51:57Z |
+| 10 | [Carp](https://github.com/carp-lang/Carp) | 5553 | 178 | Haskell | 133 | A statically typed lisp, without a GC, for real-time applications. | 2024-11-26T10:58:51Z |
+| 11 | [ihp](https://github.com/digitallyinduced/ihp) | 4948 | 197 | Haskell | 243 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness | 2024-12-02T16:06:47Z |
 | 12 | [Haxl](https://github.com/facebook/Haxl) | 4278 | 313 | Haskell | 3 | A Haskell library that simplifies access to remote data, such as databases or web-based services.  | 2024-11-19T13:29:04Z |
-| 13 | [kmonad](https://github.com/kmonad/kmonad) | 4128 | 325 | Haskell | 198 | An advanced keyboard manager | 2024-11-05T08:03:14Z |
-| 14 | [fp-course](https://github.com/system-f/fp-course) | 4119 | 1193 | Haskell | 14 | Functional Programming Course | 2024-11-21T03:27:12Z |
-| 15 | [duckling](https://github.com/facebook/duckling) | 4090 | 729 | Haskell | 119 | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | 2024-10-03T22:59:00Z |
+| 13 | [kmonad](https://github.com/kmonad/kmonad) | 4130 | 325 | Haskell | 198 | An advanced keyboard manager | 2024-11-05T08:03:14Z |
+| 14 | [fp-course](https://github.com/system-f/fp-course) | 4121 | 1193 | Haskell | 14 | Functional Programming Course | 2024-12-02T00:31:53Z |
+| 15 | [duckling](https://github.com/facebook/duckling) | 4091 | 728 | Haskell | 119 | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | 2024-10-03T22:59:00Z |
 | 16 | [stack](https://github.com/commercialhaskell/stack) | 3996 | 843 | Haskell | 579 | The Haskell Tool Stack | 2024-11-26T18:23:08Z |
-| 17 | [cardano-sl](https://github.com/input-output-hk/cardano-sl) | 3765 | 630 | Haskell | 184 | Cryptographic currency implementing Ouroboros PoS protocol | 2020-07-30T15:22:04Z |
-| 18 | [Kind](https://github.com/HigherOrderCO/Kind) | 3590 | 142 | Haskell | 3 | A modern proof language | 2024-11-22T11:28:11Z |
+| 17 | [cardano-sl](https://github.com/input-output-hk/cardano-sl) | 3764 | 630 | Haskell | 184 | Cryptographic currency implementing Ouroboros PoS protocol | 2020-07-30T15:22:04Z |
+| 18 | [Kind](https://github.com/HigherOrderCO/Kind) | 3591 | 142 | Haskell | 3 | A modern proof language | 2024-12-02T16:52:15Z |
 | 19 | [Idris-dev](https://github.com/idris-lang/Idris-dev) | 3438 | 644 | Haskell | 691 | A Dependently Typed Functional Programming Language | 2024-08-02T13:40:34Z |
 | 20 | [xmonad](https://github.com/xmonad/xmonad) | 3374 | 292 | Haskell | 46 | The core of xmonad, a small but functional ICCCM-compliant tiling window manager | 2024-11-16T05:44:43Z |
 | 21 | [write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) | 3352 | 255 | Haskell | 22 | Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/) | 2021-01-11T13:56:03Z |
-| 22 | [koka](https://github.com/koka-lang/koka) | 3321 | 166 | Haskell | 156 | Koka language compiler and interpreter | 2024-11-05T15:02:32Z |
+| 22 | [koka](https://github.com/koka-lang/koka) | 3322 | 166 | Haskell | 156 | Koka language compiler and interpreter | 2024-11-05T15:02:32Z |
 | 23 | [awesome-haskell](https://github.com/krispo/awesome-haskell) | 3109 | 172 | Haskell | 10 | A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line. | 2023-04-13T20:54:30Z |
-| 24 | [cardano-node](https://github.com/IntersectMBO/cardano-node) | 3076 | 720 | Haskell | 284 | The core component that is used to participate in a Cardano decentralised blockchain. | 2024-12-01T00:07:55Z |
-| 25 | [hledger](https://github.com/simonmichael/hledger) | 3075 | 320 | Haskell | 344 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 2024-11-30T17:25:50Z |
-| 26 | [ghc](https://github.com/ghc/ghc) | 3057 | 709 | Haskell | 0 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing). | 2024-12-01T18:52:47Z |
+| 24 | [cardano-node](https://github.com/IntersectMBO/cardano-node) | 3077 | 721 | Haskell | 284 | The core component that is used to participate in a Cardano decentralised blockchain. | 2024-12-02T17:38:31Z |
+| 25 | [hledger](https://github.com/simonmichael/hledger) | 3077 | 320 | Haskell | 342 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 2024-12-02T03:58:59Z |
+| 26 | [ghc](https://github.com/ghc/ghc) | 3057 | 709 | Haskell | 0 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing). | 2024-12-02T17:22:51Z |
 | 27 | [Simula](https://github.com/SimulaVR/Simula) | 2969 | 91 | Haskell | 60 | Linux VR Desktop | 2024-11-02T02:19:55Z |
 | 28 | [echidna](https://github.com/crytic/echidna) | 2765 | 372 | Haskell | 120 | Ethereum smart contract fuzzer | 2024-11-29T08:55:23Z |
-| 29 | [haskell-language-server](https://github.com/haskell/haskell-language-server) | 2721 | 368 | Haskell | 452 | Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine. | 2024-12-01T16:07:55Z |
+| 29 | [haskell-language-server](https://github.com/haskell/haskell-language-server) | 2722 | 368 | Haskell | 452 | Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine. | 2024-12-01T16:07:55Z |
 | 30 | [hakyll](https://github.com/jaspervdj/hakyll) | 2707 | 409 | Haskell | 94 | A static website compiler library in Haskell | 2024-11-29T13:42:26Z |
 | 31 | [Functional-Programming](https://github.com/caiorss/Functional-Programming) | 2689 | 158 | Haskell | 5 | Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python | 2019-08-06T22:00:55Z |
 | 32 | [yesod](https://github.com/yesodweb/yesod) | 2640 | 374 | Haskell | 101 | A RESTful Haskell web framework built on WAI. | 2024-08-27T06:53:33Z |
-| 33 | [wire-server](https://github.com/wireapp/wire-server) | 2622 | 324 | Haskell | 44 | 🇪🇺 Wire back-end services | 2024-11-29T17:18:49Z |
+| 33 | [wire-server](https://github.com/wireapp/wire-server) | 2622 | 324 | Haskell | 44 | 🇪🇺 Wire back-end services | 2024-12-02T18:07:13Z |
 | 34 | [eta](https://github.com/typelead/eta) | 2610 | 145 | Haskell | 238 | The Eta Programming Language, a dialect of Haskell on the JVM | 2022-07-31T17:14:19Z |
 | 35 | [ghcjs](https://github.com/ghcjs/ghcjs) | 2606 | 188 | Haskell | 278 | Haskell to JavaScript compiler, based on GHC | 2023-01-21T23:46:36Z |
 | 36 | [wiwinwlh](https://github.com/sdiehl/wiwinwlh) | 2571 | 243 | Haskell | 0 | What I Wish I Knew When Learning Haskell | 2022-02-25T06:38:14Z |
 | 37 | [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) | 2531 | 147 | Haskell | 21 | A shell script which checks your $HOME for unwanted files and directories. | 2024-11-30T20:20:09Z |
-| 38 | [agda](https://github.com/agda/agda) | 2520 | 359 | Haskell | 976 | Agda is a dependently typed programming language / interactive theorem prover. | 2024-11-29T14:49:50Z |
+| 38 | [agda](https://github.com/agda/agda) | 2521 | 360 | Haskell | 976 | Agda is a dependently typed programming language / interactive theorem prover. | 2024-11-29T14:49:50Z |
 | 39 | [patat](https://github.com/jaspervdj/patat) | 2456 | 61 | Haskell | 12 | Terminal-based presentations using Pandoc | 2024-11-26T19:43:39Z |
-| 40 | [futhark](https://github.com/diku-dk/futhark) | 2412 | 166 | Haskell | 60 | :boom::computer::boom: A data-parallel functional programming language | 2024-11-30T17:30:31Z |
+| 40 | [futhark](https://github.com/diku-dk/futhark) | 2414 | 165 | Haskell | 60 | :boom::computer::boom: A data-parallel functional programming language | 2024-12-02T16:57:34Z |
 | 41 | [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) | 2378 | 209 | Haskell | 294 | The engine for haskell ide-integration. Not an IDE | 2020-12-23T06:21:46Z |
 | 42 | [miso](https://github.com/dmjio/miso) | 2198 | 139 | Haskell | 18 | :ramen: A tasty Haskell front-end framework | 2024-11-29T20:30:21Z |
 | 43 | [corrode](https://github.com/jameysharp/corrode) | 2160 | 116 | Haskell | 65 | C to Rust translator | 2019-03-10T01:48:47Z |
-| 44 | [gitit](https://github.com/jgm/gitit) | 2158 | 225 | Haskell | 191 | A wiki using HAppS, pandoc, and git | 2024-01-28T16:33:36Z |
+| 44 | [gitit](https://github.com/jgm/gitit) | 2159 | 225 | Haskell | 191 | A wiki using HAppS, pandoc, and git | 2024-01-28T16:33:36Z |
 | 45 | [dapptools](https://github.com/dapphub/dapptools) | 2097 | 326 | Haskell | 145 | Dapp, Seth, Hevm, and more | 2023-09-11T06:53:03Z |
 | 46 | [lens](https://github.com/ekmett/lens) | 2033 | 273 | Haskell | 94 | Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens | 2024-11-08T19:07:43Z |
-| 47 | [asterius](https://github.com/tweag/asterius) | 1974 | 58 | Haskell | 106 | DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc | 2022-11-14T00:45:01Z |
+| 47 | [asterius](https://github.com/tweag/asterius) | 1973 | 58 | Haskell | 106 | DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc | 2022-11-14T00:45:01Z |
 | 48 | [lamdu](https://github.com/lamdu/lamdu) | 1853 | 71 | Haskell | 20 | lamdu - towards the next generation IDE | 2024-10-22T18:23:02Z |
 | 49 | [servant](https://github.com/haskell-servant/servant) | 1831 | 412 | Haskell | 266 | Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more! | 2024-11-23T11:57:03Z |
 | 50 | [erd](https://github.com/BurntSushi/erd) | 1805 | 154 | Haskell | 16 | Translates a plain text description of a relational database schema to a graphical entity-relationship diagram. | 2024-09-09T12:30:17Z |
@@ -59,35 +59,35 @@
 | 52 | [taskell](https://github.com/smallhadroncollider/taskell) | 1735 | 72 | Haskell | 0 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects | 2023-10-03T06:57:40Z |
 | 53 | [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1722 | 395 | Haskell | 34 | Informative git prompt for zsh | 2023-11-08T03:54:12Z |
 | 54 | [scotty](https://github.com/scotty-web/scotty) | 1721 | 134 | Haskell | 28 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) | 2024-07-19T01:33:29Z |
-| 55 | [cabal](https://github.com/haskell/cabal) | 1628 | 696 | Haskell | 1686 | Official upstream development repository for Cabal and cabal-install | 2024-12-01T16:28:22Z |
+| 55 | [cabal](https://github.com/haskell/cabal) | 1628 | 696 | Haskell | 1684 | Official upstream development repository for Cabal and cabal-install | 2024-12-02T18:32:03Z |
 | 56 | [HLearn](https://github.com/mikeizbicki/HLearn) | 1623 | 135 | Haskell | 22 | Homomorphic machine learning | 2016-05-29T16:51:53Z |
 | 57 | [niv](https://github.com/nmattia/niv) | 1623 | 79 | Haskell | 80 | Easy dependency management for Nix projects | 2024-11-03T10:40:30Z |
-| 58 | [brick](https://github.com/jtdaugherty/brick) | 1606 | 164 | Haskell | 4 | A declarative Unix terminal UI library written in Haskell | 2024-12-01T18:59:55Z |
-| 59 | [dex-lang](https://github.com/google-research/dex-lang) | 1594 | 108 | Haskell | 106 | Research language for array processing in the Haskell/ML family | 2024-11-23T03:36:11Z |
+| 58 | [brick](https://github.com/jtdaugherty/brick) | 1608 | 164 | Haskell | 4 | A declarative Unix terminal UI library written in Haskell | 2024-12-01T18:59:55Z |
+| 59 | [dex-lang](https://github.com/google-research/dex-lang) | 1594 | 108 | Haskell | 106 | Research language for array processing in the Haskell/ML family | 2024-12-02T19:28:22Z |
 | 60 | [haskell](https://github.com/tensorflow/haskell) | 1583 | 196 | Haskell | 37 | Haskell bindings for TensorFlow | 2024-08-15T15:09:36Z |
-| 61 | [plutus](https://github.com/IntersectMBO/plutus) | 1578 | 480 | Haskell | 211 | The Plutus language implementation and tools | 2024-12-01T03:45:24Z |
+| 61 | [plutus](https://github.com/IntersectMBO/plutus) | 1580 | 482 | Haskell | 211 | The Plutus language implementation and tools | 2024-12-02T19:51:13Z |
 | 62 | [real-world-haskell-cn](https://github.com/huangzworks/real-world-haskell-cn) | 1560 | 229 | Haskell | 15 | 《Real World Haskell》中文翻译项目 | 2022-02-14T13:35:16Z |
 | 63 | [neuron](https://github.com/srid/neuron) | 1521 | 150 | Haskell | 23 | Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote) | 2023-05-22T16:29:04Z |
 | 64 | [yi](https://github.com/yi-editor/yi) | 1512 | 203 | Haskell | 205 | The Haskell-Scriptable Editor | 2024-11-01T13:05:53Z |
-| 65 | [hlint](https://github.com/ndmitchell/hlint) | 1479 | 195 | Haskell | 250 | Haskell source code suggestions | 2024-11-19T13:16:03Z |
+| 65 | [hlint](https://github.com/ndmitchell/hlint) | 1480 | 195 | Haskell | 250 | Haskell source code suggestions | 2024-11-19T13:16:03Z |
 | 66 | [grenade](https://github.com/HuwCampbell/grenade) | 1450 | 84 | Haskell | 17 | Deep Learning in Haskell | 2023-12-08T21:23:07Z |
 | 67 | [clash-compiler](https://github.com/clash-lang/clash-compiler) | 1446 | 154 | Haskell | 314 | Haskell to VHDL/Verilog/SystemVerilog compiler | 2024-12-01T15:04:11Z |
 | 68 | [haste-compiler](https://github.com/valderman/haste-compiler) | 1440 | 111 | Haskell | 63 | A GHC-based Haskell to JavaScript compiler | 2019-03-17T10:49:58Z |
 | 69 | [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | 1391 | 987 | Haskell | 1 | This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem. | 2024-10-28T15:20:05Z |
 | 70 | [haskell-trainings](https://github.com/google/haskell-trainings) | 1387 | 109 | Haskell | 4 | Haskell 101 and 102: slides and codelabs | 2023-04-10T00:27:48Z |
-| 71 | [gifcurry](https://github.com/lettier/gifcurry) | 1357 | 56 | Haskell | 38 | 😎 The open-source, Haskell-built video editor for GIF makers. | 2021-08-13T16:19:41Z |
+| 71 | [gifcurry](https://github.com/lettier/gifcurry) | 1358 | 56 | Haskell | 38 | 😎 The open-source, Haskell-built video editor for GIF makers. | 2021-08-13T16:19:41Z |
 | 72 | [greenclip](https://github.com/erebe/greenclip) | 1356 | 33 | Haskell | 0 | Simple clipboard manager to be integrated with rofi - Static binary available | 2023-10-01T15:33:08Z |
 | 73 | [elm-format](https://github.com/avh4/elm-format) | 1314 | 146 | Haskell | 214 | elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide | 2023-04-13T18:43:21Z |
-| 74 | [fossa-cli](https://github.com/fossas/fossa-cli) | 1295 | 172 | Haskell | 56 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems. | 2024-11-27T21:35:49Z |
+| 74 | [fossa-cli](https://github.com/fossas/fossa-cli) | 1295 | 173 | Haskell | 56 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems. | 2024-11-27T21:35:49Z |
 | 75 | [course-plan](https://github.com/haskell-beginners-2022/course-plan) | 1291 | 56 | Haskell | 0 | 📜 Haskell course info, plan, video lectures, slides | 2023-07-09T14:01:05Z |
 | 76 | [fay](https://github.com/faylang/fay) | 1283 | 89 | Haskell | 22 | A proper subset of Haskell that compiles to JavaScript | 2021-06-09T15:10:00Z |
 | 77 | [aeson](https://github.com/haskell/aeson) | 1258 | 320 | Haskell | 64 | A fast Haskell JSON library | 2024-08-18T06:23:58Z |
 | 78 | [articles](https://github.com/quchen/articles) | 1254 | 92 | Haskell | 0 | Miscellaneous articles. The readme is the table of contents. | 2023-07-12T09:28:11Z |
 | 79 | [Publications](https://github.com/BartoszMilewski/Publications) | 1248 | 38 | Haskell | 4 | Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com | 2024-10-06T09:49:03Z |
 | 80 | [codeworld](https://github.com/google/codeworld) | 1242 | 197 | Haskell | 408 | Educational computer programming environment using Haskell | 2024-08-17T17:48:30Z |
-| 81 | [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) | 1198 | 139 | Haskell | 418 | Liquid Types For Haskell | 2024-12-01T18:20:55Z |
-| 82 | [developers-roadmap](https://github.com/fullstack-development/developers-roadmap) | 1193 | 263 | Haskell | 52 | How to learn front-end or back-end development | 2024-11-28T14:46:50Z |
-| 83 | [cryptol](https://github.com/GaloisInc/cryptol) | 1138 | 126 | Haskell | 238 | Cryptol: The Language of Cryptography | 2024-11-28T04:29:23Z |
+| 81 | [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) | 1198 | 139 | Haskell | 418 | Liquid Types For Haskell | 2024-12-02T14:07:49Z |
+| 82 | [developers-roadmap](https://github.com/fullstack-development/developers-roadmap) | 1195 | 263 | Haskell | 52 | How to learn front-end or back-end development | 2024-12-02T05:54:17Z |
+| 83 | [cryptol](https://github.com/GaloisInc/cryptol) | 1138 | 126 | Haskell | 239 | Cryptol: The Language of Cryptography | 2024-11-28T04:29:23Z |
 | 84 | [ghcid](https://github.com/ndmitchell/ghcid) | 1137 | 114 | Haskell | 110 | Very low feature GHCi based IDE | 2024-03-01T13:09:46Z |
 | 85 | [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) | 1129 | 59 | Haskell | 0 | Huge list of  videos, talks, courses for Haskell programming language. | 2017-10-17T13:24:26Z |
 | 86 | [reanimate](https://github.com/reanimate/reanimate) | 1128 | 62 | Haskell | 25 | Haskell library for building declarative animations based on SVG graphics | 2023-12-29T23:29:07Z |
@@ -97,7 +97,7 @@
 | 90 | [hasktorch](https://github.com/hasktorch/hasktorch) | 1075 | 109 | Haskell | 71 | Tensors and neural networks in Haskell | 2024-07-09T10:31:25Z |
 | 91 | [reflex](https://github.com/reflex-frp/reflex) | 1069 | 149 | Haskell | 75 | Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. | 2024-11-09T21:27:58Z |
 | 92 | [HaLVM](https://github.com/GaloisInc/HaLVM) | 1053 | 80 | Haskell | 37 | The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen | 2018-12-06T17:24:40Z |
-| 93 | [matterhorn](https://github.com/matterhorn-chat/matterhorn) | 1050 | 77 | Haskell | 23 | A feature-rich Unix terminal client for the Mattermost chat system | 2024-11-20T21:27:15Z |
+| 93 | [matterhorn](https://github.com/matterhorn-chat/matterhorn) | 1050 | 77 | Haskell | 23 | A feature-rich Unix terminal client for the Mattermost chat system | 2024-12-02T18:53:33Z |
 | 94 | [polysemy](https://github.com/polysemy-research/polysemy) | 1039 | 73 | Haskell | 43 | :gemini: higher-order, no-boilerplate monads | 2024-10-28T13:04:47Z |
 | 95 | [kaleidoscope](https://github.com/sdiehl/kaleidoscope) | 1033 | 131 | Haskell | 8 | Haskell LLVM JIT Compiler Tutorial | 2020-04-21T09:09:58Z |
 | 96 | [grin](https://github.com/grin-compiler/grin) | 1030 | 38 | Haskell | 26 | GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support. | 2023-04-28T14:15:23Z |
