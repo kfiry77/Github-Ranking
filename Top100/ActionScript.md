@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7349 | 113 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7015 | 559 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-11-17T16:46:58Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7016 | 558 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-11-17T16:46:58Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2884 | 823 | ActionScript | 71 | The Cross Platform Game Engine | 2024-10-17T09:47:00Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2493 | 1111 | ActionScript | 152 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1496 | 451 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
@@ -16,7 +16,7 @@
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1058 | 203 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2023-12-19T17:01:37Z |
 | 10 | [bfxr](https://github.com/increpare/bfxr) | 972 | 93 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 967 | 261 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
-| 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 386 | ActionScript | 169 | User interface components for Starling Framework and Adobe AIR | 2024-07-31T21:06:16Z |
+| 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 386 | ActionScript | 170 | User interface components for Starling Framework and Adobe AIR | 2024-07-31T21:06:16Z |
 | 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 887 | 191 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 751 | 264 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 648 | 124 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
@@ -35,7 +35,7 @@
 | 28 | [flump](https://github.com/tconkling/flump) | 382 | 72 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 29 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 376 | 126 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2024-05-03T15:09:55Z |
 | 30 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 375 | 36 | ActionScript | 1 | Anodyne 1 Source Code | 2024-06-04T22:57:49Z |
-| 31 | [royale-asjs](https://github.com/apache/royale-asjs) | 372 | 116 | ActionScript | 245 | Apache Royale ASJS | 2024-11-17T21:18:16Z |
+| 31 | [royale-asjs](https://github.com/apache/royale-asjs) | 372 | 116 | ActionScript | 245 | Apache Royale ASJS | 2024-12-03T18:41:54Z |
 | 32 | [Weave](https://github.com/WeaveTeam/Weave) | 369 | 70 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
 | 33 | [wck](https://github.com/jesses/wck) | 358 | 55 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 34 | [Gestouch](https://github.com/fljot/Gestouch) | 356 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
