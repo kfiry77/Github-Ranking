@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [animate.css](https://github.com/animate-css/animate.css) | 81168 | 16220 | CSS | 31 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
-| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 55920 | 3687 | CSS | 9 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2025-01-15T15:49:27Z |
+| 1 | [animate.css](https://github.com/animate-css/animate.css) | 81169 | 16220 | CSS | 31 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
+| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 55921 | 3687 | CSS | 9 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2025-01-15T15:49:27Z |
 | 3 | [normalize.css](https://github.com/necolas/normalize.css) | 52706 | 10643 | CSS | 50 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
-| 4 | [bulma](https://github.com/jgthms/bulma) | 49497 | 3951 | CSS | 308 | Modern CSS framework based on Flexbox | 2025-01-17T14:32:07Z |
+| 4 | [bulma](https://github.com/jgthms/bulma) | 49497 | 3951 | CSS | 309 | Modern CSS framework based on Flexbox | 2025-01-17T14:32:07Z |
 | 5 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 43133 | 5449 | CSS | 242 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | 2025-01-16T22:10:15Z |
 | 6 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 37923 | 9298 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2024-08-20T13:14:49Z |
 | 7 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37152 | 1374 | CSS | 140 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
@@ -40,12 +40,12 @@
 | 33 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9685 | 656 | CSS | 43 | :octocat: Dark GitHub style | 2025-01-17T16:15:36Z |
 | 34 | [colors](https://github.com/mrmrs/colors) | 9304 | 521 | CSS | 10 | Smarter defaults for colors on the web. | 2023-07-20T09:56:41Z |
 | 35 | [spin.js](https://github.com/fgnass/spin.js) | 9302 | 1022 | CSS | 10 | A spinning activity indicator | 2024-07-19T20:53:58Z |
-| 36 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 9154 | 3244 | CSS | 24 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2025-01-16T11:03:46Z |
+| 36 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 9154 | 3245 | CSS | 24 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2025-01-16T11:03:46Z |
 | 37 | [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) | 9066 | 3472 | CSS | 0 | 🏗 forkable Ethereum dev stack focused on fast product iterations  | 2024-06-04T15:20:23Z |
 | 38 | [offline](https://github.com/HubSpot/offline) | 8639 | 846 | CSS | 104 | Automatically display online/offline indication to your users | 2023-02-26T00:19:50Z |
 | 39 | [hint.css](https://github.com/chinchang/hint.css) | 8438 | 698 | CSS | 43 | A CSS only tooltip library for your lovely websites. | 2024-10-17T14:08:37Z |
 | 40 | [water.css](https://github.com/kognise/water.css) | 8360 | 494 | CSS | 43 | A drop-in collection of CSS styles to make simple websites just a little nicer | 2024-02-11T14:50:20Z |
-| 41 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8299 | 35208 | CSS | 148 | Build a Jekyll blog in minutes, without touching the command line. | 2024-08-19T16:05:35Z |
+| 41 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8298 | 35208 | CSS | 148 | Build a Jekyll blog in minutes, without touching the command line. | 2024-08-19T16:05:35Z |
 | 42 | [arc-theme](https://github.com/horst3180/arc-theme) | 8278 | 606 | CSS | 173 | A flat theme with transparent elements | 2021-02-22T01:52:31Z |
 | 43 | [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 8200 | 451 | CSS | 0 | List of awesome CSS frameworks in 2025 | 2024-12-22T19:49:13Z |
 | 44 | [easings.net](https://github.com/ai/easings.net) | 8134 | 678 | CSS | 23 | Easing Functions Cheat Sheet | 2024-08-15T12:57:21Z |

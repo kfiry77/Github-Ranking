@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 62779 | 12172 | Scala | 259 | Source code for Twitter's Recommendation Algorithm | 2024-07-10T07:07:01Z |
-| 2 | [spark](https://github.com/apache/spark) | 40340 | 28450 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2025-01-17T15:26:38Z |
+| 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 62778 | 12172 | Scala | 259 | Source code for Twitter's Recommendation Algorithm | 2024-07-10T07:07:01Z |
+| 2 | [spark](https://github.com/apache/spark) | 40340 | 28450 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2025-01-17T19:43:10Z |
 | 3 | [prisma1](https://github.com/prisma/prisma1) | 16516 | 860 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
 | 4 | [lila](https://github.com/lichess-org/lila) | 16031 | 2307 | Scala | 1017 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2025-01-17T19:06:01Z |
 | 5 | [scala](https://github.com/scala/scala) | 14355 | 3115 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2025-01-16T21:23:46Z |
@@ -17,14 +17,14 @@
 | 10 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 11282 | 548 | Scala | 260 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2024-05-04T09:49:38Z |
 | 11 | [gitbucket](https://github.com/gitbucket/gitbucket) | 9186 | 1250 | Scala | 329 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | 2025-01-16T22:26:49Z |
 | 12 | [finagle](https://github.com/twitter/finagle) | 8792 | 1451 | Scala | 58 | A fault tolerant, protocol-agnostic RPC system | 2025-01-15T15:11:01Z |
-| 13 | [delta](https://github.com/delta-io/delta) | 7755 | 1749 | Scala | 595 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2025-01-17T18:55:16Z |
+| 13 | [delta](https://github.com/delta-io/delta) | 7757 | 1749 | Scala | 595 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2025-01-17T18:55:16Z |
 | 14 | [snowflake](https://github.com/twitter-archive/snowflake) | 7682 | 1134 | Scala | 2 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. | 2020-07-22T18:08:14Z |
-| 15 | [enso](https://github.com/enso-org/enso) | 7386 | 326 | Scala | 645 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2025-01-17T18:53:43Z |
+| 15 | [enso](https://github.com/enso-org/enso) | 7386 | 326 | Scala | 645 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2025-01-17T19:40:58Z |
 | 16 | [snowplow](https://github.com/snowplow/snowplow) | 6868 | 1188 | Scala | 57 | The leader in Next-Generation Customer Data Infrastructure | 2024-09-02T14:31:11Z |
 | 17 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6745 | 295 | Scala | 69 | Arnold Schwarzenegger based programming language | 2024-01-31T22:40:52Z |
 | 18 | [openwhisk](https://github.com/apache/openwhisk) | 6590 | 1171 | Scala | 391 | Apache OpenWhisk is an open source serverless cloud platform | 2025-01-14T21:56:43Z |
 | 19 | [gatling](https://github.com/gatling/gatling) | 6516 | 1198 | Scala | 38 | Modern Load Testing as Code | 2025-01-17T16:46:27Z |
-| 20 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | 5947 | 722 | Scala | 64 | Open-source high-performance RISC-V processor | 2025-01-17T15:04:20Z |
+| 20 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | 5946 | 722 | Scala | 64 | Open-source high-performance RISC-V processor | 2025-01-17T15:04:20Z |
 | 21 | [scala3](https://github.com/scala/scala3) | 5934 | 1072 | Scala | 1499 | The Scala 3 compiler, also known as Dotty. | 2025-01-17T15:01:58Z |
 | 22 | [frontend](https://github.com/guardian/frontend) | 5850 | 556 | Scala | 115 | The Guardian DotCom. | 2025-01-17T17:20:38Z |
 | 23 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5709 | 3050 | Scala | 79 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2024-12-11T18:19:58Z |
@@ -52,7 +52,7 @@
 | 45 | [flockdb](https://github.com/twitter-archive/flockdb) | 3336 | 258 | Scala | 0 | A distributed, fault-tolerant graph database | 2017-03-16T23:11:18Z |
 | 46 | [rocket-chip](https://github.com/chipsalliance/rocket-chip) | 3316 | 1144 | Scala | 232 | Rocket Chip Generator | 2024-12-03T19:08:39Z |
 | 47 | [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android) | 3219 | 386 | Scala | 90 | A simple client for Android | 2024-02-25T00:32:29Z |
-| 48 | [Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide) | 2908 | 2786 | Scala | 25 | Spark: The Definitive Guide's Code Repository | 2020-08-26T08:17:35Z |
+| 48 | [Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide) | 2908 | 2787 | Scala | 25 | Spark: The Definitive Guide's Code Repository | 2020-08-26T08:17:35Z |
 | 49 | [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) | 2833 | 995 | Scala | 108 | REST job server for Apache Spark | 2025-01-04T14:29:27Z |
 | 50 | [kestrel](https://github.com/twitter-archive/kestrel) | 2766 | 312 | Scala | 24 | simple, distributed message queue system (inactive) | 2016-01-22T07:54:28Z |
 | 51 | [util](https://github.com/twitter/util) | 2699 | 580 | Scala | 5 | Wonderful reusable code from Twitter | 2024-12-13T20:10:51Z |
@@ -81,7 +81,7 @@
 | 74 | [zio-quill](https://github.com/zio/zio-quill) | 2156 | 346 | Scala | 283 | Compile-time Language Integrated Queries for Scala | 2025-01-17T00:15:16Z |
 | 75 | [summingbird](https://github.com/twitter/summingbird) | 2135 | 266 | Scala | 148 | Streaming MapReduce with Scalding and Storm | 2022-01-19T17:31:02Z |
 | 76 | [kyuubi](https://github.com/apache/kyuubi) | 2130 | 925 | Scala | 431 | Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses. | 2025-01-14T17:27:17Z |
-| 77 | [metals](https://github.com/scalameta/metals) | 2116 | 339 | Scala | 274 | Scala language server with rich IDE features 🚀  | 2025-01-17T18:28:12Z |
+| 77 | [metals](https://github.com/scalameta/metals) | 2116 | 339 | Scala | 275 | Scala language server with rich IDE features 🚀  | 2025-01-17T18:28:12Z |
 | 78 | [metarank](https://github.com/metarank/metarank) | 2103 | 90 | Scala | 89 | A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine | 2024-08-17T14:57:20Z |
 | 79 | [scaloid](https://github.com/pocorall/scaloid) | 2089 | 163 | Scala | 17 | Scaloid makes your Android code easy to understand and maintain. | 2024-06-13T04:46:50Z |
 | 80 | [coursier](https://github.com/coursier/coursier) | 2066 | 313 | Scala | 378 | Pure Scala Artifact Fetching | 2025-01-16T17:28:35Z |

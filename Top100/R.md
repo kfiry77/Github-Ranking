@@ -10,7 +10,7 @@
 | 3 | [awesome-R](https://github.com/qinwf/awesome-R) | 6065 | 1504 | R | 3 | A curated list of awesome R packages, frameworks and software. | 2024-12-06T02:57:12Z |
 | 4 | [shiny](https://github.com/rstudio/shiny) | 5399 | 1865 | R | 808 | Easy interactive web applications with R | 2025-01-14T18:38:03Z |
 | 5 | [dplyr](https://github.com/tidyverse/dplyr) | 4812 | 2124 | R | 82 | dplyr: A grammar of data manipulation | 2024-11-02T17:51:08Z |
-| 6 | [r4ds](https://github.com/hadley/r4ds) | 4642 | 4240 | R | 35 | R for data science: a book | 2025-01-12T18:46:45Z |
+| 6 | [r4ds](https://github.com/hadley/r4ds) | 4642 | 4239 | R | 35 | R for data science: a book | 2025-01-12T18:46:45Z |
 | 7 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 4354 | 7241 | R | 141 | :mortar_board: A collection of interactive courses for the swirl R package. | 2024-01-10T17:38:19Z |
 | 8 | [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4115 | 443 | R | 11 | Statistical Rethinking course winter 2022 | 2022-03-15T15:07:26Z |
 | 9 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3671 | 2217 | R | 23 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |
@@ -38,7 +38,7 @@
 | 31 | [blogdown](https://github.com/rstudio/blogdown) | 1752 | 334 | R | 25 | Create Blogs and Websites with R Markdown | 2025-01-14T15:12:54Z |
 | 32 | [investing](https://github.com/zonination/investing) | 1737 | 110 | R | 0 | Investing Returns on the Market as a Whole | 2016-12-27T13:58:02Z |
 | 33 | [CausalImpact](https://github.com/google/CausalImpact) | 1719 | 255 | R | 30 | An R package for causal inference in time series | 2023-07-17T18:19:58Z |
-| 34 | [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1704 | 247 | R | 162 | Graph and network visualization using tabular data in R | 2024-12-10T16:16:09Z |
+| 34 | [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1704 | 247 | R | 162 | Graph and network visualization using tabular data in R | 2025-01-17T19:16:12Z |
 | 35 | [reticulate](https://github.com/rstudio/reticulate) | 1686 | 332 | R | 434 | R Interface to Python | 2025-01-14T14:52:41Z |
 | 36 | [tidyverse](https://github.com/tidyverse/tidyverse) | 1685 | 291 | R | 6 | Easily install and load packages from the tidyverse | 2024-10-21T22:01:22Z |
 | 37 | [mlr](https://github.com/mlr-org/mlr) | 1650 | 404 | R | 8 | Machine Learning in R  | 2024-08-12T16:39:12Z |
@@ -53,11 +53,11 @@
 | 46 | [stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) | 1415 | 138 | R | 3 | None | 2024-03-08T10:06:51Z |
 | 47 | [plumber](https://github.com/rstudio/plumber) | 1407 | 259 | R | 141 | Turn your R code into a web API. | 2025-01-13T21:58:16Z |
 | 48 | [janitor](https://github.com/sfirke/janitor) | 1400 | 130 | R | 33 | simple tools for data cleaning in R | 2024-12-23T14:20:04Z |
-| 49 | [tidyr](https://github.com/tidyverse/tidyr) | 1389 | 419 | R | 45 | Tidy Messy Data | 2024-10-25T13:03:25Z |
+| 49 | [tidyr](https://github.com/tidyverse/tidyr) | 1389 | 418 | R | 45 | Tidy Messy Data | 2024-10-25T13:03:25Z |
 | 50 | [sf](https://github.com/r-spatial/sf) | 1357 | 301 | R | 59 | Simple Features for R | 2025-01-14T13:32:43Z |
 | 51 | [rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) | 1351 | 621 | R | 6 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation. | 2023-05-31T18:45:10Z |
 | 52 | [drake](https://github.com/ropensci/drake) | 1344 | 129 | R | 0 | An R-focused pipeline toolkit for reproducibility and high-performance computing | 2024-12-04T11:25:31Z |
-| 53 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 1341 | 566 | R | 48 | Mastering Shiny: a book | 2024-10-31T13:22:58Z |
+| 53 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 1341 | 565 | R | 48 | Mastering Shiny: a book | 2024-10-31T13:22:58Z |
 | 54 | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | 1333 | 229 | R | 208 | Make Complex Heatmaps  | 2024-12-19T12:53:02Z |
 | 55 | [tensorflow](https://github.com/rstudio/tensorflow) | 1328 | 321 | R | 37 | TensorFlow for R | 2024-10-30T23:48:10Z |
 | 56 | [ggthemes](https://github.com/jrnold/ggthemes) | 1326 | 226 | R | 12 | Additional themes, scales, and geoms for ggplot2 | 2024-02-14T22:58:14Z |

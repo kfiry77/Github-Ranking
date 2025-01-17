@@ -7,7 +7,7 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 21593 | 3241 | CoffeeScript | 769 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 18560 | 892 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2024-06-07T21:58:15Z |
-| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16520 | 1986 | CoffeeScript | 73 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
+| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16521 | 1986 | CoffeeScript | 73 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
 | 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 15242 | 951 | CoffeeScript | 107 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
 | 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7575 | 414 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 6 | [morris.js](https://github.com/morrisjs/morris.js) | 6910 | 1225 | CoffeeScript | 286 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |

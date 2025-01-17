@@ -5,13 +5,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 85337 | 5820 | Vim Script | 1529 | Vim-fork focused on extensibility and usability | 2025-01-17T17:34:59Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 85339 | 5820 | Vim Script | 1529 | Vim-fork focused on extensibility and usability | 2025-01-17T17:34:59Z |
 | 2 | [vim](https://github.com/vim/vim) | 37247 | 5535 | Vim Script | 1459 | The official Vim repository | 2025-01-17T13:12:44Z |
 | 3 | [vim-plug](https://github.com/junegunn/vim-plug) | 34430 | 1931 | Vim Script | 69 | :hibiscus: Minimalist Vim Plugin Manager | 2024-07-09T11:19:22Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 30944 | 7315 | Vim Script | 6 | The ultimate Vim configuration (vimrc) | 2024-10-06T08:26:02Z |
 | 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23966 | 2567 | Vim Script | 170 | Vundle, the plug-in manager for Vim | 2024-07-30T05:53:03Z |
 | 6 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | 20361 | 1415 | Vim Script | 15 | A modular configuration of Vim and Neovim | 2025-01-14T17:24:50Z |
-| 7 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 20271 | 1015 | Vim Script | 53 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2024-12-29T07:30:49Z |
+| 7 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 20272 | 1015 | Vim Script | 53 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2024-12-29T07:30:49Z |
 | 8 | [nerdtree](https://github.com/preservim/nerdtree) | 19740 | 1444 | Vim Script | 18 | A tree explorer plugin for vim. | 2024-07-20T05:04:50Z |
 | 9 | [vim-airline](https://github.com/vim-airline/vim-airline) | 17838 | 1107 | Vim Script | 45 | lean & mean status/tabline for vim that's light as air | 2024-12-05T05:51:56Z |
 | 10 | [vim-galore](https://github.com/mhinz/vim-galore) | 17013 | 610 | Vim Script | 3 | :mortar_board: All things Vim! | 2023-12-22T22:15:38Z |
@@ -27,7 +27,7 @@
 | 20 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 10692 | 1420 | Vim Script | 0 | Vim 从入门到精通 | 2024-12-30T06:07:39Z |
 | 21 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 9739 | 589 | Vim Script | 300 | fzf :heart: vim | 2024-11-04T08:43:30Z |
 | 22 | [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) | 9235 | 2373 | Vim Script | 53 | use vim as IDE | 2020-01-03T11:54:32Z |
-| 23 | [copilot.vim](https://github.com/github/copilot.vim) | 9054 | 340 | Vim Script | 0 | Neovim plugin for GitHub Copilot | 2024-10-08T15:39:05Z |
+| 23 | [copilot.vim](https://github.com/github/copilot.vim) | 9055 | 340 | Vim Script | 0 | Neovim plugin for GitHub Copilot | 2024-10-08T15:39:05Z |
 | 24 | [vimwiki](https://github.com/vimwiki/vimwiki) | 8856 | 629 | Vim Script | 203 | Personal Wiki for Vim | 2024-12-01T05:19:54Z |
 | 25 | [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | 8391 | 297 | Vim Script | 3 | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | 2024-07-16T15:16:53Z |
 | 26 | [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) | 7952 | 246 | Vim Script | 1 | True Sublime Text style multiple selections for Vim | 2020-07-30T19:52:03Z |
@@ -43,7 +43,7 @@
 | 36 | [vim-devicons](https://github.com/ryanoasis/vim-devicons) | 5677 | 266 | Vim Script | 57 | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more | 2024-05-09T13:57:14Z |
 | 37 | [vim-polyglot](https://github.com/sheerun/vim-polyglot) | 5625 | 296 | Vim Script | 81 | A solid language pack for Vim. | 2024-12-04T22:22:43Z |
 | 38 | [vim.wasm](https://github.com/rhysd/vim.wasm) | 5565 | 146 | Vim Script | 16 | Vim editor ported to WebAssembly | 2024-06-27T08:34:35Z |
-| 39 | [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | 5485 | 334 | Vim Script | 63 | Seamless navigation between tmux panes and vim splits | 2024-12-26T17:24:43Z |
+| 39 | [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | 5486 | 334 | Vim Script | 63 | Seamless navigation between tmux panes and vim splits | 2024-12-26T17:24:43Z |
 | 40 | [python-mode](https://github.com/python-mode/python-mode) | 5452 | 775 | Vim Script | 36 | Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box. | 2024-05-16T16:24:40Z |
 | 41 | [vim-startify](https://github.com/mhinz/vim-startify) | 5345 | 187 | Vim Script | 66 | :link: The fancy start screen for Vim. | 2024-01-05T12:47:32Z |
 | 42 | [vim-sensible](https://github.com/tpope/vim-sensible) | 5171 | 279 | Vim Script | 6 | sensible.vim: Defaults everyone can agree on | 2024-06-08T16:27:52Z |

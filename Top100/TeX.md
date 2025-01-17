@@ -31,7 +31,7 @@
 | 24 | [Deedy-Resume](https://github.com/deedy/Deedy-Resume) | 4819 | 1263 | TeX | 30 | A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student | 2022-09-18T07:22:40Z |
 | 25 | [thuthesis](https://github.com/tuna/thuthesis) | 4680 | 1090 | TeX | 7 | LaTeX Thesis Template for Tsinghua University | 2025-01-10T15:24:27Z |
 | 26 | [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) | 4182 | 440 | TeX | 74 | 《Machine Learning Systems: Design and Implementation》- Chinese Version | 2024-04-13T15:03:07Z |
-| 27 | [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) | 4091 | 6373 | TeX | 0 | 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code. | 2024-11-04T15:56:43Z |
+| 27 | [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) | 4091 | 6374 | TeX | 0 | 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code. | 2024-11-04T15:56:43Z |
 | 28 | [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) | 3808 | 664 | TeX | 204 | RISC-V Instruction Set Manual | 2025-01-17T02:09:45Z |
 | 29 | [DeepLearning](https://github.com/wangshusen/DeepLearning) | 3782 | 840 | TeX | 16 | None | 2021-05-12T01:14:30Z |
 | 30 | [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) | 3766 | 216 | TeX | 0 | Examples of how to create colorful, annotated equations in Latex using Tikz. | 2022-07-12T23:11:07Z |

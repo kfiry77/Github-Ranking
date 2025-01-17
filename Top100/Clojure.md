@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 77903 | 3118 | Clojure | 398 | Free monospaced font with programming ligatures | 2025-01-06T15:31:40Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 39569 | 5255 | Clojure | 3934 | The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: | 2025-01-17T19:08:00Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 39573 | 5255 | Clojure | 3934 | The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: | 2025-01-17T19:44:18Z |
 | 3 | [penpot](https://github.com/penpot/penpot) | 34684 | 1769 | Clojure | 391 | Penpot: The open-source design tool for design and code collaboration | 2025-01-17T15:22:01Z |
 | 4 | [logseq](https://github.com/logseq/logseq) | 34315 | 1997 | Clojure | 1401 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap | 2025-01-17T17:42:03Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11714 | 915 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |

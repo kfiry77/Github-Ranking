@@ -9,12 +9,12 @@
 | 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25085 | 5968 | Objective-C | 94 | Asynchronous image downloader with cache support as a UIImageView category | 2025-01-16T06:28:34Z |
 | 3 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22427 | 3619 | Objective-C | 901 | A plugin for Mac WeChat | 2023-07-19T14:53:21Z |
 | 4 | [GPUImage](https://github.com/BradLarson/GPUImage) | 20258 | 4613 | Objective-C | 910 | An open source iOS framework for GPU-based image and video processing | 2024-02-16T22:29:30Z |
-| 5 | [TrollStore](https://github.com/opa334/TrollStore) | 18842 | 1166 | Objective-C | 43 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2024-09-02T11:28:18Z |
+| 5 | [TrollStore](https://github.com/opa334/TrollStore) | 18843 | 1166 | Objective-C | 43 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2024-09-02T11:28:18Z |
 | 6 | [Masonry](https://github.com/SnapKit/Masonry) | 18055 | 3152 | Objective-C | 127 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 2023-04-13T18:23:56Z |
 | 7 | [realm-swift](https://github.com/realm/realm-swift) | 16369 | 2151 | Objective-C | 428 | Realm is a mobile database: a replacement for Core Data & SQLite | 2024-12-27T20:40:38Z |
 | 8 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 16008 | 3559 | Objective-C | 79 | MBProgressHUD + Customizations | 2024-08-14T01:48:59Z |
 | 9 | [iTerm2](https://github.com/gnachman/iTerm2) | 15608 | 1211 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2025-01-17T08:12:53Z |
-| 10 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 15254 | 4864 | Objective-C | 70 | React Native Mapview component for iOS + Android | 2025-01-12T19:36:19Z |
+| 10 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 15254 | 4864 | Objective-C | 68 | React Native Mapview component for iOS + Android | 2025-01-12T19:36:19Z |
 | 11 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 14301 | 2985 | Objective-C | 79 | An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews | 2024-08-01T09:17:17Z |
 | 12 | [FLEX](https://github.com/FLEXTool/FLEX) | 14157 | 1711 | Objective-C | 28 | An in-app debugging and exploration tool for iOS | 2024-08-25T09:37:11Z |
 | 13 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 14153 | 2498 | Objective-C | 150 | 微信小助手 | 2024-06-09T03:27:58Z |

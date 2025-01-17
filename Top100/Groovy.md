@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gradle](https://github.com/gradle/gradle) | 17179 | 4818 | Groovy | 2895 | Adaptable, fast automation for all | 2025-01-17T19:08:03Z |
+| 1 | [gradle](https://github.com/gradle/gradle) | 17179 | 4818 | Groovy | 2895 | Adaptable, fast automation for all | 2025-01-17T19:37:55Z |
 | 2 | [devops-resources](https://github.com/bregman-arie/devops-resources) | 8722 | 2180 | Groovy | 10 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 2024-07-12T09:40:46Z |
 | 3 | [rundeck](https://github.com/rundeck/rundeck) | 5620 | 929 | Groovy | 703 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2025-01-17T17:30:10Z |
 | 4 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4231 | 3512 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2023-08-31T09:25:29Z |
@@ -84,7 +84,7 @@
 | 77 | [fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) | 437 | 209 | Groovy | 62 | Fabric8 Pipeline for Jenkins | 2024-04-09T23:45:53Z |
 | 78 | [clouddriver](https://github.com/spinnaker/clouddriver) | 437 | 1034 | Groovy | 0 | read and write operations across cloud providers | 2025-01-09T19:15:03Z |
 | 79 | [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer) | 433 | 43 | Groovy | 4 | Gradle plugin to optimize png files and reduce resultant apk size within an Android project. | 2016-05-19T20:27:47Z |
-| 80 | [skills-service](https://github.com/NationalSecurityAgency/skills-service) | 426 | 93 | Groovy | 160 | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications. | 2025-01-17T17:07:47Z |
+| 80 | [skills-service](https://github.com/NationalSecurityAgency/skills-service) | 426 | 93 | Groovy | 160 | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications. | 2025-01-17T19:22:13Z |
 | 81 | [robolectric-gradle-plugin](https://github.com/robolectric/robolectric-gradle-plugin) | 421 | 63 | Groovy | 0 | Gradle plugin for Robolectric.  | 2015-07-08T20:21:47Z |
 | 82 | [gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 417 | 66 | Groovy | 17 | Gradle plugin that provides a task to generate a HTML license report of your project. | 2025-01-16T02:54:03Z |
 | 83 | [gradle-docker-compose-plugin](https://github.com/avast/gradle-docker-compose-plugin) | 415 | 98 | Groovy | 24 | Simplifies usage of Docker Compose for integration testing in Gradle environment. | 2024-12-20T17:56:37Z |

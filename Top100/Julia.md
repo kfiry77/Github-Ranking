@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 46183 | 5516 | Julia | 4013 | The Julia Programming Language | 2025-01-17T17:53:53Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 46183 | 5516 | Julia | 4009 | The Julia Programming Language | 2025-01-17T19:29:25Z |
 | 2 | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | 5043 | 292 | Julia | 298 | 🎈 Simple reactive notebooks for Julia | 2025-01-17T13:19:04Z |
 | 3 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 4564 | 608 | Julia | 213 | Relax! Flux is the ML library that doesn't make you tensor | 2025-01-13T17:43:29Z |
 | 4 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 2894 | 231 | Julia | 161 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia. | 2024-11-06T07:12:51Z |
@@ -25,14 +25,14 @@
 | 18 | [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) | 1452 | 211 | Julia | 334 | An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations | 2025-01-17T13:28:24Z |
 | 19 | [Julia.jl](https://github.com/svaksha/Julia.jl) | 1452 | 200 | Julia | 10 | Curated decibans of Julia programming language. | 2023-12-07T19:45:52Z |
 | 20 | [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) | 1452 | 80 | Julia | 10 | Unicode-based scientific plotting for working in the terminal | 2025-01-11T11:06:49Z |
-| 21 | [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1444 | 194 | Julia | 102 | Compile your Julia Package | 2025-01-01T20:23:44Z |
+| 21 | [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1444 | 194 | Julia | 103 | Compile your Julia Package | 2025-01-01T20:23:44Z |
 | 22 | [penumbra](https://github.com/nealmckee/penumbra) | 1397 | 33 | Julia | 7 | Penumbra Color Theme | 2022-09-13T06:47:06Z |
 | 23 | [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 1385 | 157 | Julia | 432 | Symbolic programming for the next generation of numerical software | 2025-01-17T10:19:14Z |
 | 24 | [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) | 1335 | 91 | Julia | 2 | Concise and beautiful algorithms written in Julia | 2023-12-17T17:11:46Z |
 | 25 | [Mocha.jl](https://github.com/pluskid/Mocha.jl) | 1286 | 252 | Julia | 35 | Deep Learning framework for Julia | 2018-12-06T01:09:35Z |
 | 26 | [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) | 1254 | 139 | Julia | 34 | A generic, simple and fast implementation of Deepmind's AlphaZero algorithm. | 2025-01-05T00:35:20Z |
 | 27 | [polylux](https://github.com/polylux-typ/polylux) | 1230 | 58 | Julia | 74 | A package for creating slides in Typst | 2025-01-16T22:20:57Z |
-| 28 | [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1229 | 232 | Julia | 246 | CUDA programming in Julia. | 2025-01-17T17:00:49Z |
+| 28 | [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1229 | 232 | Julia | 246 | CUDA programming in Julia. | 2025-01-17T19:15:29Z |
 | 29 | [Revise.jl](https://github.com/timholy/Revise.jl) | 1224 | 110 | Julia | 58 | Automatically update function definitions in a running Julia session | 2025-01-16T11:06:37Z |
 | 30 | [VIMKiller](https://github.com/caseykneale/VIMKiller) | 1224 | 16 | Julia | 13 | Exiting VIM is hard; sometimes we need to take drastic measures | 2021-10-14T06:18:57Z |
 | 31 | [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) | 1136 | 224 | Julia | 91 | Optimization functions for Julia | 2024-12-01T17:13:05Z |
@@ -84,7 +84,7 @@
 | 77 | [cvxbook_additional_exercises](https://github.com/cvxgrp/cvxbook_additional_exercises) | 622 | 168 | Julia | 0 | Additional exercises and data for EE364a. No solutions; for public consumption.  | 2024-12-28T22:31:36Z |
 | 78 | [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) | 618 | 114 | Julia | 149 | Physical quantities with arbitrary units | 2025-01-02T08:43:05Z |
 | 79 | [Tullio.jl](https://github.com/mcabbott/Tullio.jl) | 617 | 29 | Julia | 61 | ⅀ | 2024-12-10T04:53:43Z |
-| 80 | [General](https://github.com/JuliaRegistries/General) | 613 | 474 | Julia | 11 | The official registry of general Julia packages | 2025-01-17T19:01:56Z |
+| 80 | [General](https://github.com/JuliaRegistries/General) | 613 | 474 | Julia | 11 | The official registry of general Julia packages | 2025-01-17T19:40:49Z |
 | 81 | [GLM.jl](https://github.com/JuliaStats/GLM.jl) | 602 | 116 | Julia | 58 | Generalized linear models in Julia | 2025-01-08T17:41:45Z |
 | 82 | [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) | 601 | 111 | Julia | 14 | A reinforcement learning package for Julia | 2025-01-14T14:43:29Z |
 | 83 | [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) | 594 | 72 | Julia | 9 | Simple drawings using vector graphics; Cairo "for tourists!" | 2024-12-01T03:06:27Z |
@@ -96,7 +96,7 @@
 | 89 | [Latexify.jl](https://github.com/korsbo/Latexify.jl) | 568 | 60 | Julia | 29 | Convert julia objects to LaTeX equations, arrays or other environments.  | 2024-12-20T13:13:07Z |
 | 90 | [JLD2.jl](https://github.com/JuliaIO/JLD2.jl) | 568 | 92 | Julia | 7 | HDF5-compatible file format in pure Julia | 2025-01-14T14:10:53Z |
 | 91 | [ITensors.jl](https://github.com/ITensor/ITensors.jl) | 560 | 125 | Julia | 77 | A Julia library for efficient tensor computations and tensor network calculations | 2025-01-17T16:03:25Z |
-| 92 | [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 559 | 114 | Julia | 265 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia | 2025-01-17T17:23:48Z |
+| 92 | [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 559 | 114 | Julia | 265 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia | 2025-01-17T19:41:10Z |
 | 93 | [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) | 554 | 137 | Julia | 18 | Port of the book Think Python to the Julia programming language | 2024-08-14T13:42:04Z |
 | 94 | [Literate.jl](https://github.com/fredrikekre/Literate.jl) | 554 | 63 | Julia | 30 | Simple package for literate programming in Julia | 2024-12-11T14:14:15Z |
 | 95 | [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) | 553 | 107 | Julia | 31 | Library for the numerical simulation of closed as well as open quantum systems. | 2024-12-19T19:38:17Z |

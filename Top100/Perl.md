@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cloc](https://github.com/AlDanial/cloc) | 20079 | 1034 | Perl | 22 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2025-01-08T04:32:12Z |
+| 1 | [cloc](https://github.com/AlDanial/cloc) | 20080 | 1034 | Perl | 22 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2025-01-08T04:32:12Z |
 | 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 17663 | 1990 | Perl | 116 | Stack trace visualizer | 2024-10-20T21:48:45Z |
 | 3 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 17432 | 335 | Perl | 26 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2024-09-18T20:56:17Z |
 | 4 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9053 | 1290 | Perl | 33 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2025-01-14T14:41:49Z |
@@ -14,13 +14,13 @@
 | 7 | [git-it-electron](https://github.com/jlord/git-it-electron) | 4691 | 1174 | Perl | 87 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub | 2024-04-10T10:28:06Z |
 | 8 | [Expose](https://github.com/Jack000/Expose) | 4389 | 256 | Perl | 19 | A simple static site generator for photoessays | 2022-03-16T05:58:08Z |
 | 9 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4309 | 545 | Perl | 14 | SICP PDF with Texinfo and LaTeX source | 2024-06-27T03:43:02Z |
-| 10 | [EQGRP](https://github.com/x0rz/EQGRP) | 4104 | 2066 | Perl | 14 | Decrypted content of eqgrp-auction-file.tar.xz | 2017-05-24T21:12:59Z |
+| 10 | [EQGRP](https://github.com/x0rz/EQGRP) | 4105 | 2066 | Perl | 14 | Decrypted content of eqgrp-auction-file.tar.xz | 2017-05-24T21:12:59Z |
 | 11 | [pgbadger](https://github.com/darold/pgbadger) | 3629 | 352 | Perl | 17 | A fast PostgreSQL Log Analyzer | 2024-12-10T02:39:37Z |
 | 12 | [imapsync](https://github.com/imapsync/imapsync) | 3452 | 478 | Perl | 167 | Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  | 2024-06-19T08:04:22Z |
 | 13 | [exiftool](https://github.com/exiftool/exiftool) | 3427 | 332 | Perl | 19 | ExifTool meta information reader/writer | 2025-01-13T13:20:22Z |
 | 14 | [rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3312 | 266 | Perl | 44 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss) | 2025-01-13T04:32:49Z |
-| 15 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 3205 | 312 | Perl | 116 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) | 2024-09-26T01:33:20Z |
-| 16 | [.dotfiles](https://github.com/ThePrimeagen/.dotfiles) | 3180 | 312 | Perl | 23 | None | 2024-04-24T01:43:35Z |
+| 15 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 3206 | 312 | Perl | 116 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) | 2024-09-26T01:33:20Z |
+| 16 | [.dotfiles](https://github.com/ThePrimeagen/.dotfiles) | 3180 | 313 | Perl | 23 | None | 2024-04-24T01:43:35Z |
 | 17 | [rcm](https://github.com/thoughtbot/rcm) | 3139 | 136 | Perl | 25 | rc file (dotfile) management | 2024-08-16T16:54:33Z |
 | 18 | [sqitch](https://github.com/sqitchers/sqitch) | 2903 | 214 | Perl | 72 | Sensible database change management | 2025-01-15T23:03:43Z |
 | 19 | [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2874 | 439 | Perl | 3 | Nginx Tutorials | 2021-03-05T03:48:12Z |
@@ -37,7 +37,7 @@
 | 30 | [get_iplayer](https://github.com/get-iplayer/get_iplayer) | 2206 | 231 | Perl | 4 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds | 2024-07-30T20:54:49Z |
 | 31 | [afterglow-theme](https://github.com/YabataDesign/afterglow-theme) | 2113 | 139 | Perl | 47 | [DEPRECATED] A minimal dark Theme for Sublime Text 2 and 3 | 2023-07-11T07:34:23Z |
 | 32 | [everything-curl](https://github.com/curl/everything-curl) | 2067 | 305 | Perl | 8 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. | 2025-01-11T13:43:22Z |
-| 33 | [perl5](https://github.com/Perl/perl5) | 2016 | 560 | Perl | 2216 | 🐪 The Perl programming language | 2025-01-17T15:32:29Z |
+| 33 | [perl5](https://github.com/Perl/perl5) | 2016 | 560 | Perl | 2216 | 🐪 The Perl programming language | 2025-01-17T19:44:56Z |
 | 34 | [munin](https://github.com/munin-monitoring/munin) | 2005 | 467 | Perl | 179 | Main repository for munin master / node / plugins | 2024-11-29T12:21:08Z |
 | 35 | [nipe](https://github.com/htrgouvea/nipe) | 1988 | 317 | Perl | 18 | An engine to make Tor network your default gateway | 2024-12-06T11:39:49Z |
 | 36 | [ua-parser](https://github.com/tobie/ua-parser) | 1972 | 497 | Perl | 0 | A multi-language port of Browserscope's user agent parser. | 2016-12-26T21:13:22Z |
@@ -58,7 +58,7 @@
 | 51 | [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) | 1446 | 353 | Perl | 3 | Advanced dork Search & Mass Exploit Scanner | 2024-08-10T19:25:05Z |
 | 52 | [SmokePing](https://github.com/oetiker/SmokePing) | 1438 | 184 | Perl | 8 | The Active Monitoring System | 2024-12-02T09:45:36Z |
 | 53 | [checkinpanel](https://github.com/OreosLab/checkinpanel) | 1422 | 351 | Perl | 30 | 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5） | 2023-08-11T03:21:58Z |
-| 54 | [packetfence](https://github.com/inverse-inc/packetfence) | 1404 | 294 | Perl | 651 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks. | 2025-01-17T18:58:05Z |
+| 54 | [packetfence](https://github.com/inverse-inc/packetfence) | 1404 | 294 | Perl | 651 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks. | 2025-01-17T19:32:57Z |
 | 55 | [backuppc](https://github.com/backuppc/backuppc) | 1401 | 187 | Perl | 164 | BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk. | 2024-07-26T12:23:29Z |
 | 56 | [openkore](https://github.com/OpenKore/openkore) | 1300 | 1046 | Perl | 96 | A free/open source client and automation tool for Ragnarok Online | 2025-01-17T01:38:28Z |
 | 57 | [evilgrade](https://github.com/infobyte/evilgrade) | 1296 | 283 | Perl | 11 | Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates. | 2021-09-01T17:08:27Z |
