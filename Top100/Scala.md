@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [the-algorithm](https://github.com/twitter/the-algorithm) | 62778 | 12172 | Scala | 259 | Source code for Twitter's Recommendation Algorithm | 2024-07-10T07:07:01Z |
-| 2 | [spark](https://github.com/apache/spark) | 40340 | 28450 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2025-01-17T19:43:10Z |
+| 2 | [spark](https://github.com/apache/spark) | 40341 | 28450 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2025-01-17T19:43:10Z |
 | 3 | [prisma1](https://github.com/prisma/prisma1) | 16516 | 860 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01T18:57:41Z |
 | 4 | [lila](https://github.com/lichess-org/lila) | 16031 | 2307 | Scala | 1017 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2025-01-17T19:06:01Z |
 | 5 | [scala](https://github.com/scala/scala) | 14355 | 3115 | Scala | 0 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3 | 2025-01-16T21:23:46Z |
@@ -19,7 +19,7 @@
 | 12 | [finagle](https://github.com/twitter/finagle) | 8792 | 1451 | Scala | 58 | A fault tolerant, protocol-agnostic RPC system | 2025-01-15T15:11:01Z |
 | 13 | [delta](https://github.com/delta-io/delta) | 7757 | 1749 | Scala | 595 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2025-01-17T18:55:16Z |
 | 14 | [snowflake](https://github.com/twitter-archive/snowflake) | 7682 | 1134 | Scala | 2 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. | 2020-07-22T18:08:14Z |
-| 15 | [enso](https://github.com/enso-org/enso) | 7386 | 326 | Scala | 645 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2025-01-17T19:40:58Z |
+| 15 | [enso](https://github.com/enso-org/enso) | 7386 | 326 | Scala | 645 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2025-01-17T19:50:52Z |
 | 16 | [snowplow](https://github.com/snowplow/snowplow) | 6868 | 1188 | Scala | 57 | The leader in Next-Generation Customer Data Infrastructure | 2024-09-02T14:31:11Z |
 | 17 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6745 | 295 | Scala | 69 | Arnold Schwarzenegger based programming language | 2024-01-31T22:40:52Z |
 | 18 | [openwhisk](https://github.com/apache/openwhisk) | 6590 | 1171 | Scala | 391 | Apache OpenWhisk is an open source serverless cloud platform | 2025-01-14T21:56:43Z |
@@ -29,7 +29,7 @@
 | 22 | [frontend](https://github.com/guardian/frontend) | 5850 | 556 | Scala | 115 | The Guardian DotCom. | 2025-01-17T17:20:38Z |
 | 23 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5709 | 3050 | Scala | 79 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2024-12-11T18:19:58Z |
 | 24 | [linkerd](https://github.com/linkerd/linkerd) | 5328 | 504 | Scala | 134 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2023-03-04T18:59:40Z |
-| 25 | [cats](https://github.com/typelevel/cats) | 5285 | 1209 | Scala | 211 | Lightweight, modular, and extensible library for functional programming. | 2025-01-17T01:52:18Z |
+| 25 | [cats](https://github.com/typelevel/cats) | 5284 | 1209 | Scala | 211 | Lightweight, modular, and extensible library for functional programming. | 2025-01-17T01:52:18Z |
 | 26 | [SynapseML](https://github.com/microsoft/SynapseML) | 5092 | 834 | Scala | 334 | Simple and Distributed Machine Learning | 2025-01-10T05:53:23Z |
 | 27 | [sbt](https://github.com/sbt/sbt) | 4817 | 939 | Scala | 808 | sbt, the interactive build tool | 2025-01-16T14:00:14Z |
 | 28 | [aerosolve](https://github.com/airbnb/aerosolve) | 4796 | 563 | Scala | 6 | A machine learning package built for humans. | 2024-09-23T23:32:30Z |

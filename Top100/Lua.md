@@ -8,8 +8,8 @@
 | 1 | [kong](https://github.com/Kong/kong) | 39774 | 4843 | Lua | 41 | 🦍 The Cloud-Native API Gateway and AI Gateway. | 2025-01-17T14:51:56Z |
 | 2 | [waifu2x](https://github.com/nagadomi/waifu2x) | 27680 | 2712 | Lua | 153 | Image Super-Resolution for Anime-Style Art | 2023-05-04T00:50:48Z |
 | 3 | [NvChad](https://github.com/NvChad/NvChad) | 25366 | 2166 | Lua | 0 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | 2025-01-13T06:48:17Z |
-| 4 | [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 21250 | 26996 | Lua | 4 | A launch point for your personal nvim configuration | 2025-01-15T19:38:26Z |
-| 5 | [LazyVim](https://github.com/LazyVim/LazyVim) | 18870 | 1318 | Lua | 7 | Neovim config for the lazy | 2025-01-17T09:04:43Z |
+| 4 | [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 21250 | 26996 | Lua | 5 | A launch point for your personal nvim configuration | 2025-01-15T19:38:26Z |
+| 5 | [LazyVim](https://github.com/LazyVim/LazyVim) | 18871 | 1318 | Lua | 7 | Neovim config for the lazy | 2025-01-17T09:04:43Z |
 | 6 | [LunarVim](https://github.com/LunarVim/LunarVim) | 18567 | 1507 | Lua | 19 | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. | 2024-07-13T21:36:31Z |
 | 7 | [neural-style](https://github.com/jcjohnson/neural-style) | 18307 | 2699 | Lua | 290 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
 | 8 | [koreader](https://github.com/koreader/koreader) | 17773 | 1304 | Lua | 799 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2025-01-17T17:05:45Z |
@@ -24,7 +24,7 @@
 | 17 | [xmake](https://github.com/xmake-io/xmake) | 10531 | 815 | Lua | 203 | 🔥 A cross-platform build utility based on Lua | 2025-01-17T14:30:54Z |
 | 18 | [rime-ice](https://github.com/iDvel/rime-ice) | 10492 | 681 | Lua | 5 | Rime 配置：雾凇拼音 \| 长期维护的简体词库 | 2025-01-15T01:41:18Z |
 | 19 | [pix2pix](https://github.com/phillipi/pix2pix) | 10255 | 1717 | Lua | 89 | Image-to-image translation with conditional adversarial nets | 2021-06-06T12:09:47Z |
-| 20 | [avante.nvim](https://github.com/yetone/avante.nvim) | 8825 | 335 | Lua | 159 | Use your Neovim like using Cursor AI IDE! | 2025-01-17T13:36:19Z |
+| 20 | [avante.nvim](https://github.com/yetone/avante.nvim) | 8826 | 335 | Lua | 159 | Use your Neovim like using Cursor AI IDE! | 2025-01-17T13:36:19Z |
 | 21 | [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | 8374 | 410 | Lua | 255 | A completion plugin for neovim coded in Lua. | 2025-01-07T11:16:53Z |
 | 22 | [mason.nvim](https://github.com/williamboman/mason.nvim) | 8232 | 284 | Lua | 208 | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. | 2024-07-20T13:37:06Z |
 | 23 | [packer.nvim](https://github.com/wbthomason/packer.nvim) | 7948 | 264 | Lua | 260 | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | 2024-03-05T19:20:31Z |
@@ -79,7 +79,7 @@
 | 72 | [yoru](https://github.com/raexera/yoru) | 3506 | 204 | Lua | 38 | A custom Linux environment built on AwesomeWM | 2024-08-02T02:19:16Z |
 | 73 | [conform.nvim](https://github.com/stevearc/conform.nvim) | 3499 | 177 | Lua | 52 | Lightweight yet powerful formatter plugin for Neovim | 2025-01-16T19:29:45Z |
 | 74 | [init.lua](https://github.com/ThePrimeagen/init.lua) | 3497 | 621 | Lua | 32 | None | 2025-01-15T15:54:12Z |
-| 75 | [lua-language-server](https://github.com/LuaLS/lua-language-server) | 3487 | 332 | Lua | 560 | A language server that offers Lua language support - programmed in Lua | 2025-01-14T08:19:06Z |
+| 75 | [lua-language-server](https://github.com/LuaLS/lua-language-server) | 3488 | 332 | Lua | 560 | A language server that offers Lua language support - programmed in Lua | 2025-01-14T08:19:06Z |
 | 76 | [tarantool](https://github.com/tarantool/tarantool) | 3448 | 384 | Lua | 1321 | Get your data in RAM. Get compute close to data. Enjoy the performance. | 2025-01-17T12:55:15Z |
 | 77 | [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) | 3429 | 129 | Lua | 38 | vim-be-good is a nvim plugin designed to make you better at Vim Movements.  | 2024-12-05T02:01:17Z |
 | 78 | [todo-comments.nvim](https://github.com/folke/todo-comments.nvim) | 3419 | 96 | Lua | 6 | ✅  Highlight, list and search todo comments in your projects | 2025-01-14T17:03:48Z |

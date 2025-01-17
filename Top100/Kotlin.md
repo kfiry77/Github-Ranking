@@ -89,7 +89,7 @@
 | 82 | [ktlint](https://github.com/pinterest/ktlint) | 6309 | 509 | Kotlin | 17 | An anti-bikeshedding Kotlin linter with built-in formatter | 2025-01-12T15:51:09Z |
 | 83 | [sqldelight](https://github.com/sqldelight/sqldelight) | 6278 | 524 | Kotlin | 655 | SQLDelight - Generates typesafe Kotlin APIs from SQL | 2025-01-15T20:09:59Z |
 | 84 | [arrow](https://github.com/arrow-kt/arrow) | 6246 | 449 | Kotlin | 30 | Λrrow - The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming | 2025-01-14T22:21:37Z |
-| 85 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 6176 | 3659 | Kotlin | 118 | Used to integrate Android apps with Facebook Platform. | 2025-01-14T19:55:54Z |
+| 85 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 6177 | 3659 | Kotlin | 118 | Used to integrate Android apps with Facebook Platform. | 2025-01-14T19:55:54Z |
 | 86 | [breezy-weather](https://github.com/breezy-weather/breezy-weather) | 6110 | 187 | Kotlin | 75 | A Material Design Weather Application | 2025-01-15T16:18:44Z |
 | 87 | [maestro](https://github.com/mobile-dev-inc/maestro) | 6041 | 298 | Kotlin | 391 | Painless Mobile UI Automation | 2025-01-17T07:09:21Z |
 | 88 | [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) | 5931 | 697 | Kotlin | 2 | Design Patterns implemented in Kotlin | 2024-06-11T06:11:21Z |
@@ -97,12 +97,12 @@
 | 90 | [Android-Expert](https://github.com/ArisGuimera/Android-Expert) | 5788 | 132 | Kotlin | 0 | Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos  | 2023-07-27T13:48:31Z |
 | 91 | [MultiType](https://github.com/drakeet/MultiType) | 5768 | 752 | Kotlin | 10 | Flexible multiple types for Android RecyclerView. | 2022-08-28T04:51:44Z |
 | 92 | [android-oss](https://github.com/kickstarter/android-oss) | 5752 | 991 | Kotlin | 6 | Kickstarter for Android. Bring new ideas to life, anywhere. | 2025-01-16T23:56:15Z |
-| 93 | [ab-download-manager](https://github.com/amir1376/ab-download-manager) | 5700 | 335 | Kotlin | 119 | A Download Manager that speeds up your downloads | 2025-01-17T01:36:11Z |
+| 93 | [ab-download-manager](https://github.com/amir1376/ab-download-manager) | 5701 | 335 | Kotlin | 119 | A Download Manager that speeds up your downloads | 2025-01-17T01:36:11Z |
 | 94 | [SagerNet](https://github.com/SagerNet/SagerNet) | 5700 | 949 | Kotlin | 100 | The universal proxy toolchain for Android | 2024-02-13T08:55:52Z |
 | 95 | [Alerter](https://github.com/Tapadoo/Alerter) | 5524 | 634 | Kotlin | 45 | An Android Alerting Library | 2023-07-21T08:28:18Z |
 | 96 | [mockk](https://github.com/mockk/mockk) | 5488 | 350 | Kotlin | 295 | mocking library for Kotlin | 2025-01-15T16:09:13Z |
 | 97 | [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | 5485 | 628 | Kotlin | 241 | Kotlin multiplatform / multi-format serialization  | 2025-01-10T11:52:07Z |
-| 98 | [androidx](https://github.com/androidx/androidx) | 5416 | 1048 | Kotlin | 0 | Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP. | 2025-01-17T19:44:12Z |
+| 98 | [androidx](https://github.com/androidx/androidx) | 5416 | 1048 | Kotlin | 0 | Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP. | 2025-01-17T19:55:49Z |
 | 99 | [ReadYou](https://github.com/Ashinch/ReadYou) | 5364 | 211 | Kotlin | 307 | An Android RSS reader presented in Material You style. | 2025-01-15T14:01:03Z |
 | 100 | [aniyomi](https://github.com/aniyomiorg/aniyomi) | 5330 | 338 | Kotlin | 168 | An app for manga and anime | 2025-01-13T20:03:08Z |
 

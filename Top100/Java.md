@@ -14,17 +14,17 @@
 | 7 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 75649 | 13988 | Java | 19 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） | 2023-08-14T12:14:01Z |
 | 8 | [elasticsearch](https://github.com/elastic/elasticsearch) | 71321 | 24979 | Java | 3943 | Free and Open Source, Distributed, RESTful Search Engine | 2025-01-17T19:43:42Z |
 | 9 | [interviews](https://github.com/kdn251/interviews) | 63825 | 12907 | Java | 30 | Everything you need to know to get the job. | 2024-05-13T08:48:36Z |
-| 10 | [Java](https://github.com/TheAlgorithms/Java) | 60594 | 19598 | Java | 2 | All Algorithms implemented in Java | 2025-01-16T07:46:57Z |
+| 10 | [Java](https://github.com/TheAlgorithms/Java) | 60595 | 19598 | Java | 2 | All Algorithms implemented in Java | 2025-01-16T07:46:57Z |
 | 11 | [spring-framework](https://github.com/spring-projects/spring-framework) | 57167 | 38299 | Java | 277 | Spring Framework | 2025-01-17T16:58:01Z |
 | 12 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | 53111 | 6001 | Java | 1422 | Ghidra is a software reverse engineering (SRE) framework | 2025-01-17T19:02:17Z |
-| 13 | [guava](https://github.com/google/guava) | 50413 | 10943 | Java | 633 | Google core libraries for Java | 2025-01-17T19:29:17Z |
-| 14 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 48929 | 4029 | Java | 208 | #1 Locally hosted web application that allows you to perform various operations on PDF files | 2025-01-17T19:43:32Z |
+| 13 | [guava](https://github.com/google/guava) | 50413 | 10943 | Java | 633 | Google core libraries for Java | 2025-01-17T19:57:58Z |
+| 14 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 48930 | 4029 | Java | 208 | #1 Locally hosted web application that allows you to perform various operations on PDF files | 2025-01-17T20:01:19Z |
 | 15 | [RxJava](https://github.com/ReactiveX/RxJava) | 47963 | 7603 | Java | 11 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. | 2025-01-13T08:22:00Z |
 | 16 | [jadx](https://github.com/skylot/jadx) | 42562 | 4957 | Java | 403 | Dex to Java decompiler | 2025-01-13T20:12:28Z |
 | 17 | [dbeaver](https://github.com/dbeaver/dbeaver) | 41363 | 3552 | Java | 2777 | Free universal database tool and SQL client | 2025-01-17T16:00:18Z |
 | 18 | [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 41297 | 15018 | Java | 51 | 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式，引入AI模型能力 OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 | 2025-01-16T07:00:35Z |
 | 19 | [dubbo](https://github.com/apache/dubbo) | 40659 | 26460 | Java | 785 | The java implementation of Apache Dubbo. An RPC and microservice framework. | 2025-01-15T13:30:48Z |
-| 20 | [termux-app](https://github.com/termux/termux-app) | 38124 | 4024 | Java | 348 | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 2025-01-12T22:41:48Z |
+| 20 | [termux-app](https://github.com/termux/termux-app) | 38125 | 4024 | Java | 348 | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 2025-01-12T22:41:48Z |
 | 21 | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 37738 | 9032 | Java | 2063 | A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. | 2024-08-20T14:01:30Z |
 | 22 | [tutorials](https://github.com/eugenp/tutorials) | 36941 | 54436 | Java | 30 | Getting Started with Spring Boot 3:  | 2025-01-17T17:51:36Z |
 | 23 | [arthas](https://github.com/alibaba/arthas) | 35898 | 7532 | Java | 353 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | 2024-12-02T07:14:08Z |
@@ -32,7 +32,7 @@
 | 25 | [lottie-android](https://github.com/airbnb/lottie-android) | 35137 | 5425 | Java | 20 | Render After Effects animations natively on Android and iOS, Web, and React Native | 2024-12-16T01:47:28Z |
 | 26 | [glide](https://github.com/bumptech/glide) | 34744 | 6135 | Java | 534 | An image loading and caching library for Android focused on smooth scrolling | 2025-01-09T23:00:20Z |
 | 27 | [halo](https://github.com/halo-dev/halo) | 34567 | 9778 | Java | 339 | 强大易用的开源建站工具。 | 2025-01-03T09:53:26Z |
-| 28 | [netty](https://github.com/netty/netty) | 33687 | 15998 | Java | 575 | Netty project - an event-driven asynchronous network application framework | 2025-01-17T18:45:19Z |
+| 28 | [netty](https://github.com/netty/netty) | 33687 | 15998 | Java | 575 | Netty project - an event-driven asynchronous network application framework | 2025-01-17T19:59:50Z |
 | 29 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 33407 | 10699 | Java | 301 | :fire: Android developers should collect the following utils(updating). | 2024-08-15T10:38:10Z |
 | 30 | [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 33318 | 10929 | Java | 94 | 🚀一个用来深入学习并实战 Spring Boot 的项目。 | 2024-07-24T02:02:52Z |
 | 31 | [easyexcel](https://github.com/alibaba/easyexcel) | 33074 | 7609 | Java | 455 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 | 2024-10-29T06:07:07Z |
@@ -45,14 +45,14 @@
 | 38 | [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 30339 | 12353 | Java | 9 | about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。  | 2023-11-18T16:32:16Z |
 | 39 | [hutool](https://github.com/dromara/hutool) | 29409 | 7554 | Java | 4 | 🍬A set of tools that keep Java sweet. | 2025-01-17T11:49:51Z |
 | 40 | [apollo](https://github.com/apolloconfig/apollo) | 29287 | 10227 | Java | 133 | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | 2025-01-12T01:45:34Z |
-| 41 | [kafka](https://github.com/apache/kafka) | 29267 | 14105 | Java | 0 | Mirror of Apache Kafka | 2025-01-17T18:23:23Z |
+| 41 | [kafka](https://github.com/apache/kafka) | 29267 | 14105 | Java | 0 | Mirror of Apache Kafka | 2025-01-17T19:51:05Z |
 | 42 | [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 28806 | 6182 | Java | 11 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ | 2025-01-17T12:36:07Z |
 | 43 | [canal](https://github.com/alibaba/canal) | 28753 | 7645 | Java | 1088 | 阿里巴巴 MySQL binlog 增量订阅&消费组件  | 2025-01-16T08:07:11Z |
 | 44 | [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28541 | 8168 | Java | 21 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc | 2024-05-31T14:56:35Z |
-| 45 | [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28170 | 8355 | Java | 266 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | 2024-12-04T01:22:42Z |
+| 45 | [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28169 | 8355 | Java | 266 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | 2024-12-04T01:22:42Z |
 | 46 | [xxl-job](https://github.com/xuxueli/xxl-job) | 28158 | 11044 | Java | 763 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） | 2025-01-13T03:24:45Z |
 | 47 | [druid](https://github.com/alibaba/druid) | 28043 | 8595 | Java | 2196 | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 | 2025-01-17T03:16:15Z |
-| 48 | [vhr](https://github.com/lenve/vhr) | 27532 | 10297 | Java | 158 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 | 2024-11-25T00:07:39Z |
+| 48 | [vhr](https://github.com/lenve/vhr) | 27531 | 10297 | Java | 158 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 | 2024-11-25T00:07:39Z |
 | 49 | [JCSprout](https://github.com/crossoverJie/JCSprout) | 27076 | 7078 | Java | 30 | 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm  | 2024-05-21T02:46:20Z |
 | 50 | [miaosha](https://github.com/qiurunze123/miaosha) | 26236 | 6616 | Java | 1 | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 | 2024-06-06T19:31:57Z |
 | 51 | [fastjson](https://github.com/alibaba/fastjson) | 25761 | 6496 | Java | 1935 | FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade. | 2024-07-16T07:35:37Z |
@@ -67,12 +67,12 @@
 | 60 | [flink](https://github.com/apache/flink) | 24415 | 13474 | Java | 0 | Apache Flink | 2025-01-17T17:49:17Z |
 | 61 | [Hystrix](https://github.com/Netflix/Hystrix) | 24191 | 4718 | Java | 351 | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | 2023-10-17T13:04:47Z |
 | 62 | [skywalking](https://github.com/apache/skywalking) | 24052 | 6544 | Java | 73 | APM, Application Performance Monitoring System | 2025-01-17T12:01:10Z |
-| 63 | [libgdx](https://github.com/libgdx/libgdx) | 23621 | 6449 | Java | 237 | Desktop/Android/HTML5/iOS Java game development framework | 2025-01-17T11:13:37Z |
+| 63 | [libgdx](https://github.com/libgdx/libgdx) | 23620 | 6449 | Java | 237 | Desktop/Android/HTML5/iOS Java game development framework | 2025-01-17T11:13:37Z |
 | 64 | [bazel](https://github.com/bazelbuild/bazel) | 23563 | 4117 | Java | 1698 | a fast, scalable, multi-language and extensible build system | 2025-01-17T19:18:40Z |
 | 65 | [redisson](https://github.com/redisson/redisson) | 23535 | 5397 | Java | 289 | Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | 2025-01-17T05:37:45Z |
 | 66 | [gson](https://github.com/google/gson) | 23490 | 4296 | Java | 237 | A Java serialization/deserialization library to convert Java Objects into JSON and back | 2025-01-02T15:29:13Z |
-| 67 | [jenkins](https://github.com/jenkinsci/jenkins) | 23488 | 8888 | Java | 0 | Jenkins automation server | 2025-01-17T18:29:21Z |
-| 68 | [Mindustry](https://github.com/Anuken/Mindustry) | 23096 | 3016 | Java | 4 | The automation tower defense RTS | 2025-01-17T04:05:57Z |
+| 67 | [jenkins](https://github.com/jenkinsci/jenkins) | 23488 | 8889 | Java | 0 | Jenkins automation server | 2025-01-17T18:29:21Z |
+| 68 | [Mindustry](https://github.com/Anuken/Mindustry) | 23096 | 3017 | Java | 4 | The automation tower defense RTS | 2025-01-17T04:05:57Z |
 | 69 | [Sentinel](https://github.com/alibaba/Sentinel) | 22535 | 8062 | Java | 665 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2024-10-24T12:34:45Z |
 | 70 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 22482 | 6691 | Java | 4549 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) | 2025-01-17T07:28:54Z |
 | 71 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 22408 | 4153 | Java | 11 | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 2025-01-02T11:03:02Z |
@@ -80,11 +80,11 @@
 | 73 | [ExoPlayer](https://github.com/google/ExoPlayer) | 21766 | 6031 | Java | 648 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media | 2024-08-07T18:54:48Z |
 | 74 | [rocketmq](https://github.com/apache/rocketmq) | 21457 | 11755 | Java | 280 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | 2025-01-17T03:44:32Z |
 | 75 | [eladmin](https://github.com/elunez/eladmin) | 21455 | 7370 | Java | 2 | eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 | 2025-01-17T07:23:52Z |
-| 76 | [Apktool](https://github.com/iBotPeaches/Apktool) | 21043 | 3644 | Java | 74 | A tool for reverse engineering Android apk files | 2025-01-15T02:36:15Z |
+| 76 | [Apktool](https://github.com/iBotPeaches/Apktool) | 21044 | 3644 | Java | 74 | A tool for reverse engineering Android apk files | 2025-01-15T02:36:15Z |
 | 77 | [SmartTube](https://github.com/yuliskov/SmartTube) | 21008 | 1136 | Java | 2309 | Advanced player for set-top boxes and tvs running Android OS | 2025-01-17T12:02:08Z |
 | 78 | [graal](https://github.com/oracle/graal) | 20555 | 1660 | Java | 645 | GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | 2025-01-17T18:55:49Z |
 | 79 | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 20495 | 4235 | Java | 16 | 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。  | 2025-01-11T06:29:59Z |
-| 80 | [jdk](https://github.com/openjdk/jdk) | 20286 | 5665 | Java | 0 | JDK main-line development https://openjdk.org/projects/jdk | 2025-01-17T19:44:07Z |
+| 80 | [jdk](https://github.com/openjdk/jdk) | 20286 | 5665 | Java | 0 | JDK main-line development https://openjdk.org/projects/jdk | 2025-01-17T20:01:17Z |
 | 81 | [DoKit](https://github.com/didi/DoKit) | 20251 | 3134 | Java | 232 | 一款面向泛前端产品研发全生命周期的效率平台。 | 2025-01-02T08:27:43Z |
 | 82 | [HikariCP](https://github.com/brettwooldridge/HikariCP) | 20184 | 2963 | Java | 493 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. | 2024-12-13T17:17:35Z |
 | 83 | [shardingsphere](https://github.com/apache/shardingsphere) | 20017 | 6781 | Java | 468 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | 2025-01-17T16:51:48Z |
@@ -100,9 +100,9 @@
 | 93 | [LSPosed](https://github.com/LSPosed/LSPosed) | 18590 | 2910 | Java | 0 | LSPosed Framework | 2025-01-15T21:46:03Z |
 | 94 | [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 18270 | 2035 | Java | 372 | 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. | 2025-01-14T12:17:33Z |
 | 95 | [thingsboard](https://github.com/thingsboard/thingsboard) | 18073 | 5350 | Java | 642 | Open-source IoT Platform - Device management, data collection, processing and visualization. | 2025-01-17T17:02:53Z |
-| 96 | [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 17997 | 11475 | Java | 175 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. | 2024-08-18T08:21:57Z |
+| 96 | [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 17997 | 11474 | Java | 175 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. | 2024-08-18T08:21:57Z |
 | 97 | [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) | 17909 | 8058 | Java | 40 | 《史上最简单的Spring Cloud教程源码》 | 2021-04-12T09:53:47Z |
 | 98 | [disruptor](https://github.com/LMAX-Exchange/disruptor) | 17597 | 3932 | Java | 18 | High Performance Inter-Thread Messaging Library | 2024-09-13T20:06:37Z |
 | 99 | [Algorithms](https://github.com/williamfiset/Algorithms) | 17594 | 4407 | Java | 62 | A collection of algorithms and data structures | 2024-12-30T10:03:15Z |
-| 100 | [intellij-community](https://github.com/JetBrains/intellij-community) | 17589 | 5319 | Java | 0 | IntelliJ IDEA Community Edition & IntelliJ Platform | 2025-01-17T19:35:47Z |
+| 100 | [intellij-community](https://github.com/JetBrains/intellij-community) | 17589 | 5319 | Java | 0 | IntelliJ IDEA Community Edition & IntelliJ Platform | 2025-01-17T19:51:50Z |
 

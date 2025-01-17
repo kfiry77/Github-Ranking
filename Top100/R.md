@@ -11,7 +11,7 @@
 | 4 | [shiny](https://github.com/rstudio/shiny) | 5399 | 1865 | R | 808 | Easy interactive web applications with R | 2025-01-14T18:38:03Z |
 | 5 | [dplyr](https://github.com/tidyverse/dplyr) | 4812 | 2124 | R | 82 | dplyr: A grammar of data manipulation | 2024-11-02T17:51:08Z |
 | 6 | [r4ds](https://github.com/hadley/r4ds) | 4642 | 4239 | R | 35 | R for data science: a book | 2025-01-12T18:46:45Z |
-| 7 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 4354 | 7241 | R | 141 | :mortar_board: A collection of interactive courses for the swirl R package. | 2024-01-10T17:38:19Z |
+| 7 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 4354 | 7240 | R | 141 | :mortar_board: A collection of interactive courses for the swirl R package. | 2024-01-10T17:38:19Z |
 | 8 | [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4115 | 443 | R | 11 | Statistical Rethinking course winter 2022 | 2022-03-15T15:07:26Z |
 | 9 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3671 | 2217 | R | 23 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |
 | 10 | [data.table](https://github.com/Rdatatable/data.table) | 3647 | 992 | R | 955 | R's data.table package extends data.frame: | 2025-01-17T18:14:46Z |
@@ -43,7 +43,7 @@
 | 36 | [tidyverse](https://github.com/tidyverse/tidyverse) | 1685 | 291 | R | 6 | Easily install and load packages from the tidyverse | 2024-10-21T22:01:22Z |
 | 37 | [mlr](https://github.com/mlr-org/mlr) | 1650 | 404 | R | 8 | Machine Learning in R  | 2024-08-12T16:39:12Z |
 | 38 | [caret](https://github.com/topepo/caret) | 1624 | 630 | R | 180 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models | 2024-12-10T20:43:41Z |
-| 39 | [geocompr](https://github.com/geocompx/geocompr) | 1617 | 593 | R | 4 | Geocomputation with R: an open source book | 2025-01-03T08:37:17Z |
+| 39 | [geocompr](https://github.com/geocompx/geocompr) | 1617 | 593 | R | 5 | Geocomputation with R: an open source book | 2025-01-03T08:37:17Z |
 | 40 | [stats337](https://github.com/hadley/stats337) | 1615 | 229 | R | 5 | Readings in applied data science | 2018-06-21T15:57:29Z |
 | 41 | [bbplot](https://github.com/bbc/bbplot) | 1573 | 267 | R | 12 | R package that helps create and export ggplot2 charts in the style used by the BBC News data team | 2021-07-02T16:44:39Z |
 | 42 | [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1548 | 140 | R | 24 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 | 2024-08-15T15:09:03Z |

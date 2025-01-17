@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [winutil](https://github.com/ChrisTitusTech/winutil) | 27435 | 1615 | PowerShell | 175 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2025-01-17T14:43:09Z |
+| 1 | [winutil](https://github.com/ChrisTitusTech/winutil) | 27436 | 1615 | PowerShell | 175 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2025-01-17T14:43:09Z |
 | 2 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 21592 | 1427 | PowerShell | 261 | A command-line installer for Windows. | 2025-01-03T06:34:40Z |
 | 3 | [core](https://github.com/dotnet/core) | 21090 | 4895 | PowerShell | 335 | .NET news, announcements, release notes, and more! | 2025-01-16T01:49:50Z |
-| 4 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18307 | 2054 | PowerShell | 284 | Script to remove Windows 10 bloatware. | 2023-03-10T04:15:01Z |
-| 5 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 15875 | 683 | PowerShell | 21 | A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11. | 2025-01-09T22:08:50Z |
+| 4 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18308 | 2054 | PowerShell | 284 | Script to remove Windows 10 bloatware. | 2023-03-10T04:15:01Z |
+| 5 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 15876 | 683 | PowerShell | 21 | A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11. | 2025-01-09T22:08:50Z |
 | 6 | [SpotX](https://github.com/SpotX-Official/SpotX) | 14945 | 811 | PowerShell | 4 | SpotX patcher used for patching the desktop version of Spotify | 2025-01-15T14:12:03Z |
 | 7 | [Atlas](https://github.com/Atlas-OS/Atlas) | 14705 | 554 | PowerShell | 35 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 2024-12-05T17:33:20Z |
 | 8 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 12041 | 4620 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
@@ -18,12 +18,12 @@
 | 11 | [Office-Tool](https://github.com/YerongAI/Office-Tool) | 10512 | 893 | PowerShell | 2 | Office Tool Plus localization projects. | 2025-01-14T13:21:51Z |
 | 12 | [BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) | 10004 | 1742 | PowerShell | 71 | Six Degrees of Domain Admin | 2024-06-28T14:31:41Z |
 | 13 | [blazor](https://github.com/dotnet/blazor) | 9333 | 647 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
-| 14 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 8988 | 4707 | PowerShell | 836 | The Microsoft community Windows Package Manager manifest repository | 2025-01-17T19:45:27Z |
+| 14 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 8988 | 4707 | PowerShell | 836 | The Microsoft community Windows Package Manager manifest repository | 2025-01-17T20:02:31Z |
 | 15 | [nishang](https://github.com/samratashok/nishang) | 8916 | 2460 | PowerShell | 16 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2024-04-25T19:39:44Z |
 | 16 | [Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 7927 | 585 | PowerShell | 0 | :zap: The most powerful PowerShell module for fine-tuning Windows | 2025-01-16T18:38:07Z |
 | 17 | [posh-git](https://github.com/dahlbyk/posh-git) | 7781 | 810 | PowerShell | 80 | A PowerShell environment for Git | 2024-09-02T15:03:06Z |
 | 18 | [Empire](https://github.com/EmpireProject/Empire) | 7516 | 2825 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
-| 19 | [commando-vm](https://github.com/mandiant/commando-vm) | 7045 | 1306 | PowerShell | 6 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com | 2024-09-24T19:14:18Z |
+| 19 | [commando-vm](https://github.com/mandiant/commando-vm) | 7046 | 1306 | PowerShell | 6 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com | 2024-09-24T19:14:18Z |
 | 20 | [docker](https://github.com/jenkinsci/docker) | 6792 | 4570 | PowerShell | 20 | Docker official jenkins repo | 2025-01-14T16:28:34Z |
 | 21 | [flare-vm](https://github.com/mandiant/flare-vm) | 6783 | 940 | PowerShell | 17 | A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM. | 2025-01-17T18:19:55Z |
 | 22 | [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | 6120 | 840 | PowerShell | 33 | A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps | 2024-11-04T18:26:57Z |
@@ -79,7 +79,7 @@
 | 72 | [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) | 2034 | 364 | PowerShell | 38 | AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. | 2025-01-17T00:00:29Z |
 | 73 | [PersistenceSniper](https://github.com/last-byte/PersistenceSniper) | 1943 | 191 | PowerShell | 2 | Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with ❤️ by @last0x00 and @dottor_morte | 2024-12-11T16:45:04Z |
 | 74 | [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) | 1942 | 353 | PowerShell | 6 | The goal of this repository is to document the most common techniques to bypass AppLocker.  | 2023-09-11T20:43:25Z |
-| 75 | [ScubaGear](https://github.com/cisagov/ScubaGear) | 1919 | 244 | PowerShell | 206 | Automation to assess the state of your M365 tenant against CISA's baselines | 2025-01-17T19:29:44Z |
+| 75 | [ScubaGear](https://github.com/cisagov/ScubaGear) | 1919 | 244 | PowerShell | 207 | Automation to assess the state of your M365 tenant against CISA's baselines | 2025-01-17T19:52:21Z |
 | 76 | [Sherlock](https://github.com/rasta-mouse/Sherlock) | 1913 | 423 | PowerShell | 2 | PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. | 2018-10-10T09:10:45Z |
 | 77 | [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | 1888 | 1752 | PowerShell | 0 | Open source documentation for the Azure Architecture Center on Microsoft Learn. | 2025-01-17T18:33:00Z |
 | 78 | [Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) | 1864 | 554 | PowerShell | 0 | This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc. | 2025-01-10T21:23:05Z |

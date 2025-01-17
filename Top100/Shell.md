@@ -10,7 +10,7 @@
 | 3 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 90133 | 5815 | Shell | 0 | Papers from the computer science community to read and discuss. | 2024-11-08T18:55:54Z |
 | 4 | [nvm](https://github.com/nvm-sh/nvm) | 81707 | 8132 | Shell | 301 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 2025-01-13T16:31:59Z |
 | 5 | [node](https://github.com/base-org/node) | 68566 | 2625 | Shell | 36 | Everything required to run your own Base node | 2025-01-07T17:51:31Z |
-| 6 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 53344 | 11709 | Shell | 181 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 2025-01-17T11:59:57Z |
+| 6 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 53345 | 11709 | Shell | 181 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 2025-01-17T11:59:57Z |
 | 7 | [pi-hole](https://github.com/pi-hole/pi-hole) | 49922 | 2728 | Shell | 32 | A black hole for Internet advertisements | 2025-01-16T17:13:43Z |
 | 8 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 49331 | 2766 | Shell | 366 | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | 2024-11-18T15:00:58Z |
 | 9 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | 47473 | 2225 | Shell | 73 | A Zsh theme | 2025-01-06T11:24:25Z |
@@ -21,13 +21,13 @@
 | 14 | [windows](https://github.com/dockur/windows) | 31961 | 2199 | Shell | 81 | Windows inside a Docker container. | 2025-01-15T22:46:44Z |
 | 15 | [dotfiles](https://github.com/mathiasbynens/dotfiles) | 30493 | 8728 | Shell | 144 | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | 2024-08-05T19:06:13Z |
 | 16 | [dokku](https://github.com/dokku/dokku) | 29641 | 1934 | Shell | 45 | A docker-powered PaaS that helps you build and manage the lifecycle of applications | 2025-01-17T14:00:56Z |
-| 17 | [node](https://github.com/inkonchain/node) | 27720 | 428 | Shell | 6 | How to run an Ink Node | 2025-01-13T18:18:12Z |
+| 17 | [node](https://github.com/inkonchain/node) | 27728 | 428 | Shell | 6 | How to run an Ink Node | 2025-01-13T18:18:12Z |
 | 18 | [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 27521 | 6364 | Shell | 8 | This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.  | 2024-11-12T10:13:26Z |
 | 19 | [gitflow](https://github.com/nvie/gitflow) | 26711 | 2664 | Shell | 238 | Git extensions to provide high-level repository operations for Vincent Driessen's branching model. | 2024-03-03T22:28:12Z |
 | 20 | [vscodium](https://github.com/VSCodium/vscodium) | 26069 | 1153 | Shell | 119 | binary releases of VS Code without MS branding/telemetry/licensing | 2025-01-17T18:16:13Z |
 | 21 | [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 25906 | 1507 | Shell | 136 | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws | 2025-01-02T07:23:41Z |
 | 22 | [fonts](https://github.com/powerline/fonts) | 25841 | 3198 | Shell | 155 | Patched fonts for Powerline users. | 2024-03-22T16:47:30Z |
-| 23 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 25653 | 6350 | Shell | 1 | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | 2024-12-27T15:12:41Z |
+| 23 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 25654 | 6351 | Shell | 1 | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | 2024-12-27T15:12:41Z |
 | 24 | [v2ray](https://github.com/233boy/v2ray) | 25271 | 16303 | Shell | 221 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 2024-12-05T12:29:20Z |
 | 25 | [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | 25219 | 6475 | Shell | 25 | Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more | 2025-01-17T19:19:20Z |
 | 26 | [streisand](https://github.com/StreisandEffect/streisand) | 23220 | 1988 | Shell | 211 | Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. | 2021-05-04T09:42:40Z |
@@ -46,7 +46,7 @@
 | 39 | [z](https://github.com/rupa/z) | 16469 | 1171 | Shell | 83 | z - jump around | 2024-06-19T08:00:48Z |
 | 40 | [rbenv](https://github.com/rbenv/rbenv) | 16202 | 1387 | Shell | 6 | Manage your app's Ruby environment | 2025-01-08T14:05:28Z |
 | 41 | [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | 15782 | 549 | Shell | 5 | A collection of ZSH frameworks, plugins, themes and tutorials. | 2025-01-16T17:28:23Z |
-| 42 | [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 15737 | 900 | Shell | 13 | 🖥 📊 🕹 🛠 A curated list of command line apps | 2024-11-21T21:08:42Z |
+| 42 | [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 15738 | 900 | Shell | 13 | 🖥 📊 🕹 🛠 A curated list of command line apps | 2024-11-21T21:08:42Z |
 | 43 | [redox](https://github.com/redox-os/redox) | 15256 | 927 | Shell | 0 | Mirror of https://gitlab.redox-os.org/redox-os/redox | 2025-01-17T02:17:39Z |
 | 44 | [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 15181 | 2289 | Shell | 10 | A curated list for awesome kubernetes sources :ship::tada: | 2024-11-26T13:26:03Z |
 | 45 | [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | 15103 | 1858 | Shell | 78 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. | 2025-01-14T23:38:17Z |

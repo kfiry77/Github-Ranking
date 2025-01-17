@@ -5,13 +5,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [linux](https://github.com/torvalds/linux) | 186021 | 54786 | C | 0 | Linux kernel source tree | 2025-01-17T04:00:33Z |
+| 1 | [linux](https://github.com/torvalds/linux) | 186020 | 54786 | C | 0 | Linux kernel source tree | 2025-01-17T04:00:33Z |
 | 2 | [scrcpy](https://github.com/Genymobile/scrcpy) | 116227 | 11028 | C | 2152 | Display and control your Android device | 2025-01-15T09:55:15Z |
 | 3 | [netdata](https://github.com/netdata/netdata) | 72950 | 5994 | C | 147 | Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed! | 2025-01-17T18:14:05Z |
-| 4 | [redis](https://github.com/redis/redis) | 67725 | 23869 | C | 2066 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2025-01-16T06:40:19Z |
-| 5 | [Ventoy](https://github.com/ventoy/Ventoy) | 64123 | 4140 | C | 785 | A new bootable USB solution. | 2024-11-16T09:02:51Z |
-| 6 | [obs-studio](https://github.com/obsproject/obs-studio) | 61611 | 8117 | C | 549 | OBS Studio - Free and open source software for live streaming and screen recording | 2025-01-17T19:11:50Z |
-| 7 | [git](https://github.com/git/git) | 53197 | 25806 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2025-01-16T23:02:53Z |
+| 4 | [redis](https://github.com/redis/redis) | 67726 | 23869 | C | 2066 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2025-01-16T06:40:19Z |
+| 5 | [Ventoy](https://github.com/ventoy/Ventoy) | 64124 | 4140 | C | 785 | A new bootable USB solution. | 2024-11-16T09:02:51Z |
+| 6 | [obs-studio](https://github.com/obsproject/obs-studio) | 61611 | 8118 | C | 549 | OBS Studio - Free and open source software for live streaming and screen recording | 2025-01-17T19:11:50Z |
+| 7 | [git](https://github.com/git/git) | 53197 | 25807 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2025-01-17T19:49:58Z |
 | 8 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 47301 | 12332 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2025-01-17T13:15:04Z |
 | 9 | [php-src](https://github.com/php/php-src) | 38527 | 7796 | C | 737 | The PHP Interpreter | 2025-01-17T18:44:38Z |
 | 10 | [wrk](https://github.com/wg/wrk) | 38279 | 2957 | C | 142 | Modern HTTP benchmarking tool | 2023-12-30T10:33:51Z |
@@ -55,7 +55,7 @@
 | 48 | [qmk_firmware](https://github.com/qmk/qmk_firmware) | 18592 | 40189 | C | 309 | Open-source keyboard firmware for Atmel AVR and Arm USB families | 2025-01-15T19:37:39Z |
 | 49 | [HandBrake](https://github.com/HandBrake/HandBrake) | 18507 | 1382 | C | 248 | HandBrake's main development repository  | 2025-01-16T11:41:17Z |
 | 50 | [valkey](https://github.com/valkey-io/valkey) | 18460 | 701 | C | 225 | A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. | 2025-01-17T07:56:53Z |
-| 51 | [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | 18281 | 1499 | C | 92 | Flipper Zero Unleashed Firmware | 2025-01-17T11:59:13Z |
+| 51 | [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | 18280 | 1499 | C | 92 | Flipper Zero Unleashed Firmware | 2025-01-17T11:59:13Z |
 | 52 | [timescaledb](https://github.com/timescale/timescaledb) | 18201 | 897 | C | 500 | A time-series database for high-performance real-time analytics packaged as a Postgres extension | 2025-01-16T16:35:20Z |
 | 53 | [lvgl](https://github.com/lvgl/lvgl) | 18044 | 3385 | C | 78 | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.  | 2025-01-16T02:42:30Z |
 | 54 | [llama2.c](https://github.com/karpathy/llama2.c) | 17860 | 2164 | C | 121 | Inference Llama 2 in one file of pure C | 2024-08-06T09:44:40Z |
@@ -64,7 +64,7 @@
 | 57 | [blurhash](https://github.com/woltapp/blurhash) | 16007 | 367 | C | 19 | A very compact representation of a placeholder for an image. | 2024-07-08T22:23:42Z |
 | 58 | [kcp](https://github.com/skywind3000/kcp) | 15683 | 2521 | C | 173 | :zap: KCP - A Fast and Reliable ARQ Protocol | 2024-11-30T17:49:42Z |
 | 59 | [BlackHole](https://github.com/ExistentialAudio/BlackHole) | 15641 | 605 | C | 2 | BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. | 2024-11-22T19:35:26Z |
-| 60 | [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | 15425 | 1323 | C | 150 | NVIDIA Linux open GPU kernel module source | 2025-01-16T16:37:05Z |
+| 60 | [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | 15424 | 1323 | C | 150 | NVIDIA Linux open GPU kernel module source | 2025-01-16T16:37:05Z |
 | 61 | [reactos](https://github.com/reactos/reactos) | 14963 | 1793 | C | 0 | A free Windows-compatible Operating System | 2025-01-17T15:15:34Z |
 | 62 | [sway](https://github.com/swaywm/sway) | 14892 | 1116 | C | 968 | i3-compatible Wayland compositor | 2025-01-16T15:03:37Z |
 | 63 | [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | 14863 | 878 | C | 353 | FFmpeg for browser, powered by WebAssembly | 2025-01-13T21:43:49Z |
@@ -78,13 +78,13 @@
 | 71 | [nuklear](https://github.com/vurtun/nuklear) | 13708 | 1111 | C | 206 | A single-header ANSI C gui library | 2020-01-03T21:36:41Z |
 | 72 | [memcached](https://github.com/memcached/memcached) | 13653 | 3294 | C | 57 | memcached development tree | 2025-01-15T19:20:18Z |
 | 73 | [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | 13608 | 2125 | C | 0 | OpenCore bootloader | 2025-01-11T09:42:53Z |
-| 74 | [systemd](https://github.com/systemd/systemd) | 13595 | 3864 | C | 2323 | The systemd System and Service Manager  | 2025-01-17T19:22:56Z |
+| 74 | [systemd](https://github.com/systemd/systemd) | 13595 | 3864 | C | 2323 | The systemd System and Service Manager  | 2025-01-17T19:50:40Z |
 | 75 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 13573 | 3529 | C | 1053 | NGINX-based Media Streaming Server | 2024-12-24T10:28:38Z |
 | 76 | [rofi](https://github.com/davatorium/rofi) | 13552 | 622 | C | 62 | Rofi: A window switcher, application launcher and dmenu replacement | 2025-01-16T17:36:56Z |
 | 77 | [pgvector](https://github.com/pgvector/pgvector) | 13521 | 633 | C | 14 | Open-source vector similarity search for Postgres | 2025-01-16T03:24:52Z |
 | 78 | [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | 13435 | 2803 | C | 133 | Flipper Zero firmware source code | 2025-01-17T11:26:38Z |
 | 79 | [skynet](https://github.com/cloudwu/skynet) | 13427 | 4211 | C | 18 | A lightweight online game framework | 2025-01-14T01:52:22Z |
-| 80 | [libsql](https://github.com/tursodatabase/libsql) | 13423 | 337 | C | 302 | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. | 2025-01-17T03:25:56Z |
+| 80 | [libsql](https://github.com/tursodatabase/libsql) | 13424 | 337 | C | 302 | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. | 2025-01-17T03:25:56Z |
 | 81 | [glfw](https://github.com/glfw/glfw) | 13350 | 5354 | C | 548 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input | 2025-01-13T19:06:45Z |
 | 82 | [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 13305 | 1300 | C | 56 | Learning operating system development using Linux kernel and Raspberry Pi | 2024-03-29T21:19:52Z |
 | 83 | [audacity](https://github.com/audacity/audacity) | 12957 | 2294 | C | 923 | Audio Editor                                      | 2025-01-17T14:03:11Z |
@@ -104,5 +104,5 @@
 | 97 | [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) | 11488 | 3948 | C | 22 | Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net | 2023-07-27T08:52:45Z |
 | 98 | [lua-nginx-module](https://github.com/openresty/lua-nginx-module) | 11382 | 2037 | C | 325 | Embed the Power of Lua into NGINX HTTP servers | 2025-01-17T06:07:03Z |
 | 99 | [linux](https://github.com/raspberrypi/linux) | 11342 | 5059 | C | 854 | Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/ | 2025-01-17T16:41:56Z |
-| 100 | [acwj](https://github.com/DoctorWkt/acwj) | 11336 | 1064 | C | 21 | A Compiler Writing Journey | 2024-07-30T14:50:40Z |
+| 100 | [acwj](https://github.com/DoctorWkt/acwj) | 11335 | 1064 | C | 21 | A Compiler Writing Journey | 2024-07-30T14:50:40Z |
 

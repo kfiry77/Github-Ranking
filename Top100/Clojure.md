@@ -5,15 +5,15 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 77903 | 3118 | Clojure | 398 | Free monospaced font with programming ligatures | 2025-01-06T15:31:40Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 39573 | 5255 | Clojure | 3934 | The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: | 2025-01-17T19:44:18Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 77904 | 3118 | Clojure | 398 | Free monospaced font with programming ligatures | 2025-01-06T15:31:40Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 39574 | 5255 | Clojure | 3934 | The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: | 2025-01-17T19:59:14Z |
 | 3 | [penpot](https://github.com/penpot/penpot) | 34684 | 1769 | Clojure | 391 | Penpot: The open-source design tool for design and code collaboration | 2025-01-17T15:22:01Z |
-| 4 | [logseq](https://github.com/logseq/logseq) | 34315 | 1997 | Clojure | 1401 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap | 2025-01-17T17:42:03Z |
+| 4 | [logseq](https://github.com/logseq/logseq) | 34316 | 1997 | Clojure | 1401 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap | 2025-01-17T17:42:03Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11714 | 915 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |
 | 6 | [clojurescript](https://github.com/clojure/clojurescript) | 9250 | 791 | Clojure | 0 | Clojure to JS compiler | 2025-01-08T14:26:54Z |
-| 7 | [leiningen](https://github.com/technomancy/leiningen) | 7293 | 1605 | Clojure | 100 | Moved to Codeberg; this is a convenience mirror | 2024-12-07T00:42:33Z |
+| 7 | [leiningen](https://github.com/technomancy/leiningen) | 7291 | 1605 | Clojure | 100 | Moved to Codeberg; this is a convenience mirror | 2024-12-07T00:42:33Z |
 | 8 | [jepsen](https://github.com/jepsen-io/jepsen) | 6916 | 723 | Clojure | 59 | A framework for distributed systems verification, with fault injection | 2025-01-16T22:12:50Z |
-| 9 | [instant](https://github.com/instantdb/instant) | 6887 | 198 | Clojure | 34 | Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. | 2025-01-17T18:43:17Z |
+| 9 | [instant](https://github.com/instantdb/instant) | 6887 | 198 | Clojure | 34 | Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. | 2025-01-17T19:56:19Z |
 | 10 | [om](https://github.com/omcljs/om) | 6647 | 362 | Clojure | 67 | ClojureScript interface to Facebook's React | 2020-08-17T12:30:25Z |
 | 11 | [athens](https://github.com/athensresearch/athens) | 6303 | 399 | Clojure | 295 | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 | 2023-02-03T12:32:15Z |
 | 12 | [overtone](https://github.com/overtone/overtone) | 5955 | 451 | Clojure | 91 | Collaborative Programmable Music  | 2025-01-06T12:38:14Z |
@@ -47,7 +47,7 @@
 | 40 | [incanter](https://github.com/incanter/incanter) | 2239 | 288 | Clojure | 68 | Clojure-based, R-like statistical computing and graphics environment for the JVM | 2023-11-10T07:21:02Z |
 | 41 | [component](https://github.com/stuartsierra/component) | 2102 | 94 | Clojure | 2 | Managed lifecycle of stateful objects in Clojure | 2022-02-26T19:00:25Z |
 | 42 | [onyx](https://github.com/onyx-platform/onyx) | 2048 | 205 | Clojure | 80 | Distributed, masterless, high performance, fault tolerant data processing | 2019-08-31T10:58:07Z |
-| 43 | [core.async](https://github.com/clojure/core.async) | 1969 | 211 | Clojure | 0 | Facilities for async programming and communication in Clojure | 2025-01-17T18:49:15Z |
+| 43 | [core.async](https://github.com/clojure/core.async) | 1970 | 211 | Clojure | 0 | Facilities for async programming and communication in Clojure | 2025-01-17T18:49:15Z |
 | 44 | [transit-format](https://github.com/cognitect/transit-format) | 1880 | 35 | Clojure | 10 | A data interchange format. | 2024-07-15T19:50:55Z |
 | 45 | [electric](https://github.com/hyperfiddle/electric) | 1879 | 51 | Clojure | 9 | Electric Clojure: full-stack differential dataflow for UI | 2025-01-04T19:16:25Z |
 | 46 | [lumo](https://github.com/anmonteiro/lumo) | 1877 | 85 | Clojure | 85 | Fast, cross-platform, standalone ClojureScript environment | 2022-05-16T17:17:30Z |

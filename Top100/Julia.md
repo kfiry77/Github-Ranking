@@ -32,7 +32,7 @@
 | 25 | [Mocha.jl](https://github.com/pluskid/Mocha.jl) | 1286 | 252 | Julia | 35 | Deep Learning framework for Julia | 2018-12-06T01:09:35Z |
 | 26 | [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) | 1254 | 139 | Julia | 34 | A generic, simple and fast implementation of Deepmind's AlphaZero algorithm. | 2025-01-05T00:35:20Z |
 | 27 | [polylux](https://github.com/polylux-typ/polylux) | 1230 | 58 | Julia | 74 | A package for creating slides in Typst | 2025-01-16T22:20:57Z |
-| 28 | [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1229 | 232 | Julia | 246 | CUDA programming in Julia. | 2025-01-17T19:15:29Z |
+| 28 | [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1229 | 232 | Julia | 246 | CUDA programming in Julia. | 2025-01-17T19:47:32Z |
 | 29 | [Revise.jl](https://github.com/timholy/Revise.jl) | 1224 | 110 | Julia | 58 | Automatically update function definitions in a running Julia session | 2025-01-16T11:06:37Z |
 | 30 | [VIMKiller](https://github.com/caseykneale/VIMKiller) | 1224 | 16 | Julia | 13 | Exiting VIM is hard; sometimes we need to take drastic measures | 2021-10-14T06:18:57Z |
 | 31 | [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) | 1136 | 224 | Julia | 91 | Optimization functions for Julia | 2024-12-01T17:13:05Z |
@@ -84,7 +84,7 @@
 | 77 | [cvxbook_additional_exercises](https://github.com/cvxgrp/cvxbook_additional_exercises) | 622 | 168 | Julia | 0 | Additional exercises and data for EE364a. No solutions; for public consumption.  | 2024-12-28T22:31:36Z |
 | 78 | [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) | 618 | 114 | Julia | 149 | Physical quantities with arbitrary units | 2025-01-02T08:43:05Z |
 | 79 | [Tullio.jl](https://github.com/mcabbott/Tullio.jl) | 617 | 29 | Julia | 61 | ⅀ | 2024-12-10T04:53:43Z |
-| 80 | [General](https://github.com/JuliaRegistries/General) | 613 | 474 | Julia | 11 | The official registry of general Julia packages | 2025-01-17T19:40:49Z |
+| 80 | [General](https://github.com/JuliaRegistries/General) | 613 | 474 | Julia | 11 | The official registry of general Julia packages | 2025-01-17T19:57:39Z |
 | 81 | [GLM.jl](https://github.com/JuliaStats/GLM.jl) | 602 | 116 | Julia | 58 | Generalized linear models in Julia | 2025-01-08T17:41:45Z |
 | 82 | [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) | 601 | 111 | Julia | 14 | A reinforcement learning package for Julia | 2025-01-14T14:43:29Z |
 | 83 | [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) | 594 | 72 | Julia | 9 | Simple drawings using vector graphics; Cairo "for tourists!" | 2024-12-01T03:06:27Z |

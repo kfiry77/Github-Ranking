@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33352 | 10396 | Objective-C | 0 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. | 2023-01-17T19:30:05Z |
-| 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25085 | 5968 | Objective-C | 94 | Asynchronous image downloader with cache support as a UIImageView category | 2025-01-16T06:28:34Z |
+| 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25085 | 5969 | Objective-C | 94 | Asynchronous image downloader with cache support as a UIImageView category | 2025-01-16T06:28:34Z |
 | 3 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22427 | 3619 | Objective-C | 901 | A plugin for Mac WeChat | 2023-07-19T14:53:21Z |
 | 4 | [GPUImage](https://github.com/BradLarson/GPUImage) | 20258 | 4613 | Objective-C | 910 | An open source iOS framework for GPU-based image and video processing | 2024-02-16T22:29:30Z |
 | 5 | [TrollStore](https://github.com/opa334/TrollStore) | 18843 | 1166 | Objective-C | 43 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 2024-09-02T11:28:18Z |
@@ -14,7 +14,7 @@
 | 7 | [realm-swift](https://github.com/realm/realm-swift) | 16369 | 2151 | Objective-C | 428 | Realm is a mobile database: a replacement for Core Data & SQLite | 2024-12-27T20:40:38Z |
 | 8 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 16008 | 3559 | Objective-C | 79 | MBProgressHUD + Customizations | 2024-08-14T01:48:59Z |
 | 9 | [iTerm2](https://github.com/gnachman/iTerm2) | 15608 | 1211 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2025-01-17T08:12:53Z |
-| 10 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 15254 | 4864 | Objective-C | 68 | React Native Mapview component for iOS + Android | 2025-01-12T19:36:19Z |
+| 10 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 15254 | 4864 | Objective-C | 68 | React Native Mapview component for iOS + Android | 2025-01-17T20:02:03Z |
 | 11 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 14301 | 2985 | Objective-C | 79 | An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews | 2024-08-01T09:17:17Z |
 | 12 | [FLEX](https://github.com/FLEXTool/FLEX) | 14157 | 1711 | Objective-C | 28 | An in-app debugging and exploration tool for iOS | 2024-08-25T09:37:11Z |
 | 13 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 14153 | 2498 | Objective-C | 150 | 微信小助手 | 2024-06-09T03:27:58Z |
@@ -41,7 +41,7 @@
 | 34 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10624 | 1943 | Objective-C | 431 | A fully customizable iOS calendar library, compatible with Objective-C and Swift | 2024-08-10T13:44:15Z |
 | 35 | [LuLu](https://github.com/objective-see/LuLu) | 10242 | 476 | Objective-C | 429 | LuLu is the free open-source macOS firewall | 2025-01-10T05:01:58Z |
 | 36 | [RestKit](https://github.com/RestKit/RestKit) | 10161 | 2101 | Objective-C | 343 | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | 2022-08-27T03:57:20Z |
-| 37 | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) | 9931 | 2006 | Objective-C | 115 | Template auto layout cell for automatically UITableViewCell height calculating | 2022-03-07T10:01:30Z |
+| 37 | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) | 9930 | 2006 | Objective-C | 115 | Template auto layout cell for automatically UITableViewCell height calculating | 2022-03-07T10:01:30Z |
 | 38 | [Alcatraz](https://github.com/alcatraz/Alcatraz) | 9863 | 1144 | Objective-C | 32 | Package manager for Xcode | 2017-09-28T10:13:15Z |
 | 39 | [PNChart](https://github.com/kevinzhow/PNChart) | 9710 | 1759 | Objective-C | 169 | A simple and beautiful chart lib used in Piner and CoinsMan for iOS | 2018-07-02T12:43:03Z |
 | 40 | [SocketRocket](https://github.com/facebookincubator/SocketRocket) | 9573 | 2012 | Objective-C | 164 | A conforming Objective-C WebSocket client library. | 2024-11-15T07:39:36Z |
@@ -60,7 +60,7 @@
 | 53 | [analyze](https://github.com/draveness/analyze) | 8114 | 1967 | Objective-C | 0 | Draven's Blog | 2021-11-14T19:00:39Z |
 | 54 | [FastImageCache](https://github.com/path/FastImageCache) | 8107 | 935 | Objective-C | 35 | iOS library for quickly displaying images while scrolling | 2023-07-12T23:20:57Z |
 | 55 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) | 8099 | 1880 | Objective-C | 56 | 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+ | 2024-12-13T16:05:50Z |
-| 56 | [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 7960 | 1608 | Objective-C | 57 | iOS Objective-C headers as derived from runtime introspection | 2022-05-17T07:06:03Z |
+| 56 | [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 7958 | 1608 | Objective-C | 57 | iOS Objective-C headers as derived from runtime introspection | 2022-05-17T07:06:03Z |
 | 57 | [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) | 7942 | 1215 | Objective-C | 75 | Performant animated GIF engine for iOS | 2024-03-21T10:45:04Z |
 | 58 | [Easydict](https://github.com/tisfeng/Easydict) | 7916 | 398 | Objective-C | 89 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.  | 2025-01-12T16:21:57Z |
 | 59 | [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) | 7891 | 2236 | Objective-C | 0 | A curated list of delightful iOS resources. | 2022-05-17T07:07:01Z |
@@ -94,7 +94,7 @@
 | 87 | [Onboard](https://github.com/mamaral/Onboard) | 6453 | 762 | Objective-C | 41 | An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code. | 2025-01-01T20:58:29Z |
 | 88 | [nimbus](https://github.com/jverkoey/nimbus) | 6440 | 1295 | Objective-C | 1 | The iOS framework that grows only as fast as its documentation | 2024-04-25T21:23:31Z |
 | 89 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | 6414 | 330 | Objective-C | 40 | Send User Notifications on macOS from the command-line. | 2022-08-25T19:20:53Z |
-| 90 | [JazzHands](https://github.com/IFTTT/JazzHands) | 6398 | 676 | Objective-C | 13 | A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. | 2024-07-30T13:01:27Z |
+| 90 | [JazzHands](https://github.com/IFTTT/JazzHands) | 6396 | 676 | Objective-C | 13 | A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. | 2024-07-30T13:01:27Z |
 | 91 | [DTCoreText](https://github.com/Cocoanetics/DTCoreText) | 6358 | 1186 | Objective-C | 39 | Methods to allow using HTML code with CoreText | 2024-11-15T08:49:20Z |
 | 92 | [NWPusher](https://github.com/noodlewerk/NWPusher) | 6309 | 677 | Objective-C | 24 | OS X and iOS application and framework to play with the Apple Push Notification service (APNs) | 2021-03-30T07:00:58Z |
 | 93 | [KIF](https://github.com/kif-framework/KIF) | 6222 | 917 | Objective-C | 50 | Keep It Functional - An iOS Functional Testing Framework | 2025-01-14T17:11:37Z |

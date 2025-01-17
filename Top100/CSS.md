@@ -14,7 +14,7 @@
 | 7 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37152 | 1374 | CSS | 140 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
 | 8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26720 | 5297 | CSS | 99 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2022-02-28T10:57:30Z |
 | 9 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 22778 | 1810 | CSS | 0 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 2025-01-16T21:20:49Z |
-| 10 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20043 | 1635 | CSS | 82 | Monospaced font family for user interface and coding environments | 2024-08-12T00:27:18Z |
+| 10 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20042 | 1635 | CSS | 82 | Monospaced font family for user interface and coding environments | 2024-08-12T00:27:18Z |
 | 11 | [iCSS](https://github.com/chokcoco/iCSS) | 19872 | 2023 | CSS | 244 | 不止于 CSS | 2024-08-07T02:10:18Z |
 | 12 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 19362 | 1807 | CSS | 5 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
 | 13 | [Skeleton](https://github.com/dhg/Skeleton) | 19112 | 3141 | CSS | 79 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-11-14T19:22:32Z |
@@ -70,7 +70,7 @@
 | 63 | [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 6551 | 1854 | CSS | 70 | ❤️静态响应式网址导航网站 - webstack.cc | 2024-05-04T07:39:42Z |
 | 64 | [sorry](https://github.com/xtyxtyx/sorry) | 6460 | 787 | CSS | 17 | 在线制作`sorry 为所欲为`的gif | 2023-04-11T12:44:58Z |
 | 65 | [interpy-zh](https://github.com/eastlakeside/interpy-zh) | 6452 | 1327 | CSS | 6 | 📘《Python进阶》（Intermediate Python - Chinese Version） | 2022-07-11T07:57:49Z |
-| 66 | [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | 6323 | 1001 | CSS | 2 | the CS missing semester Chinese version | 2024-12-07T10:14:46Z |
+| 66 | [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | 6322 | 1001 | CSS | 2 | the CS missing semester Chinese version | 2024-12-07T10:14:46Z |
 | 67 | [bounce.js](https://github.com/tictail/bounce.js) | 6207 | 420 | CSS | 10 | Create beautiful CSS3 powered animations in no time. | 2020-09-03T08:17:21Z |
 | 68 | [progit2](https://github.com/progit/progit2) | 5975 | 1958 | CSS | 153 | Pro Git 2nd Edition | 2025-01-16T19:55:44Z |
 | 69 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 5906 | 421 | CSS | 7 | 程序员工作中常见的英语词汇 | 2023-07-12T06:09:07Z |

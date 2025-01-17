@@ -10,14 +10,14 @@
 | 3 | [phoenix](https://github.com/phoenixframework/phoenix) | 21628 | 2896 | Elixir | 30 | Peace of mind from prototype to production | 2025-01-15T16:39:30Z |
 | 4 | [analytics](https://github.com/plausible/analytics) | 21172 | 1122 | Elixir | 16 | Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2025-01-17T13:02:13Z |
 | 5 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 12752 | 1179 | Elixir | 1 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2025-01-15T16:32:21Z |
-| 6 | [electric](https://github.com/electric-sql/electric) | 7238 | 177 | Elixir | 100 | Sync little subsets of your Postgres data into local apps and services. | 2025-01-17T17:32:14Z |
+| 6 | [electric](https://github.com/electric-sql/electric) | 7239 | 177 | Elixir | 100 | Sync little subsets of your Postgres data into local apps and services. | 2025-01-17T20:01:07Z |
 | 7 | [firezone](https://github.com/firezone/firezone) | 6975 | 289 | Elixir | 301 | Enterprise-ready zero-trust access platform built on WireGuard®. | 2025-01-17T18:50:42Z |
 | 8 | [realtime](https://github.com/supabase/realtime) | 6888 | 320 | Elixir | 41 | Broadcast, Presence, and Postgres Changes via WebSockets | 2025-01-17T15:34:06Z |
 | 9 | [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6353 | 949 | Elixir | 49 | Rich, real-time user experiences with server-rendered HTML | 2025-01-17T17:31:58Z |
 | 10 | [ecto](https://github.com/elixir-ecto/ecto) | 6229 | 1432 | Elixir | 5 | A toolkit for data mapping and language integrated query. | 2025-01-11T16:57:31Z |
 | 11 | [teslamate](https://github.com/teslamate-org/teslamate) | 6219 | 766 | Elixir | 33 | A self-hosted data logger for your Tesla  🚘 | 2025-01-13T21:24:06Z |
-| 12 | [papercups](https://github.com/papercups-io/papercups) | 5782 | 529 | Elixir | 156 | Open-source live customer chat | 2024-02-15T05:21:47Z |
-| 13 | [livebook](https://github.com/livebook-dev/livebook) | 5113 | 438 | Elixir | 21 | Automate code & data workflows with interactive Elixir notebooks | 2025-01-17T19:29:39Z |
+| 12 | [papercups](https://github.com/papercups-io/papercups) | 5782 | 528 | Elixir | 156 | Open-source live customer chat | 2024-02-15T05:21:47Z |
+| 13 | [livebook](https://github.com/livebook-dev/livebook) | 5113 | 438 | Elixir | 21 | Automate code & data workflows with interactive Elixir notebooks | 2025-01-17T20:00:36Z |
 | 14 | [credo](https://github.com/rrrene/credo) | 4958 | 423 | Elixir | 13 | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | 2024-12-28T19:46:01Z |
 | 15 | [elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | 4373 | 298 | Elixir | 8 | A community driven style guide for Elixir | 2024-05-10T03:55:51Z |
 | 16 | [absinthe](https://github.com/absinthe-graphql/absinthe) | 4300 | 529 | Elixir | 52 | The GraphQL toolkit for Elixir | 2024-12-19T18:16:35Z |
@@ -92,7 +92,7 @@
 | 85 | [comeonin](https://github.com/riverrun/comeonin) | 1305 | 65 | Elixir | 2 | Password hashing specification for the Elixir programming language | 2024-10-04T12:59:36Z |
 | 86 | [ex_aws](https://github.com/ex-aws/ex_aws) | 1296 | 532 | Elixir | 60 | A flexible, easy to use set of clients AWS APIs for Elixir | 2025-01-13T03:42:19Z |
 | 87 | [finch](https://github.com/sneako/finch) | 1288 | 120 | Elixir | 23 | Elixir HTTP client, focused on performance | 2025-01-07T14:10:12Z |
-| 88 | [fast-elixir](https://github.com/devonestes/fast-elixir) | 1281 | 42 | Elixir | 3 | :dash: Writing Fast Elixir :heart_eyes: -- Collect Common Elixir idioms. | 2023-11-08T17:04:23Z |
+| 88 | [fast-elixir](https://github.com/devonestes/fast-elixir) | 1281 | 41 | Elixir | 3 | :dash: Writing Fast Elixir :heart_eyes: -- Collect Common Elixir idioms. | 2023-11-08T17:04:23Z |
 | 89 | [nebulex](https://github.com/cabol/nebulex) | 1268 | 74 | Elixir | 8 | In-memory and distributed caching toolkit for Elixir. | 2024-12-08T11:45:20Z |
 | 90 | [coherence](https://github.com/smpallen99/coherence) | 1265 | 223 | Elixir | 70 | Coherence is a full featured, configurable authentication system for Phoenix | 2024-08-20T16:24:14Z |
 | 91 | [midarr-server](https://github.com/midarrlabs/midarr-server) | 1263 | 39 | Elixir | 1 | 🔥Midarr, the minimal lightweight media server. | 2025-01-17T10:11:23Z |

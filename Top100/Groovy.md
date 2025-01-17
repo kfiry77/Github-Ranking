@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gradle](https://github.com/gradle/gradle) | 17179 | 4818 | Groovy | 2895 | Adaptable, fast automation for all | 2025-01-17T19:37:55Z |
+| 1 | [gradle](https://github.com/gradle/gradle) | 17179 | 4818 | Groovy | 2895 | Adaptable, fast automation for all | 2025-01-17T19:45:23Z |
 | 2 | [devops-resources](https://github.com/bregman-arie/devops-resources) | 8722 | 2180 | Groovy | 10 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 2024-07-12T09:40:46Z |
 | 3 | [rundeck](https://github.com/rundeck/rundeck) | 5620 | 929 | Groovy | 703 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2025-01-17T17:30:10Z |
 | 4 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4231 | 3512 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2023-08-31T09:25:29Z |
@@ -32,8 +32,8 @@
 | 25 | [jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts) | 900 | 559 | Groovy | 2 | Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins | 2024-12-02T15:55:03Z |
 | 26 | [docker-registry-ui](https://github.com/atcol/docker-registry-ui) | 893 | 149 | Groovy | 0 | A web frontend/UI for easy private/local Docker Registry integration | 2023-01-17T07:42:53Z |
 | 27 | [gradle-release](https://github.com/researchgate/gradle-release) | 869 | 220 | Groovy | 129 | gradle-release is a plugin for providing a Maven-like release process for projects using Gradle | 2024-12-23T23:03:18Z |
-| 28 | [gradle-node-plugin](https://github.com/srs/gradle-node-plugin) | 863 | 210 | Groovy | 173 | Gradle plugin for integrating NodeJS in your build. :rocket: | 2021-03-25T18:02:23Z |
-| 29 | [gradle-task-tree](https://github.com/dorongold/gradle-task-tree) | 863 | 57 | Groovy | 6 | Gradle plugin that adds a 'taskTree' task that prints task dependency tree | 2024-06-11T21:04:39Z |
+| 28 | [gradle-task-tree](https://github.com/dorongold/gradle-task-tree) | 864 | 57 | Groovy | 6 | Gradle plugin that adds a 'taskTree' task that prints task dependency tree | 2024-06-11T21:04:39Z |
+| 29 | [gradle-node-plugin](https://github.com/srs/gradle-node-plugin) | 863 | 210 | Groovy | 173 | Gradle plugin for integrating NodeJS in your build. :rocket: | 2021-03-25T18:02:23Z |
 | 30 | [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) | 851 | 38 | Groovy | 24 | A Gradle plugin for printing beautiful logs on the console while running tests | 2024-12-16T13:38:26Z |
 | 31 | [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin) | 849 | 116 | Groovy | 5 | A Gradle plugin to support the Groovy language for building Android apps | 2020-03-23T17:05:12Z |
 | 32 | [ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins) | 839 | 749 | Groovy | 4 | Ansible Role - Jenkins CI | 2024-09-24T20:36:58Z |

@@ -5,14 +5,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [laravel](https://github.com/laravel/laravel) | 79310 | 24143 | PHP | 0 | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. | 2025-01-14T20:03:16Z |
+| 1 | [laravel](https://github.com/laravel/laravel) | 79311 | 24143 | PHP | 0 | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. | 2025-01-14T20:03:16Z |
 | 2 | [SecLists](https://github.com/danielmiessler/SecLists) | 60127 | 24073 | PHP | 17 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2025-01-17T10:03:52Z |
-| 3 | [coolify](https://github.com/coollabsio/coolify) | 36401 | 2069 | PHP | 337 | An open-source & self-hostable Heroku / Netlify / Vercel alternative. | 2025-01-17T16:31:22Z |
+| 3 | [coolify](https://github.com/coollabsio/coolify) | 36404 | 2069 | PHP | 337 | An open-source & self-hostable Heroku / Netlify / Vercel alternative. | 2025-01-17T16:31:22Z |
 | 4 | [framework](https://github.com/laravel/framework) | 32960 | 11132 | PHP | 13 | The Laravel Framework. | 2025-01-17T19:43:39Z |
 | 5 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30945 | 7932 | PHP | 49 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | 2023-05-25T09:11:07Z |
-| 6 | [symfony](https://github.com/symfony/symfony) | 29922 | 9520 | PHP | 545 | The Symfony PHP framework | 2025-01-17T13:19:10Z |
+| 6 | [symfony](https://github.com/symfony/symfony) | 29922 | 9520 | PHP | 544 | The Symfony PHP framework | 2025-01-17T13:19:10Z |
 | 7 | [composer](https://github.com/composer/composer) | 28757 | 4579 | PHP | 110 | Dependency Manager for PHP | 2025-01-10T15:46:38Z |
-| 8 | [server](https://github.com/nextcloud/server) | 28052 | 4128 | PHP | 2196 | ☁️ Nextcloud server, a safe home for all your data | 2025-01-17T19:33:25Z |
+| 8 | [server](https://github.com/nextcloud/server) | 28054 | 4128 | PHP | 2196 | ☁️ Nextcloud server, a safe home for all your data | 2025-01-17T19:33:25Z |
 | 9 | [Faker](https://github.com/fzaninotto/Faker) | 26786 | 3588 | PHP | 76 | Faker is a PHP library that generates fake data for you | 2024-03-20T13:44:54Z |
 | 10 | [guzzle](https://github.com/guzzle/guzzle) | 23274 | 2401 | PHP | 31 | Guzzle, an extensible PHP HTTP client | 2024-08-04T18:39:54Z |
 | 11 | [livewire](https://github.com/livewire/livewire) | 22572 | 1586 | PHP | 0 | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. | 2025-01-15T13:28:57Z |
@@ -32,7 +32,7 @@
 | 25 | [Carbon](https://github.com/briannesbitt/Carbon) | 16609 | 1288 | PHP | 14 | A simple PHP API extension for DateTime. | 2025-01-15T04:25:52Z |
 | 26 | [bagisto](https://github.com/bagisto/bagisto) | 16234 | 2284 | PHP | 54 | Free and open source laravel eCommerce platform | 2025-01-17T11:09:40Z |
 | 27 | [koel](https://github.com/koel/koel) | 16174 | 1991 | PHP | 37 | 🐦 A personal music streaming server that works. | 2025-01-09T16:02:39Z |
-| 28 | [BookStack](https://github.com/BookStackApp/BookStack) | 15805 | 1981 | PHP | 596 | A platform to create documentation/wiki content built with PHP & Laravel | 2025-01-17T11:18:00Z |
+| 28 | [BookStack](https://github.com/BookStackApp/BookStack) | 15804 | 1981 | PHP | 596 | A platform to create documentation/wiki content built with PHP & Laravel | 2025-01-17T11:18:00Z |
 | 29 | [flarum](https://github.com/flarum/flarum) | 15506 | 1594 | PHP | 0 | Simple forum software for building great communities. | 2025-01-17T09:25:43Z |
 | 30 | [parsedown](https://github.com/erusev/parsedown) | 14832 | 1128 | PHP | 117 | Better Markdown Parser in PHP | 2024-12-01T16:36:17Z |
 | 31 | [grav](https://github.com/getgrav/grav) | 14658 | 1418 | PHP | 407 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony | 2025-01-13T12:30:23Z |
@@ -92,7 +92,7 @@
 | 85 | [swiftmailer](https://github.com/swiftmailer/swiftmailer) | 9533 | 860 | PHP | 0 | Comprehensive mailing tools for PHP | 2021-10-25T07:19:17Z |
 | 86 | [SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) | 9513 | 3404 | PHP | 5 | Multi-purpose proxy service management system | 2024-12-02T22:12:17Z |
 | 87 | [dbal](https://github.com/doctrine/dbal) | 9514 | 1346 | PHP | 230 | Doctrine Database Abstraction Layer | 2025-01-17T16:06:50Z |
-| 88 | [woocommerce](https://github.com/woocommerce/woocommerce) | 9508 | 10768 | PHP | 3519 | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 2025-01-17T18:56:11Z |
+| 88 | [woocommerce](https://github.com/woocommerce/woocommerce) | 9508 | 10768 | PHP | 3520 | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 2025-01-17T18:56:11Z |
 | 89 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 9491 | 1877 | PHP | 4 | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） | 2024-03-16T19:34:06Z |
 | 90 | [google-api-php-client](https://github.com/googleapis/google-api-php-client) | 9413 | 3521 | PHP | 60 | A PHP client library for accessing Google APIs | 2024-12-27T18:27:52Z |
 | 91 | [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) | 9354 | 124 | PHP | 9 | None | 2024-12-09T10:48:47Z |

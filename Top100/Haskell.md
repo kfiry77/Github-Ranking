@@ -7,8 +7,8 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [shellcheck](https://github.com/koalaman/shellcheck) | 36781 | 1791 | Haskell | 1051 | ShellCheck, a static analysis tool for shell scripts | 2024-12-14T05:42:11Z |
 | 2 | [pandoc](https://github.com/jgm/pandoc) | 35452 | 3424 | Haskell | 1034 | Universal markup converter | 2025-01-16T16:32:32Z |
-| 3 | [postgrest](https://github.com/PostgREST/postgrest) | 24202 | 1044 | Haskell | 254 | REST API for any Postgres database | 2025-01-15T14:21:06Z |
-| 4 | [hadolint](https://github.com/hadolint/hadolint) | 10603 | 420 | Haskell | 211 | Dockerfile linter, validate inline bash, written in Haskell | 2024-12-09T08:05:16Z |
+| 3 | [postgrest](https://github.com/PostgREST/postgrest) | 24202 | 1044 | Haskell | 254 | REST API for any Postgres database | 2025-01-17T20:00:16Z |
+| 4 | [hadolint](https://github.com/hadolint/hadolint) | 10604 | 420 | Haskell | 211 | Dockerfile linter, validate inline bash, written in Haskell | 2024-12-09T08:05:16Z |
 | 5 | [semantic](https://github.com/github/semantic) | 9003 | 452 | Haskell | 110 | Parsing, analyzing, and comparing source code across many languages | 2024-07-24T03:56:04Z |
 | 6 | [purescript](https://github.com/purescript/purescript) | 8623 | 565 | Haskell | 274 | A strongly-typed language that compiles to JavaScript | 2024-09-29T06:33:12Z |
 | 7 | [compiler](https://github.com/elm/compiler) | 7595 | 662 | Haskell | 315 | Compiler for Elm, a functional language for reliable webapps. | 2024-07-17T21:53:51Z |
@@ -19,7 +19,7 @@
 | 12 | [kmonad](https://github.com/kmonad/kmonad) | 4222 | 325 | Haskell | 203 | An advanced keyboard manager | 2025-01-06T19:42:08Z |
 | 13 | [fp-course](https://github.com/system-f/fp-course) | 4153 | 1198 | Haskell | 15 | Functional Programming Course | 2024-12-02T00:31:53Z |
 | 14 | [duckling](https://github.com/facebook/duckling) | 4100 | 730 | Haskell | 122 | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | 2024-10-03T22:59:00Z |
-| 15 | [stack](https://github.com/commercialhaskell/stack) | 3990 | 842 | Haskell | 583 | The Haskell Tool Stack | 2025-01-15T22:57:41Z |
+| 15 | [stack](https://github.com/commercialhaskell/stack) | 3989 | 842 | Haskell | 583 | The Haskell Tool Stack | 2025-01-15T22:57:41Z |
 | 16 | [cardano-sl](https://github.com/input-output-hk/cardano-sl) | 3764 | 631 | Haskell | 184 | Cryptographic currency implementing Ouroboros PoS protocol | 2020-07-30T15:22:04Z |
 | 17 | [Kind](https://github.com/HigherOrderCO/Kind) | 3603 | 143 | Haskell | 3 | A modern proof language | 2025-01-06T13:37:39Z |
 | 18 | [Idris-dev](https://github.com/idris-lang/Idris-dev) | 3437 | 643 | Haskell | 691 | A Dependently Typed Functional Programming Language | 2024-08-02T13:40:34Z |
@@ -77,7 +77,7 @@
 | 70 | [greenclip](https://github.com/erebe/greenclip) | 1376 | 33 | Haskell | 0 | Simple clipboard manager to be integrated with rofi - Static binary available | 2023-10-01T15:33:08Z |
 | 71 | [gifcurry](https://github.com/lettier/gifcurry) | 1369 | 57 | Haskell | 37 | 😎 The open-source, Haskell-built video editor for GIF makers. | 2021-08-13T16:19:41Z |
 | 72 | [course-plan](https://github.com/haskell-beginners-2022/course-plan) | 1326 | 57 | Haskell | 0 | 📜 Haskell course info, plan, video lectures, slides | 2023-07-09T14:01:05Z |
-| 73 | [fossa-cli](https://github.com/fossas/fossa-cli) | 1319 | 178 | Haskell | 57 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems. | 2025-01-16T21:27:40Z |
+| 73 | [fossa-cli](https://github.com/fossas/fossa-cli) | 1319 | 178 | Haskell | 57 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems. | 2025-01-17T19:58:19Z |
 | 74 | [elm-format](https://github.com/avh4/elm-format) | 1315 | 148 | Haskell | 216 | elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide | 2023-04-13T18:43:21Z |
 | 75 | [fay](https://github.com/faylang/fay) | 1284 | 89 | Haskell | 22 | A proper subset of Haskell that compiles to JavaScript | 2021-06-09T15:10:00Z |
 | 76 | [aeson](https://github.com/haskell/aeson) | 1262 | 321 | Haskell | 64 | A fast Haskell JSON library | 2025-01-15T06:44:43Z |
