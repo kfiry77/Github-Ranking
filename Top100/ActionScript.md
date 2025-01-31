@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7335 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7054 | 559 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-12-22T20:53:29Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7055 | 559 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-12-22T20:53:29Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2904 | 824 | ActionScript | 69 | The Cross Platform Game Engine | 2025-01-16T09:20:11Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2498 | 1113 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1496 | 446 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
@@ -80,7 +80,7 @@
 | 73 | [FileReader](https://github.com/AVapps/FileReader) | 191 | 61 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 74 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 186 | 53 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 75 | [books](https://github.com/zengfeng/books) | 184 | 98 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
-| 76 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 183 | 53 | ActionScript | 5 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-12-30T17:45:25Z |
+| 76 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 183 | 53 | ActionScript | 6 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-12-30T17:45:25Z |
 | 77 | [fzip](https://github.com/claus/fzip) | 182 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 78 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 180 | 93 | ActionScript | 31 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
 | 79 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 178 | 96 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
