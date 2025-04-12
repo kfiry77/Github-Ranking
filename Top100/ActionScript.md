@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7327 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7104 | 558 | ActionScript | 31 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-02-18T19:14:16Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7105 | 558 | ActionScript | 31 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-02-18T19:14:16Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2918 | 819 | ActionScript | 69 | The Cross Platform Game Engine | 2025-03-27T15:59:01Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2499 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1496 | 447 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
@@ -14,7 +14,7 @@
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1325 | 210 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1137 | 195 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 201 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2023-12-19T17:01:37Z |
-| 10 | [bfxr](https://github.com/increpare/bfxr) | 1003 | 92 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
+| 10 | [bfxr](https://github.com/increpare/bfxr) | 1004 | 92 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 966 | 260 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 913 | 386 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
 | 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 907 | 192 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
@@ -79,7 +79,7 @@
 | 72 | [kingdom](https://github.com/noio/kingdom) | 197 | 55 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 73 | [FileReader](https://github.com/AVapps/FileReader) | 191 | 61 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 74 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 187 | 53 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
-| 75 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 185 | 53 | ActionScript | 6 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-12-30T17:45:25Z |
+| 75 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 185 | 53 | ActionScript | 6 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2025-04-12T03:45:53Z |
 | 76 | [books](https://github.com/zengfeng/books) | 185 | 98 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 77 | [fzip](https://github.com/claus/fzip) | 183 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 78 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 180 | 93 | ActionScript | 31 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
