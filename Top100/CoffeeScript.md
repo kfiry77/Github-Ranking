@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22020 | 3392 | CoffeeScript | 779 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22022 | 3392 | CoffeeScript | 779 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 18615 | 889 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2025-02-05T15:27:53Z |
 | 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16559 | 1980 | CoffeeScript | 73 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
 | 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 15385 | 954 | CoffeeScript | 108 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
@@ -23,9 +23,9 @@
 | 16 | [turbolinks-classic](https://github.com/turbolinks/turbolinks-classic) | 3539 | 429 | CoffeeScript | 40 | Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5. | 2017-12-06T23:33:26Z |
 | 17 | [pagedraw](https://github.com/Pagedraw/pagedraw) | 3529 | 471 | CoffeeScript | 12 | a UI builder for React web apps | 2023-01-12T01:49:13Z |
 | 18 | [jquery.payment](https://github.com/stripe-archive/jquery.payment) | 3527 | 678 | CoffeeScript | 0 | [DEPRECATED] A general purpose library for building credit card forms, validating inputs and formatting numbers.           | 2017-08-02T14:10:57Z |
-| 19 | [hubot-scripts](https://github.com/github/hubot-scripts) | 3524 | 1854 | CoffeeScript | 0 | DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json | 2017-07-10T16:06:49Z |
+| 19 | [hubot-scripts](https://github.com/github/hubot-scripts) | 3524 | 1853 | CoffeeScript | 0 | DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json | 2017-07-10T16:06:49Z |
 | 20 | [wintersmith](https://github.com/jnordberg/wintersmith) | 3496 | 331 | CoffeeScript | 16 | A flexible static site generator | 2021-07-15T14:10:26Z |
-| 21 | [dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) | 3474 | 244 | CoffeeScript | 30 | Combine internet connections, increase your download speed | 2022-05-01T20:03:10Z |
+| 21 | [dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) | 3475 | 244 | CoffeeScript | 30 | Combine internet connections, increase your download speed | 2022-05-01T20:03:10Z |
 | 22 | [pow](https://github.com/basecamp/pow) | 3406 | 255 | CoffeeScript | 107 | Zero-configuration Rack server for Mac OS X | 2020-05-14T20:48:22Z |
 | 23 | [Keypress](https://github.com/dmauro/Keypress) | 3173 | 312 | CoffeeScript | 33 | A keyboard input capturing utility in which any key can be a modifier key. | 2020-09-06T00:02:02Z |
 | 24 | [docpad](https://github.com/docpad/docpad) | 3054 | 239 | CoffeeScript | 26 | Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before. | 2024-02-11T13:53:58Z |
@@ -73,7 +73,7 @@
 | 66 | [apm](https://github.com/atom/apm) | 1268 | 295 | CoffeeScript | 188 | Atom Package Manager | 2022-09-28T10:52:02Z |
 | 67 | [aurora.js](https://github.com/audiocogs/aurora.js) | 1260 | 146 | CoffeeScript | 62 | JavaScript audio decoding framework | 2019-04-17T12:19:58Z |
 | 68 | [coffeekup](https://github.com/mauricemach/coffeekup) | 1250 | 84 | CoffeeScript | 32 | Markup as CoffeeScript. | 2011-10-26T01:50:57Z |
-| 69 | [shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) | 1246 | 720 | CoffeeScript | 3 | None | 2016-08-11T03:01:11Z |
+| 69 | [shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) | 1247 | 720 | CoffeeScript | 3 | None | 2016-08-11T03:01:11Z |
 | 70 | [mondrian](https://github.com/artursapek/mondrian) | 1241 | 106 | CoffeeScript | 19 | Web-based vector graphics editor | 2017-10-30T03:18:15Z |
 | 71 | [tourist](https://github.com/easelinc/tourist) | 1230 | 98 | CoffeeScript | 10 | Simple, flexible tours for your app | 2018-10-11T04:33:53Z |
 | 72 | [badges](https://github.com/boennemann/badges) | 1218 | 748 | CoffeeScript | 3 | :flower_playing_cards: Readme Badges – Gotta catch 'em all | 2019-04-05T16:27:49Z |
