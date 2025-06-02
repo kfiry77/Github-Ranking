@@ -17,7 +17,7 @@
 | 10 | [bfxr](https://github.com/increpare/bfxr) | 1008 | 92 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2025-04-17T12:18:05Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 966 | 260 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 386 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
-| 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 909 | 192 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
+| 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 910 | 192 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 751 | 263 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 661 | 126 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 641 | 273 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2024-06-03T14:06:14Z |
@@ -30,7 +30,7 @@
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 517 | 270 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2024-04-04T12:36:16Z |
 | 24 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 500 | 43 | ActionScript | 25 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 25 | [Ash](https://github.com/richardlord/Ash) | 450 | 95 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
-| 26 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 414 | 143 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
+| 26 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 415 | 143 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
 | 27 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 394 | 136 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
 | 28 | [flump](https://github.com/tconkling/flump) | 383 | 72 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 29 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 379 | 36 | ActionScript | 1 | Anodyne 1 Source Code | 2024-06-04T22:57:49Z |
@@ -91,7 +91,7 @@
 | 84 | [GPUImage](https://github.com/inspirit/GPUImage) | 170 | 32 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 85 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 168 | 53 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
 | 86 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 166 | 97 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
-| 87 | [AutoAni](https://github.com/LePtC/AutoAni) | 166 | 39 | ActionScript | 2 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
+| 87 | [AutoAni](https://github.com/LePtC/AutoAni) | 165 | 39 | ActionScript | 2 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 88 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 161 | 24 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
 | 89 | [as3delaunay](https://github.com/nodename/as3delaunay) | 156 | 103 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
 | 90 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 150 | 43 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
