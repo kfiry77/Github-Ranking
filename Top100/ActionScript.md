@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7797 | 584 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-07-05T22:08:16Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7330 | 111 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7800 | 584 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-07-05T22:08:16Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7330 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2941 | 820 | ActionScript | 73 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2500 | 1113 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1498 | 444 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
@@ -93,7 +93,7 @@
 | 86 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 166 | 97 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 87 | [AutoAni](https://github.com/LePtC/AutoAni) | 166 | 39 | ActionScript | 2 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 88 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 161 | 24 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
-| 89 | [as3delaunay](https://github.com/nodename/as3delaunay) | 156 | 103 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
+| 89 | [as3delaunay](https://github.com/nodename/as3delaunay) | 156 | 104 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
 | 90 | [ElonaPlusCustom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX) | 152 | 19 | ActionScript | 20 | Elona+ variant based on Custom-G | 2023-01-24T22:49:30Z |
 | 91 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 150 | 43 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 92 | [django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) | 149 | 114 | ActionScript | 18 | django-filebrowser for default Django admin site.  Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git)  Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version | 2021-05-04T07:37:24Z |
