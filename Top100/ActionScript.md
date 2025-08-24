@@ -6,9 +6,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7815 | 586 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-08-05T01:57:45Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7324 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2958 | 821 | ActionScript | 75 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2501 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7324 | 110 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2957 | 821 | ActionScript | 75 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2501 | 1111 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1499 | 445 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1346 | 514 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1343 | 212 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
@@ -41,7 +41,7 @@
 | 34 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 357 | 44 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 35 | [wck](https://github.com/jesses/wck) | 356 | 54 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 36 | [Gestouch](https://github.com/fljot/Gestouch) | 356 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
-| 37 | [Flare](https://github.com/prefuse/Flare) | 351 | 78 | ActionScript | 3 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
+| 37 | [Flare](https://github.com/prefuse/Flare) | 352 | 78 | ActionScript | 3 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 38 | [Zoe](https://github.com/CreateJS/Zoe) | 330 | 100 | ActionScript | 7 | Zoë is an open source tool for generating spritesheet images and frame data from SWF files. It enables illustrators to maintain a familiar workflow while generating animations for EaselJS and other formats. | 2015-09-01T06:54:47Z |
 | 39 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 330 | 62 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 40 | [mBlock](https://github.com/Makeblock-official/mBlock) | 326 | 234 | ActionScript | 45 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
