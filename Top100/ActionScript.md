@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7875 | 595 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-11-21T19:16:49Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7877 | 595 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-11-21T19:16:49Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7320 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3003 | 822 | ActionScript | 74 | The Cross Platform Game Engine | 2025-09-12T08:09:08Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2509 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
@@ -16,7 +16,7 @@
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1061 | 199 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2025-05-19T18:05:34Z |
 | 10 | [bfxr](https://github.com/increpare/bfxr) | 1020 | 90 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2025-04-17T12:18:05Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 967 | 257 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
-| 12 | [malware-samples](https://github.com/InQuest/malware-samples) | 926 | 201 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
+| 12 | [malware-samples](https://github.com/InQuest/malware-samples) | 926 | 202 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 913 | 385 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 749 | 262 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 700 | 49 | ActionScript | 31 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
@@ -103,6 +103,6 @@
 | 96 | [purePDF](https://github.com/sephiroth74/purePDF) | 139 | 62 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
 | 97 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 137 | 49 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
 | 98 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 134 | 149 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
-| 99 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 134 | 16 | ActionScript | 281 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2025-11-25T20:55:30Z |
+| 99 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 134 | 16 | ActionScript | 281 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2025-12-19T17:17:49Z |
 | 100 | [locomote-video-player](https://github.com/AxisCommunications/locomote-video-player) | 133 | 78 | ActionScript | 0 | Media Player in Adobe Flash with RTSP support. (THIS PROJECT IS NO LONGER MAINTAINED) | 2020-03-06T09:03:02Z |
 
