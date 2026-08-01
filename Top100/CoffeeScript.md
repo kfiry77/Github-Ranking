@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22591 | 3616 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22592 | 3616 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 18747 | 889 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-07-30T16:54:33Z |
 | 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16602 | 1981 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
 | 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16013 | 995 | CoffeeScript | 119 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
@@ -90,7 +90,7 @@
 | 83 | [apparatus](https://github.com/cdglabs/apparatus) | 1053 | 62 | CoffeeScript | 27 | A hybrid graphics editor and programming environment for creating interactive diagrams. | 2023-06-30T02:44:35Z |
 | 84 | [Coffee-Physics](https://github.com/soulwire/Coffee-Physics) | 1053 | 83 | CoffeeScript | 6 | A simple, lightweight physics engine written in CoffeeScript | 2016-12-12T17:36:34Z |
 | 85 | [buckets](https://github.com/bucketsio/buckets) | 1050 | 146 | CoffeeScript | 0 | [DEPRECATED] Manage content better. | 2015-05-31T04:57:37Z |
-| 86 | [stitch](https://github.com/sstephenson/stitch) | 1039 | 80 | CoffeeScript | 18 | Stitch your CommonJS modules together for the browser | 2012-11-02T14:08:32Z |
+| 86 | [stitch](https://github.com/sstephenson/stitch) | 1038 | 80 | CoffeeScript | 18 | Stitch your CommonJS modules together for the browser | 2012-11-02T14:08:32Z |
 | 87 | [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks) | 997 | 62 | CoffeeScript | 17 | 💀 Deprecated ⚠️ jQuery plugin for drop-in fix binded events problem caused by Turbolinks | 2017-09-03T12:15:16Z |
 | 88 | [sloc](https://github.com/flosse/sloc) | 972 | 81 | CoffeeScript | 38 | simple tool to count SLOC (source lines of code) | 2025-11-15T10:34:17Z |
 | 89 | [dploy](https://github.com/lucasmotta/dploy) | 968 | 85 | CoffeeScript | 52 | ⛔️ currently unmaintained ⛔️ | 2019-02-05T16:21:33Z |
