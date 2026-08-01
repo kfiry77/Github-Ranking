@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [rust](https://github.com/rust-lang/rust) | 111551 | 14674 | Rust | 11208 | Empowering everyone to build reliable and efficient software. | 2026-03-27T18:47:19Z |
-| 2 | [rustdesk](https://github.com/rustdesk/rustdesk) | 110102 | 16459 | Rust | 66 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 2026-03-27T06:40:01Z |
-| 3 | [deno](https://github.com/denoland/deno) | 106461 | 5963 | Rust | 2094 | A modern runtime for JavaScript and TypeScript. | 2026-03-27T17:06:17Z |
-| 4 | [tauri](https://github.com/tauri-apps/tauri) | 104700 | 3468 | Rust | 1265 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | 2026-03-27T18:29:33Z |
-| 5 | [uv](https://github.com/astral-sh/uv) | 82175 | 2868 | Rust | 2354 | An extremely fast Python package and project manager, written in Rust. | 2026-03-27T18:31:52Z |
-| 6 | [zed](https://github.com/zed-industries/zed) | 78004 | 7575 | Rust | 2677 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 2026-03-27T18:57:38Z |
-| 7 | [union](https://github.com/unionlabs/union) | 74194 | 3863 | Rust | 128 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-03-19T16:54:27Z |
-| 8 | [codex](https://github.com/openai/codex) | 67992 | 9112 | Rust | 2069 | Lightweight coding agent that runs in your terminal | 2026-03-27T19:02:58Z |
-| 9 | [alacritty](https://github.com/alacritty/alacritty) | 63164 | 3363 | Rust | 323 | A cross-platform, OpenGL terminal emulator. | 2026-03-21T08:25:09Z |
-| 10 | [rustlings](https://github.com/rust-lang/rustlings) | 62312 | 11171 | Rust | 49 | :crab: Small exercises to get you used to reading and writing Rust code! | 2026-03-25T17:30:03Z |
-| 11 | [sway](https://github.com/FuelLabs/sway) | 61845 | 5427 | Rust | 849 | 🌴 Empowering everyone to build reliable and efficient smart contracts. | 2026-03-27T13:44:57Z |
-| 12 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 61508 | 2444 | Rust | 105 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2026-02-27T16:25:19Z |
-| 13 | [bat](https://github.com/sharkdp/bat) | 57849 | 1494 | Rust | 310 | A cat(1) clone with wings. | 2026-03-25T20:01:52Z |
-| 14 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | 57444 | 2664 | Rust | 13 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | 2026-03-23T22:12:07Z |
-| 15 | [fuel-core](https://github.com/FuelLabs/fuel-core) | 57247 | 2863 | Rust | 158 | Rust full node implementation of the Fuel v2 protocol. | 2026-03-26T15:05:11Z |
-| 16 | [meilisearch](https://github.com/meilisearch/meilisearch) | 56798 | 2451 | Rust | 229 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | 2026-03-26T16:50:46Z |
-| 17 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 56404 | 3255 | Rust | 10 | A curated list of Rust code and resources. | 2026-03-27T16:52:51Z |
-| 18 | [starship](https://github.com/starship/starship) | 55457 | 2434 | Rust | 785 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | 2026-03-27T18:27:01Z |
-| 19 | [ChatGPT](https://github.com/lencx/ChatGPT) | 54370 | 6191 | Rust | 891 | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | 2024-08-29T17:58:11Z |
-| 20 | [typst](https://github.com/typst/typst) | 52323 | 1515 | Rust | 1118 | A markup-based typesetting system that is powerful and easy to learn. | 2026-03-27T16:47:27Z |
-| 21 | [Pake](https://github.com/tw93/Pake) | 47229 | 9331 | Rust | 3 | 🤱🏻 Turn any webpage into a desktop app with one command. | 2026-03-27T03:18:33Z |
-| 22 | [ruff](https://github.com/astral-sh/ruff) | 46732 | 1966 | Rust | 1645 | An extremely fast Python linter and code formatter, written in Rust. | 2026-03-27T18:40:21Z |
-| 23 | [bevy](https://github.com/bevyengine/bevy) | 45313 | 4472 | Rust | 2674 | A refreshingly simple data-driven game engine built in Rust | 2026-03-27T16:18:45Z |
-| 24 | [RuView](https://github.com/ruvnet/RuView) | 43748 | 5896 | Rust | 37 | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  | 2026-03-27T18:24:22Z |
-| 25 | [helix](https://github.com/helix-editor/helix) | 43661 | 3380 | Rust | 1010 | A post-modern modal text editor. | 2026-03-26T17:10:08Z |
-| 26 | [fuels-rs](https://github.com/FuelLabs/fuels-rs) | 43338 | 1359 | Rust | 50 | Fuel Network Rust SDK | 2026-03-12T20:54:19Z |
-| 27 | [fd](https://github.com/sharkdp/fd) | 42219 | 1017 | Rust | 136 | A simple, fast and user-friendly alternative to 'find' | 2026-03-25T07:08:18Z |
-| 28 | [hyperswitch](https://github.com/juspay/hyperswitch) | 41773 | 4577 | Rust | 952 | An open source payments switch written in Rust to make payments fast, reliable and affordable | 2026-03-27T16:01:30Z |
-| 29 | [nushell](https://github.com/nushell/nushell) | 38870 | 2086 | Rust | 1442 | A new type of shell | 2026-03-27T14:09:57Z |
-| 30 | [lapce](https://github.com/lapce/lapce) | 38188 | 1242 | Rust | 811 | Lightning-fast and Powerful Code Editor written in Rust | 2026-03-27T00:52:37Z |
-| 31 | [polars](https://github.com/pola-rs/polars) | 37880 | 2708 | Rust | 2490 | Extremely fast Query Engine for DataFrames, written in Rust | 2026-03-27T18:49:23Z |
-| 32 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | 37503 | 1236 | Rust | 15 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | 2026-03-27T07:38:30Z |
-| 33 | [servo](https://github.com/servo/servo) | 36132 | 3557 | Rust | 2914 | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | 2026-03-27T18:40:28Z |
-| 34 | [dioxus](https://github.com/DioxusLabs/dioxus) | 35467 | 1604 | Rust | 602 | Fullstack app framework for web, desktop, and mobile. | 2026-03-27T06:35:26Z |
-| 35 | [yazi](https://github.com/sxyazi/yazi) | 35415 | 784 | Rust | 46 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | 2026-03-26T23:37:56Z |
-| 36 | [zoxide](https://github.com/ajeetdsouza/zoxide) | 34996 | 755 | Rust | 123 | A smarter cd command. Supports all major shells. | 2026-03-23T22:20:25Z |
-| 37 | [cc-switch](https://github.com/farion1231/cc-switch) | 34443 | 2059 | Rust | 378 | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. | 2026-03-27T17:53:07Z |
-| 38 | [goose](https://github.com/block/goose) | 33673 | 3132 | Rust | 172 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | 2026-03-27T19:02:09Z |
-| 39 | [firecracker](https://github.com/firecracker-microvm/firecracker) | 33332 | 2317 | Rust | 49 | Secure and fast microVMs for serverless computing. | 2026-03-27T17:55:22Z |
-| 40 | [swc](https://github.com/swc-project/swc) | 33326 | 1379 | Rust | 386 | Rust-based platform for the Web | 2026-03-27T12:51:40Z |
-| 41 | [tabby](https://github.com/TabbyML/tabby) | 33117 | 1697 | Rust | 239 | Self-hosted AI coding assistant | 2026-03-02T20:08:28Z |
-| 42 | [sniffnet](https://github.com/GyulyVGC/sniffnet) | 33095 | 1221 | Rust | 48 | Comfortably monitor your Internet traffic 🕵️‍♂️ | 2026-03-21T09:39:54Z |
-| 43 | [fish-shell](https://github.com/fish-shell/fish-shell) | 32988 | 2263 | Rust | 493 | The user-friendly command line shell. | 2026-03-27T16:35:47Z |
-| 44 | [comprehensive-rust](https://github.com/google/comprehensive-rust) | 32791 | 1991 | Rust | 120 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | 2026-03-22T00:56:42Z |
-| 45 | [yew](https://github.com/yewstack/yew) | 32504 | 1456 | Rust | 91 | Rust / Wasm framework for creating reliable and efficient web applications | 2026-03-27T18:41:36Z |
-| 46 | [just](https://github.com/casey/just) | 32417 | 704 | Rust | 309 | 🤖 Just a command runner | 2026-03-26T03:37:04Z |
-| 47 | [linera-protocol](https://github.com/linera-io/linera-protocol) | 32154 | 2330 | Rust | 555 | Main repository for the Linera protocol | 2026-03-27T18:48:51Z |
-| 48 | [surrealdb](https://github.com/surrealdb/surrealdb) | 31688 | 1207 | Rust | 624 | A scalable, distributed, collaborative, document-graph database, for the realtime web | 2026-03-27T17:25:51Z |
-| 49 | [tokio](https://github.com/tokio-rs/tokio) | 31513 | 2982 | Rust | 329 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | 2026-03-27T08:38:55Z |
-| 50 | [influxdb](https://github.com/influxdata/influxdb) | 31391 | 3699 | Rust | 2045 | Scalable datastore for metrics, events, and real-time analytics | 2026-03-27T17:49:40Z |
-| 51 | [zellij](https://github.com/zellij-org/zellij) | 30482 | 1057 | Rust | 1363 | A terminal workspace with batteries included | 2026-03-27T15:23:15Z |
-| 52 | [czkawka](https://github.com/qarmin/czkawka) | 30235 | 1010 | Rust | 418 | Multi functional app to find duplicates, empty folders, similar images etc. | 2026-03-24T09:54:01Z |
-| 53 | [rust-course](https://github.com/sunface/rust-course) | 30169 | 2563 | Rust | 67 | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  | 2026-03-12T15:34:50Z |
-| 54 | [turborepo](https://github.com/vercel/turborepo) | 30075 | 2306 | Rust | 51 | Build system optimized for JavaScript and TypeScript, written in Rust | 2026-03-27T18:51:15Z |
-| 55 | [iced](https://github.com/iced-rs/iced) | 29985 | 1528 | Rust | 345 | A cross-platform GUI library for Rust, inspired by Elm | 2026-03-27T03:44:14Z |
-| 56 | [qdrant](https://github.com/qdrant/qdrant) | 29892 | 2141 | Rust | 399 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | 2026-03-27T16:30:39Z |
-| 57 | [delta](https://github.com/dandavison/delta) | 29692 | 481 | Rust | 289 | A syntax-highlighting pager for git, diff, grep, and blame output | 2026-03-22T15:18:45Z |
-| 58 | [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 28973 | 4022 | Rust | 86 | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 | 2026-03-27T18:12:13Z |
-| 59 | [atuin](https://github.com/atuinsh/atuin) | 28864 | 810 | Rust | 395 | ✨ Making your shell magical | 2026-03-27T19:00:47Z |
-| 60 | [egui](https://github.com/emilk/egui) | 28540 | 1993 | Rust | 898 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native | 2026-03-27T10:31:33Z |
-| 61 | [hyperfine](https://github.com/sharkdp/hyperfine) | 27763 | 457 | Rust | 50 | A command-line benchmarking tool | 2026-02-14T13:01:55Z |
-| 62 | [jj](https://github.com/jj-vcs/jj) | 27360 | 985 | Rust | 733 | A Git-compatible VCS that is both simple and powerful | 2026-03-27T16:13:56Z |
-| 63 | [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 27324 | 2981 | Rust | 1583 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。 | 2026-03-25T12:42:52Z |
-| 64 | [anki](https://github.com/ankitects/anki) | 27084 | 2885 | Rust | 283 | Anki is a smart spaced repetition flashcard program | 2026-03-27T18:39:57Z |
-| 65 | [chroma](https://github.com/chroma-core/chroma) | 26942 | 2147 | Rust | 263 | Data infrastructure for AI | 2026-03-27T18:54:59Z |
-| 66 | [pingora](https://github.com/cloudflare/pingora) | 26302 | 1607 | Rust | 170 | A library for building fast, reliable and evolvable network services. | 2026-03-20T23:02:50Z |
-| 67 | [mise](https://github.com/jdx/mise) | 26132 | 987 | Rust | 0 | dev tools, env vars, task runner | 2026-03-27T17:47:13Z |
-| 68 | [Rocket](https://github.com/rwf2/Rocket) | 25709 | 1626 | Rust | 59 | A web framework for Rust. | 2025-12-28T18:27:39Z |
-| 69 | [Rust](https://github.com/TheAlgorithms/Rust) | 25610 | 2541 | Rust | 2 |  All Algorithms implemented in Rust  | 2026-03-22T21:47:48Z |
-| 70 | [fhevm](https://github.com/zama-ai/fhevm) | 25591 | 2198 | Rust | 17 | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | 2026-03-27T18:18:20Z |
-| 71 | [axum](https://github.com/tokio-rs/axum) | 25434 | 1363 | Rust | 48 | HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity | 2026-03-25T10:12:19Z |
-| 72 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 25204 | 1519 | Rust | 176 | Browser automation CLI for AI agents | 2026-03-27T17:37:04Z |
-| 73 | [wezterm](https://github.com/wezterm/wezterm) | 25181 | 1306 | Rust | 1430 | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | 2026-03-21T09:37:32Z |
-| 74 | [Graphite](https://github.com/GraphiteEditor/Graphite) | 24897 | 1122 | Rust | 366 | Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing | 2026-03-27T13:37:30Z |
-| 75 | [difftastic](https://github.com/Wilfred/difftastic) | 24783 | 456 | Rust | 233 | a structural diff that understands syntax 🟥🟩 | 2026-03-25T23:50:27Z |
-| 76 | [fnm](https://github.com/Schniz/fnm) | 24692 | 613 | Rust | 144 | 🚀 Fast and simple Node.js version manager, built in Rust | 2026-03-27T13:30:35Z |
-| 77 | [actix-web](https://github.com/actix/actix-web) | 24519 | 1850 | Rust | 173 | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | 2026-03-27T11:17:30Z |
-| 78 | [exa](https://github.com/ogham/exa) | 24419 | 657 | Rust | 194 | A modern replacement for ‘ls’. | 2024-09-24T15:18:09Z |
-| 79 | [tree-sitter](https://github.com/tree-sitter/tree-sitter) | 24377 | 2513 | Rust | 112 | An incremental parsing system for programming tools | 2026-03-27T14:07:54Z |
-| 80 | [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 24253 | 957 | Rust | 585 | Development at the speed of light | 2026-03-27T18:55:33Z |
-| 81 | [biome](https://github.com/biomejs/biome) | 24180 | 919 | Rust | 351 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. | 2026-03-27T18:09:46Z |
-| 82 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 23917 | 2367 | Rust | 340 | Get 10X more out of Claude Code, Codex or any coding agent | 2026-03-27T18:10:26Z |
-| 83 | [rustfs](https://github.com/rustfs/rustfs) | 23843 | 1016 | Rust | 81 | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | 2026-03-27T14:58:45Z |
-| 84 | [tools](https://github.com/rome/tools) | 23486 | 648 | Rust | 86 | Unified developer tools for JavaScript, TypeScript, and the web | 2023-09-04T08:42:49Z |
-| 85 | [coreutils](https://github.com/uutils/coreutils) | 22968 | 1798 | Rust | 572 | Cross-platform Rust rewrite of the GNU coreutils | 2026-03-27T15:02:02Z |
-| 86 | [cli](https://github.com/googleworkspace/cli) | 22780 | 1100 | Rust | 45 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. | 2026-03-26T18:47:42Z |
-| 87 | [flow](https://github.com/facebook/flow) | 22209 | 1884 | Rust | 598 | Adds static typing to JavaScript to improve developer productivity and code quality. | 2026-03-27T18:00:11Z |
-| 88 | [slint](https://github.com/slint-ui/slint) | 22101 | 849 | Rust | 766 | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. | 2026-03-27T18:46:45Z |
-| 89 | [RustPython](https://github.com/RustPython/RustPython) | 21920 | 1413 | Rust | 283 | A Python Interpreter written in Rust | 2026-03-27T16:57:44Z |
-| 90 | [niri](https://github.com/niri-wm/niri) | 21885 | 790 | Rust | 203 | A scrollable-tiling Wayland compositor. | 2026-03-27T13:06:05Z |
-| 91 | [gitui](https://github.com/gitui-org/gitui) | 21647 | 705 | Rust | 227 | Blazing 💥 fast terminal-ui for git written in rust 🦀 | 2026-03-26T02:54:07Z |
-| 92 | [vector](https://github.com/vectordotdev/vector) | 21558 | 2055 | Rust | 2078 | A high-performance observability data pipeline. | 2026-03-27T18:39:07Z |
-| 93 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 21466 | 2546 | Rust | 56 | Production-grade Rust-native trading engine with deterministic event-driven architecture | 2026-03-27T14:20:19Z |
-| 94 | [mdBook](https://github.com/rust-lang/mdBook) | 21400 | 1820 | Rust | 567 | Create book from markdown files. Like Gitbook but implemented in Rust | 2026-03-26T18:17:19Z |
-| 95 | [neon](https://github.com/neondatabase/neon) | 21347 | 908 | Rust | 276 | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. | 2026-03-25T08:27:03Z |
-| 96 | [gleam](https://github.com/gleam-lang/gleam) | 21303 | 938 | Rust | 171 | ⭐️ A friendly language for building type-safe, scalable systems! | 2026-03-26T19:13:21Z |
-| 97 | [sonic](https://github.com/valeriansaliou/sonic) | 21176 | 612 | Rust | 64 | 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. | 2026-03-24T20:32:02Z |
-| 98 | [flow](https://github.com/nikivdev/flow) | 21154 | 840 | Rust | 0 | Everything you need to move your project faster | 2026-03-27T18:21:39Z |
-| 99 | [eza](https://github.com/eza-community/eza) | 20848 | 415 | Rust | 259 | A modern alternative to ls | 2026-03-23T22:23:10Z |
-| 100 | [wasmer](https://github.com/wasmerio/wasmer) | 20539 | 940 | Rust | 157 | 🚀 Fast, secure, lightweight containers based on WebAssembly | 2026-03-27T15:23:10Z |
+| 1 | [claw-code](https://github.com/ultraworkers/claw-code) | 194957 | 109378 | Rust | 14 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 2026-06-26T16:17:10Z |
+| 2 | [cc-switch](https://github.com/farion1231/cc-switch) | 123173 | 8329 | Rust | 1449 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | 2026-08-01T03:43:51Z |
+| 3 | [rustdesk](https://github.com/rustdesk/rustdesk) | 119367 | 18234 | Rust | 80 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 2026-07-31T00:12:28Z |
+| 4 | [rust](https://github.com/rust-lang/rust) | 115017 | 15281 | Rust | 11400 | Empowering everyone to build reliable and efficient software. | 2026-08-01T13:57:57Z |
+| 5 | [tauri](https://github.com/tauri-apps/tauri) | 109769 | 3822 | Rust | 1278 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | 2026-08-01T13:31:47Z |
+| 6 | [deno](https://github.com/denoland/deno) | 107886 | 6260 | Rust | 1128 | A modern runtime for JavaScript and TypeScript. | 2026-07-31T20:47:02Z |
+| 7 | [codex](https://github.com/openai/codex) | 103054 | 15520 | Rust | 11429 | Lightweight coding agent that runs in your terminal | 2026-08-01T08:45:36Z |
+| 8 | [bun](https://github.com/oven-sh/bun) | 95132 | 4924 | Rust | 3986 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 2026-08-01T14:08:47Z |
+| 9 | [uv](https://github.com/astral-sh/uv) | 88202 | 3426 | Rust | 2353 | An extremely fast Python package and project manager, written in Rust. | 2026-08-01T00:36:43Z |
+| 10 | [RuView](https://github.com/ruvnet/RuView) | 87998 | 11693 | Rust | 31 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | 2026-08-01T12:26:58Z |
+| 11 | [zed](https://github.com/zed-industries/zed) | 87866 | 9822 | Rust | 2515 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 2026-08-01T01:28:06Z |
+| 12 | [rtk](https://github.com/rtk-ai/rtk) | 74246 | 4650 | Rust | 878 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | 2026-08-01T12:32:08Z |
+| 13 | [union](https://github.com/unionlabs/union) | 73855 | 3887 | Rust | 127 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-07-25T18:20:02Z |
+| 14 | [openinterpreter](https://github.com/openinterpreter/openinterpreter) | 67479 | 5801 | Rust | 1 | A coding agent for open models like Kimi K3 | 2026-07-28T04:42:45Z |
+| 15 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 66788 | 2684 | Rust | 115 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2026-07-29T15:00:03Z |
+| 16 | [alacritty](https://github.com/alacritty/alacritty) | 65192 | 3537 | Rust | 326 | A cross-platform, OpenGL terminal emulator. | 2026-07-14T03:43:13Z |
+| 17 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | 64730 | 3071 | Rust | 16 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | 2026-08-01T02:06:45Z |
+| 18 | [warp](https://github.com/warpdotdev/warp) | 63851 | 5367 | Rust | 3799 | Warp is an agentic development environment, born out of the terminal. | 2026-08-01T06:42:34Z |
+| 19 | [rustlings](https://github.com/rust-lang/rustlings) | 63694 | 11235 | Rust | 27 | :crab: Small exercises to get you used to reading and writing Rust code! | 2026-08-01T12:46:49Z |
+| 20 | [sway](https://github.com/FuelLabs/sway) | 61537 | 5413 | Rust | 872 | 🌴 Empowering everyone to build reliable and efficient smart contracts. | 2026-07-27T15:21:17Z |
+| 21 | [Pake](https://github.com/tw93/Pake) | 60385 | 12278 | Rust | 0 | 🤱🏻 Turn any webpage into a desktop app with one command. | 2026-08-01T04:41:26Z |
+| 22 | [bat](https://github.com/sharkdp/bat) | 59967 | 1612 | Rust | 328 | A cat(1) clone with wings. | 2026-08-01T04:01:27Z |
+| 23 | [starship](https://github.com/starship/starship) | 59167 | 2611 | Rust | 799 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | 2026-07-31T16:05:55Z |
+| 24 | [meilisearch](https://github.com/meilisearch/meilisearch) | 58817 | 2650 | Rust | 243 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | 2026-07-30T14:35:07Z |
+| 25 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 58632 | 3518 | Rust | 8 | A curated list of Rust code and resources. | 2026-07-31T15:51:57Z |
+| 26 | [fuel-core](https://github.com/FuelLabs/fuel-core) | 56933 | 2859 | Rust | 161 | Rust full node implementation of the Fuel v2 protocol. | 2026-07-28T05:45:16Z |
+| 27 | [typst](https://github.com/typst/typst) | 55226 | 1663 | Rust | 1199 | A markup-based typesetting system that is powerful and easy to learn. | 2026-07-31T15:36:22Z |
+| 28 | [ChatGPT](https://github.com/lencx/ChatGPT) | 54421 | 6136 | Rust | 905 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) | 2024-08-29T17:58:11Z |
+| 29 | [goose](https://github.com/aaif-goose/goose) | 52053 | 5822 | Rust | 144 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | 2026-08-01T06:29:11Z |
+| 30 | [ruff](https://github.com/astral-sh/ruff) | 48956 | 2299 | Rust | 1692 | An extremely fast Python linter and code formatter, written in Rust. | 2026-08-01T13:53:51Z |
+| 31 | [bevy](https://github.com/bevyengine/bevy) | 47429 | 4733 | Rust | 2808 | A refreshingly simple data-driven game engine built in Rust | 2026-07-30T05:33:59Z |
+| 32 | [helix](https://github.com/helix-editor/helix) | 45682 | 3647 | Rust | 1081 | A post-modern modal text editor. | 2026-07-28T23:27:50Z |
+| 33 | [fd](https://github.com/sharkdp/fd) | 43936 | 1102 | Rust | 132 | A simple, fast and user-friendly alternative to 'find' | 2026-07-27T15:41:32Z |
+| 34 | [hyperswitch](https://github.com/juspay/hyperswitch) | 43380 | 4997 | Rust | 1291 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers \| Uplifts authorization with intelligent routing and revenue recovery \| Reduce payment processing costs with cost observability \| Reduces payment ops with reconciliation | 2026-08-01T05:24:53Z |
+| 35 | [fuels-rs](https://github.com/FuelLabs/fuels-rs) | 43090 | 1360 | Rust | 50 | Fuel Network Rust SDK | 2026-06-29T14:14:40Z |
+| 36 | [yazi](https://github.com/sxyazi/yazi) | 40957 | 965 | Rust | 51 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | 2026-08-01T10:58:02Z |
+| 37 | [CodeWhale](https://github.com/Hmbown/CodeWhale) | 40311 | 3486 | Rust | 292 | Open-source, community-driven agent harness | 2026-08-01T13:30:19Z |
+| 38 | [sniffnet](https://github.com/GyulyVGC/sniffnet) | 40261 | 1841 | Rust | 55 | Comfortably monitor your Internet traffic 🕵️‍♂️ | 2026-08-01T03:14:26Z |
+| 39 | [nushell](https://github.com/nushell/nushell) | 40141 | 2198 | Rust | 1376 | A new type of shell | 2026-08-01T12:28:41Z |
+| 40 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 39676 | 2594 | Rust | 314 | Browser automation CLI for AI agents | 2026-07-31T22:34:48Z |
+| 41 | [polars](https://github.com/pola-rs/polars) | 39156 | 2987 | Rust | 2512 | Extremely fast Query Engine for DataFrames, written in Rust | 2026-08-01T06:54:19Z |
+| 42 | [lapce](https://github.com/lapce/lapce) | 38716 | 1311 | Rust | 824 | Lightning-fast and Powerful Code Editor written in Rust | 2026-07-15T11:27:37Z |
+| 43 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | 38685 | 1330 | Rust | 21 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | 2026-07-29T00:31:28Z |
+| 44 | [dioxus](https://github.com/DioxusLabs/dioxus) | 38424 | 1819 | Rust | 633 | Fullstack app framework for web, desktop, and mobile. | 2026-07-31T00:29:19Z |
+| 45 | [zoxide](https://github.com/ajeetdsouza/zoxide) | 38396 | 853 | Rust | 98 | A smarter cd command. Supports all major shells. | 2026-07-20T12:05:30Z |
+| 46 | [servo](https://github.com/servo/servo) | 37551 | 3726 | Rust | 2915 | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | 2026-08-01T13:06:00Z |
+| 47 | [pnpm](https://github.com/pnpm/pnpm) | 35929 | 1606 | Rust | 2289 | Fast, disk space efficient package manager | 2026-08-01T13:22:20Z |
+| 48 | [firecracker](https://github.com/firecracker-microvm/firecracker) | 35818 | 2538 | Rust | 52 | Secure and fast microVMs for serverless computing. | 2026-07-30T15:58:18Z |
+| 49 | [openhuman](https://github.com/tinyhumansai/openhuman) | 35790 | 3533 | Rust | 105 | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. | 2026-07-31T19:43:04Z |
+| 50 | [just](https://github.com/casey/just) | 35056 | 830 | Rust | 170 | 🤖 Just a command runner | 2026-07-26T04:23:14Z |
+| 51 | [zellij](https://github.com/zellij-org/zellij) | 34625 | 1349 | Rust | 1518 | A terminal workspace with batteries included | 2026-08-01T07:22:23Z |
+| 52 | [swc](https://github.com/swc-project/swc) | 34155 | 1531 | Rust | 354 | Rust-based platform for the Web | 2026-07-31T02:18:54Z |
+| 53 | [fish-shell](https://github.com/fish-shell/fish-shell) | 33964 | 2337 | Rust | 503 | The user-friendly command line shell. | 2026-07-31T19:29:32Z |
+| 54 | [tabby](https://github.com/TabbyML/tabby) | 33805 | 1781 | Rust | 257 | Self-hosted AI coding assistant | 2026-06-30T20:38:02Z |
+| 55 | [qdrant](https://github.com/qdrant/qdrant) | 33701 | 2545 | Rust | 478 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | 2026-08-01T12:52:20Z |
+| 56 | [comprehensive-rust](https://github.com/google/comprehensive-rust) | 33272 | 2056 | Rust | 117 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | 2026-08-01T01:35:17Z |
+| 57 | [surrealdb](https://github.com/surrealdb/surrealdb) | 32787 | 1323 | Rust | 646 | A scalable, distributed, collaborative, document-graph database, for the realtime web | 2026-07-06T15:57:27Z |
+| 58 | [yew](https://github.com/yewstack/yew) | 32768 | 1456 | Rust | 81 | Rust / Wasm framework for creating reliable and efficient web applications | 2026-08-01T03:13:15Z |
+| 59 | [tokio](https://github.com/tokio-rs/tokio) | 32741 | 3173 | Rust | 319 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | 2026-07-31T20:27:55Z |
+| 60 | [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 32476 | 4859 | Rust | 393 | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 | 2026-08-01T09:05:46Z |
+| 61 | [linera-protocol](https://github.com/linera-io/linera-protocol) | 32145 | 2397 | Rust | 516 | Main repository for the Linera protocol | 2026-08-01T02:28:27Z |
+| 62 | [influxdb](https://github.com/influxdata/influxdb) | 31670 | 3717 | Rust | 2056 | Scalable datastore for metrics, events, and real-time analytics | 2026-08-01T04:18:28Z |
+| 63 | [delta](https://github.com/dandavison/delta) | 31604 | 557 | Rust | 305 | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output | 2026-07-31T15:43:12Z |
+| 64 | [mise](https://github.com/jdx/mise) | 31399 | 1299 | Rust | 0 | dev tools, env vars, task runner | 2026-08-01T00:39:14Z |
+| 65 | [iced](https://github.com/iced-rs/iced) | 31127 | 1628 | Rust | 358 | A cross-platform GUI library for Rust, inspired by Elm | 2026-08-01T13:52:43Z |
+| 66 | [llmfit](https://github.com/AlexsJones/llmfit) | 31029 | 1890 | Rust | 37 | Hundreds of models & providers. One command to find what runs on your hardware. | 2026-07-31T10:49:11Z |
+| 67 | [atuin](https://github.com/atuinsh/atuin) | 30951 | 913 | Rust | 306 | ✨ Making your shell magical | 2026-08-01T03:14:05Z |
+| 68 | [turborepo](https://github.com/vercel/turborepo) | 30829 | 2405 | Rust | 0 | Build system optimized for JavaScript and TypeScript, written in Rust | 2026-07-31T22:20:20Z |
+| 69 | [jj](https://github.com/jj-vcs/jj) | 30763 | 1153 | Rust | 802 | A Git-compatible VCS that is both simple and powerful | 2026-08-01T10:55:35Z |
+| 70 | [rust-course](https://github.com/sunface/rust-course) | 30717 | 2585 | Rust | 16 | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  | 2026-06-08T06:34:38Z |
+| 71 | [rustfs](https://github.com/rustfs/rustfs) | 30525 | 1349 | Rust | 56 | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | 2026-08-01T14:06:11Z |
+| 72 | [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 30268 | 3278 | Rust | 1731 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。 | 2026-07-28T09:14:29Z |
+| 73 | [cli](https://github.com/googleworkspace/cli) | 30131 | 1763 | Rust | 116 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. | 2026-08-01T02:19:29Z |
+| 74 | [egui](https://github.com/emilk/egui) | 29929 | 2087 | Rust | 934 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native | 2026-08-01T10:16:04Z |
+| 75 | [anki](https://github.com/ankitects/anki) | 29447 | 3122 | Rust | 332 | Anki is a smart spaced repetition flashcard program | 2026-08-01T11:54:59Z |
+| 76 | [chroma](https://github.com/chroma-core/chroma) | 28918 | 2420 | Rust | 332 | Search infrastructure for AI | 2026-07-31T23:15:46Z |
+| 77 | [hyperfine](https://github.com/sharkdp/hyperfine) | 28574 | 504 | Rust | 52 | A command-line benchmarking tool | 2026-04-30T08:23:25Z |
+| 78 | [Handy](https://github.com/cjpais/Handy) | 28335 | 2476 | Rust | 76 | A free, open source, and extensible speech-to-text application that works completely offline. | 2026-08-01T13:27:08Z |
+| 79 | [wezterm](https://github.com/wezterm/wezterm) | 28087 | 1635 | Rust | 1497 | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | 2026-07-31T06:32:31Z |
+| 80 | [meetily](https://github.com/Zackriya-Solutions/meetily) | 27779 | 2854 | Rust | 206 | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes | 2026-06-05T13:53:17Z |
+| 81 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 27610 | 2932 | Rust | 383 | Get 10X more out of Claude Code, Codex or any coding agent | 2026-04-24T09:17:34Z |
+| 82 | [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 27377 | 1750 | Rust | 1009 | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 | 2026-07-31T04:16:57Z |
+| 83 | [pingora](https://github.com/cloudflare/pingora) | 27111 | 1695 | Rust | 194 | A library for building fast, reliable and evolvable network services. | 2026-07-27T15:36:17Z |
+| 84 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | 26998 | 2657 | Rust | 420 | Switch hosts quickly! | 2026-07-25T03:37:53Z |
+| 85 | [x-algorithm](https://github.com/xai-org/x-algorithm) | 26883 | 4581 | Rust | 0 | Algorithm powering the For You feed on X | 2026-05-15T21:55:27Z |
+| 86 | [axum](https://github.com/tokio-rs/axum) | 26751 | 1459 | Rust | 38 | HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity | 2026-07-30T08:07:53Z |
+| 87 | [Graphite](https://github.com/GraphiteEditor/Graphite) | 26718 | 1230 | Rust | 381 | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine | 2026-07-31T20:56:58Z |
+| 88 | [niri](https://github.com/niri-wm/niri) | 26544 | 1029 | Rust | 225 | A scrollable-tiling Wayland compositor. | 2026-07-20T18:31:53Z |
+| 89 | [tree-sitter](https://github.com/tree-sitter/tree-sitter) | 26504 | 2794 | Rust | 102 | An incremental parsing system for programming tools | 2026-07-29T00:21:34Z |
+| 90 | [fnm](https://github.com/Schniz/fnm) | 26438 | 639 | Rust | 164 | 🚀 Fast and simple Node.js version manager, built in Rust | 2026-07-24T14:28:38Z |
+| 91 | [Rust](https://github.com/TheAlgorithms/Rust) | 25958 | 2586 | Rust | 4 |  All Algorithms implemented in Rust  | 2026-07-25T20:19:09Z |
+| 92 | [Rocket](https://github.com/rwf2/Rocket) | 25776 | 1629 | Rust | 62 | A web framework for Rust. | 2025-12-28T18:27:39Z |
+| 93 | [difftastic](https://github.com/Wilfred/difftastic) | 25711 | 499 | Rust | 249 | a structural diff that understands syntax 🟥🟩 | 2026-07-31T21:18:58Z |
+| 94 | [biome](https://github.com/biomejs/biome) | 25460 | 1166 | Rust | 384 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. | 2026-08-01T13:52:24Z |
+| 95 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 25178 | 3273 | Rust | 69 | Production-grade Rust-native trading engine with deterministic event-driven architecture | 2026-08-01T14:12:48Z |
+| 96 | [fhevm](https://github.com/zama-ai/fhevm) | 25124 | 2018 | Rust | 27 | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | 2026-08-01T12:01:08Z |
+| 97 | [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 24963 | 1032 | Rust | 726 | Development at the speed of light | 2026-08-01T12:12:10Z |
+| 98 | [actix-web](https://github.com/actix/actix-web) | 24762 | 1879 | Rust | 156 | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | 2026-07-29T21:26:49Z |
+| 99 | [exa](https://github.com/ogham/exa) | 24440 | 655 | Rust | 193 | A modern replacement for ‘ls’. | 2024-09-24T15:18:09Z |
+| 100 | [coreutils](https://github.com/uutils/coreutils) | 23841 | 1970 | Rust | 757 | Cross-platform Rust rewrite of the GNU coreutils | 2026-08-01T12:35:18Z |
 
