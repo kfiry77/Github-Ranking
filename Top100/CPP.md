@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 196850 | 75871 | C++ | 789 | An Open Source Machine Learning Framework for Everyone | 2026-08-05T19:00:04Z |
-| 2 | [react-native](https://github.com/react/react-native) | 126286 | 25197 | C++ | 673 | A framework for building native applications using React | 2026-08-05T18:55:43Z |
-| 3 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 122815 | 21358 | C++ | 681 | LLM inference in C/C++ | 2026-08-05T17:40:40Z |
-| 4 | [electron](https://github.com/electron/electron) | 122358 | 17381 | C++ | 737 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 2026-08-05T18:53:31Z |
-| 5 | [godot](https://github.com/godotengine/godot) | 115205 | 26253 | C++ | 13358 | Godot Engine – Multi-platform 2D and 3D game engine | 2026-08-05T14:52:31Z |
-| 6 | [terminal](https://github.com/microsoft/terminal) | 104491 | 9487 | C++ | 1663 | The new Windows Terminal and the original Windows console host, all in the same place! | 2026-08-05T17:41:00Z |
-| 7 | [opencv](https://github.com/opencv/opencv) | 90307 | 56955 | C++ | 2556 | Open Source Computer Vision Library | 2026-08-05T12:36:48Z |
-| 8 | [bitcoin](https://github.com/bitcoin/bitcoin) | 89788 | 39254 | C++ | 337 | Bitcoin Core integration/staging tree | 2026-08-05T14:06:23Z |
-| 9 | [gpt4all](https://github.com/nomic-ai/gpt4all) | 77409 | 8307 | C++ | 730 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 2025-05-27T20:05:19Z |
-| 10 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 75764 | 10719 | C++ | 436 | Tesseract Open Source OCR Engine (main repository) | 2026-08-03T06:16:19Z |
-| 11 | [imgui](https://github.com/ocornut/imgui) | 75511 | 11989 | C++ | 1051 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | 2026-08-05T18:18:31Z |
-| 12 | [protobuf](https://github.com/protocolbuffers/protobuf) | 71687 | 16205 | C++ | 124 | Protocol Buffers - Google's data interchange format | 2026-08-05T18:21:14Z |
-| 13 | [ladybird](https://github.com/LadybirdBrowser/ladybird) | 64770 | 3097 | C++ | 493 | Truly independent web browser | 2026-08-05T13:22:12Z |
-| 14 | [ImHex](https://github.com/WerWolv/ImHex) | 54396 | 2439 | C++ | 344 | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. | 2026-08-05T17:58:16Z |
-| 15 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 52596 | 6024 | C++ | 1062 | Port of OpenAI's Whisper model in C/C++ | 2026-08-04T14:01:20Z |
-| 16 | [json](https://github.com/nlohmann/json) | 50292 | 7455 | C++ | 36 | JSON for Modern C++ | 2026-08-05T15:47:58Z |
-| 17 | [x64dbg](https://github.com/x64dbg/x64dbg) | 49084 | 2809 | C++ | 572 | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. | 2026-08-04T18:35:09Z |
-| 18 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | 49074 | 8748 | C++ | 4896 | ClickHouse® is a real-time analytics database management system | 2026-08-05T19:00:19Z |
-| 19 | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) | 45593 | 3748 | C++ | 1321 | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 | 2026-07-22T03:19:43Z |
-| 20 | [grpc](https://github.com/grpc/grpc) | 45250 | 11351 | C++ | 683 | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | 2026-08-05T19:00:26Z |
-| 21 | [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | 43350 | 8808 | C++ | 8 | C++那些事 | 2026-05-16T06:05:14Z |
-| 22 | [aria2](https://github.com/aria2/aria2) | 41650 | 3887 | C++ | 1094 | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | 2026-06-25T14:49:35Z |
-| 23 | [faiss](https://github.com/facebookresearch/faiss) | 40670 | 4483 | C++ | 214 | A library for efficient similarity search and clustering of dense vectors. | 2026-08-05T17:40:39Z |
-| 24 | [duckdb](https://github.com/duckdb/duckdb) | 40015 | 3520 | C++ | 567 | DuckDB is an analytical in-process SQL database management system | 2026-08-05T18:30:33Z |
-| 25 | [Sunshine](https://github.com/LizardByte/Sunshine) | 39886 | 1998 | C++ | 89 | Self-hosted game stream host for Moonlight. | 2026-08-05T12:14:05Z |
-| 26 | [BitNet](https://github.com/microsoft/BitNet) | 39818 | 3659 | C++ | 197 | Official inference framework for 1-bit LLMs | 2026-07-27T05:52:06Z |
-| 27 | [leveldb](https://github.com/google/leveldb) | 39280 | 8200 | C++ | 256 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. | 2026-03-11T04:06:29Z |
-| 28 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | 39268 | 4808 | C++ | 2555 | qBittorrent BitTorrent client | 2026-08-03T12:26:23Z |
-| 29 | [googletest](https://github.com/google/googletest) | 38898 | 10838 | C++ | 326 | GoogleTest - Google Testing and Mocking Framework | 2026-08-05T16:02:15Z |
-| 30 | [aseprite](https://github.com/aseprite/aseprite) | 38530 | 8580 | C++ | 1919 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | 2026-07-30T13:11:30Z |
-| 31 | [interview](https://github.com/huihut/interview) | 38109 | 8084 | C++ | 2 | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc. | 2025-08-24T07:01:54Z |
-| 32 | [Hyprland](https://github.com/hyprwm/Hyprland) | 37724 | 1914 | C++ | 49 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. | 2026-08-05T18:38:11Z |
-| 33 | [mediapipe](https://github.com/google-ai-edge/mediapipe) | 36489 | 6099 | C++ | 361 | Cross-platform, customizable ML solutions for live and streaming media. | 2026-08-05T01:23:36Z |
-| 34 | [caffe](https://github.com/BVLC/caffe) | 34569 | 18442 | C++ | 1207 | Caffe: a fast open framework for deep learning. | 2024-07-31T23:10:28Z |
-| 35 | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34551 | 7846 | C++ | 10 | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | 2025-10-11T14:51:22Z |
-| 36 | [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | 34341 | 8034 | C++ | 340 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation | 2024-08-03T01:59:11Z |
-| 37 | [carbon-lang](https://github.com/carbon-language/carbon-lang) | 33854 | 1704 | C++ | 210 | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) | 2026-08-05T17:43:38Z |
-| 38 | [btop](https://github.com/aristocratos/btop) | 33820 | 1104 | C++ | 454 | A monitor of resources | 2026-08-04T13:04:44Z |
-| 39 | [serenity](https://github.com/SerenityOS/serenity) | 33718 | 3535 | C++ | 730 | The Serenity Operating System 🐞 | 2026-08-05T13:39:22Z |
-| 40 | [WSL](https://github.com/microsoft/WSL) | 33306 | 1794 | C++ | 913 | Windows Subsystem for Linux | 2026-08-05T18:29:29Z |
-| 41 | [FreeCAD](https://github.com/FreeCAD/FreeCAD) | 32635 | 5842 | C++ | 3504 | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | 2026-08-05T17:07:14Z |
-| 42 | [tdesktop](https://github.com/telegramdesktop/tdesktop) | 32520 | 7028 | C++ | 941 | Telegram Desktop messaging app | 2026-08-05T10:50:56Z |
-| 43 | [Proton](https://github.com/ValveSoftware/Proton) | 32452 | 1559 | C++ | 5113 | Compatibility tool for Steam Play based on Wine and additional components | 2026-08-05T18:38:14Z |
-| 44 | [shadPS4](https://github.com/shadps4-emu/shadPS4) | 32381 | 2390 | C++ | 142 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ | 2026-08-05T09:54:52Z |
-| 45 | [rocksdb](https://github.com/facebook/rocksdb) | 31939 | 6888 | C++ | 908 | A library that provides an embeddable, persistent key-value store for fast storage. | 2026-08-04T23:03:01Z |
-| 46 | [calculator](https://github.com/microsoft/calculator) | 31000 | 5785 | C++ | 425 | Windows Calculator: A simple yet powerful calculator that ships with Windows | 2026-08-05T16:57:14Z |
-| 47 | [dragonfly](https://github.com/dragonflydb/dragonfly) | 30959 | 1219 | C++ | 248 | A modern replacement for Redis and Memcached | 2026-08-05T17:42:51Z |
-| 48 | [QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 30921 | 3666 | C++ | 614 | Android real-time display control software | 2026-07-28T07:41:03Z |
-| 49 | [flameshot](https://github.com/flameshot-org/flameshot) | 30552 | 1983 | C++ | 648 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | 2026-08-04T20:17:12Z |
-| 50 | [folly](https://github.com/facebook/folly) | 30489 | 5866 | C++ | 316 | An open-source C++ library developed and used at Facebook. | 2026-08-05T02:11:26Z |
-| 51 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 29811 | 4196 | C++ | 9 | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. | 2026-07-25T20:22:10Z |
-| 52 | [phantomjs](https://github.com/ariya/phantomjs) | 29451 | 5667 | C++ | 14 | Scriptable Headless Browser | 2022-11-26T19:43:12Z |
-| 53 | [spdlog](https://github.com/gabime/spdlog) | 29431 | 5376 | C++ | 36 | Fast C++ logging library. | 2026-07-24T13:24:39Z |
-| 54 | [srs](https://github.com/ossrs/srs) | 29097 | 5683 | C++ | 32 | SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711. | 2026-08-04T02:24:11Z |
-| 55 | [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | 28907 | 5312 | C++ | 2908 | Notepad++ official repository | 2026-08-04T12:00:08Z |
-| 56 | [envoy](https://github.com/envoyproxy/envoy) | 28718 | 5536 | C++ | 1620 | Cloud-native high-performance edge/middle/service proxy | 2026-08-05T17:23:16Z |
-| 57 | [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 28668 | 6529 | C++ | 614 | An MCP-based chatbot \| 一个基于MCP的聊天机器人 | 2026-08-04T01:24:29Z |
-| 58 | [xgboost](https://github.com/dmlc/xgboost) | 28629 | 8877 | C++ | 389 | Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow | 2026-08-05T17:12:43Z |
-| 59 | [mongo](https://github.com/mongodb/mongo) | 28469 | 5794 | C++ | 0 | The MongoDB Database | 2026-08-05T18:18:18Z |
-| 60 | [taichi](https://github.com/taichi-dev/taichi) | 28317 | 2388 | C++ | 876 | Productive, portable, and performant GPU programming in Python. | 2026-07-06T19:33:09Z |
-| 61 | [keepassxc](https://github.com/keepassxreboot/keepassxc) | 28283 | 1871 | C++ | 780 | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | 2026-08-05T04:01:49Z |
-| 62 | [deskflow](https://github.com/deskflow/deskflow) | 27861 | 4759 | C++ | 149 | Share a single keyboard and mouse between multiple computers. | 2026-08-05T16:08:52Z |
-| 63 | [mlx](https://github.com/ml-explore/mlx) | 27838 | 2089 | C++ | 113 | MLX: An array framework for Apple silicon | 2026-08-05T16:41:17Z |
-| 64 | [emscripten](https://github.com/emscripten-core/emscripten) | 27551 | 3533 | C++ | 2026 | Emscripten: An LLVM-to-WebAssembly Compiler | 2026-08-05T18:51:14Z |
-| 65 | [rethinkdb](https://github.com/rethinkdb/rethinkdb) | 26998 | 1850 | C++ | 1342 | The open-source database for the realtime web. | 2026-03-28T06:10:59Z |
-| 66 | [apollo](https://github.com/ApolloAuto/apollo) | 26783 | 9958 | C++ | 934 | An open autonomous driving platform | 2026-04-16T12:24:54Z |
+| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 196893 | 75902 | C++ | 785 | An Open Source Machine Learning Framework for Everyone | 2026-08-06T18:58:57Z |
+| 2 | [react-native](https://github.com/react/react-native) | 126300 | 25198 | C++ | 676 | A framework for building native applications using React | 2026-08-06T18:02:01Z |
+| 3 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 122898 | 21385 | C++ | 688 | LLM inference in C/C++ | 2026-08-06T17:46:40Z |
+| 4 | [electron](https://github.com/electron/electron) | 122375 | 17384 | C++ | 736 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 2026-08-06T18:43:53Z |
+| 5 | [godot](https://github.com/godotengine/godot) | 115261 | 26266 | C++ | 13366 | Godot Engine – Multi-platform 2D and 3D game engine | 2026-08-05T14:52:31Z |
+| 6 | [terminal](https://github.com/microsoft/terminal) | 104503 | 9488 | C++ | 1656 | The new Windows Terminal and the original Windows console host, all in the same place! | 2026-08-06T16:17:35Z |
+| 7 | [opencv](https://github.com/opencv/opencv) | 90324 | 56955 | C++ | 2553 | Open Source Computer Vision Library | 2026-08-06T18:38:34Z |
+| 8 | [bitcoin](https://github.com/bitcoin/bitcoin) | 89800 | 39258 | C++ | 336 | Bitcoin Core integration/staging tree | 2026-08-06T15:14:32Z |
+| 9 | [gpt4all](https://github.com/nomic-ai/gpt4all) | 77410 | 8306 | C++ | 730 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 2025-05-27T20:05:19Z |
+| 10 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 75792 | 10721 | C++ | 436 | Tesseract Open Source OCR Engine (main repository) | 2026-08-03T06:16:19Z |
+| 11 | [imgui](https://github.com/ocornut/imgui) | 75531 | 11991 | C++ | 1048 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | 2026-08-06T17:02:04Z |
+| 12 | [protobuf](https://github.com/protocolbuffers/protobuf) | 71693 | 16210 | C++ | 124 | Protocol Buffers - Google's data interchange format | 2026-08-06T18:52:22Z |
+| 13 | [ladybird](https://github.com/LadybirdBrowser/ladybird) | 64797 | 3097 | C++ | 493 | Truly independent web browser | 2026-08-06T10:32:22Z |
+| 14 | [ImHex](https://github.com/WerWolv/ImHex) | 54401 | 2439 | C++ | 344 | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. | 2026-08-06T17:35:55Z |
+| 15 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 52625 | 6037 | C++ | 1063 | Port of OpenAI's Whisper model in C/C++ | 2026-08-04T14:01:20Z |
+| 16 | [json](https://github.com/nlohmann/json) | 50309 | 7457 | C++ | 36 | JSON for Modern C++ | 2026-08-06T15:48:17Z |
+| 17 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | 49097 | 8753 | C++ | 4907 | ClickHouse® is a real-time analytics database management system | 2026-08-06T19:00:10Z |
+| 18 | [x64dbg](https://github.com/x64dbg/x64dbg) | 49096 | 2809 | C++ | 572 | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. | 2026-08-04T18:35:09Z |
+| 19 | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) | 45611 | 3749 | C++ | 1321 | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 | 2026-07-22T03:19:43Z |
+| 20 | [grpc](https://github.com/grpc/grpc) | 45256 | 11356 | C++ | 682 | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | 2026-08-06T18:54:51Z |
+| 21 | [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | 43352 | 8809 | C++ | 8 | C++那些事 | 2026-05-16T06:05:14Z |
+| 22 | [aria2](https://github.com/aria2/aria2) | 41658 | 3888 | C++ | 1095 | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | 2026-06-25T14:49:35Z |
+| 23 | [faiss](https://github.com/facebookresearch/faiss) | 40680 | 4483 | C++ | 216 | A library for efficient similarity search and clustering of dense vectors. | 2026-08-06T18:00:42Z |
+| 24 | [duckdb](https://github.com/duckdb/duckdb) | 40046 | 3523 | C++ | 564 | DuckDB is an analytical in-process SQL database management system | 2026-08-06T14:57:17Z |
+| 25 | [Sunshine](https://github.com/LizardByte/Sunshine) | 39920 | 2001 | C++ | 90 | Self-hosted game stream host for Moonlight. | 2026-08-06T06:54:25Z |
+| 26 | [BitNet](https://github.com/microsoft/BitNet) | 39816 | 3660 | C++ | 198 | Official inference framework for 1-bit LLMs | 2026-07-27T05:52:06Z |
+| 27 | [leveldb](https://github.com/google/leveldb) | 39293 | 8202 | C++ | 257 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. | 2026-03-11T04:06:29Z |
+| 28 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | 39290 | 4809 | C++ | 2556 | qBittorrent BitTorrent client | 2026-08-03T12:26:23Z |
+| 29 | [googletest](https://github.com/google/googletest) | 38905 | 10838 | C++ | 324 | GoogleTest - Google Testing and Mocking Framework | 2026-08-05T21:32:34Z |
+| 30 | [aseprite](https://github.com/aseprite/aseprite) | 38558 | 8592 | C++ | 1920 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | 2026-08-06T18:35:11Z |
+| 31 | [interview](https://github.com/huihut/interview) | 38111 | 8084 | C++ | 2 | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc. | 2025-08-24T07:01:54Z |
+| 32 | [Hyprland](https://github.com/hyprwm/Hyprland) | 37739 | 1917 | C++ | 49 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. | 2026-08-06T13:13:29Z |
+| 33 | [mediapipe](https://github.com/google-ai-edge/mediapipe) | 36509 | 6102 | C++ | 360 | Cross-platform, customizable ML solutions for live and streaming media. | 2026-08-06T17:15:13Z |
+| 34 | [caffe](https://github.com/BVLC/caffe) | 34569 | 18441 | C++ | 1208 | Caffe: a fast open framework for deep learning. | 2024-07-31T23:10:28Z |
+| 35 | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34552 | 7849 | C++ | 10 | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | 2025-10-11T14:51:22Z |
+| 36 | [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | 34349 | 8037 | C++ | 340 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation | 2024-08-03T01:59:11Z |
+| 37 | [carbon-lang](https://github.com/carbon-language/carbon-lang) | 33858 | 1708 | C++ | 210 | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) | 2026-08-06T13:54:38Z |
+| 38 | [btop](https://github.com/aristocratos/btop) | 33839 | 1104 | C++ | 454 | A monitor of resources | 2026-08-06T04:26:19Z |
+| 39 | [serenity](https://github.com/SerenityOS/serenity) | 33728 | 3544 | C++ | 729 | The Serenity Operating System 🐞 | 2026-08-05T23:01:56Z |
+| 40 | [WSL](https://github.com/microsoft/WSL) | 33315 | 1795 | C++ | 910 | Windows Subsystem for Linux | 2026-08-06T18:49:05Z |
+| 41 | [FreeCAD](https://github.com/FreeCAD/FreeCAD) | 32664 | 5849 | C++ | 3513 | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | 2026-08-06T15:12:36Z |
+| 42 | [tdesktop](https://github.com/telegramdesktop/tdesktop) | 32532 | 7036 | C++ | 941 | Telegram Desktop messaging app | 2026-08-06T07:25:12Z |
+| 43 | [Proton](https://github.com/ValveSoftware/Proton) | 32459 | 1561 | C++ | 5114 | Compatibility tool for Steam Play based on Wine and additional components | 2026-08-06T18:50:22Z |
+| 44 | [shadPS4](https://github.com/shadps4-emu/shadPS4) | 32395 | 2397 | C++ | 142 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ | 2026-08-06T15:06:17Z |
+| 45 | [rocksdb](https://github.com/facebook/rocksdb) | 31943 | 6892 | C++ | 908 | A library that provides an embeddable, persistent key-value store for fast storage. | 2026-08-06T15:25:45Z |
+| 46 | [QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 31065 | 3693 | C++ | 614 | Android real-time display control software | 2026-07-28T07:41:03Z |
+| 47 | [calculator](https://github.com/microsoft/calculator) | 31000 | 5786 | C++ | 425 | Windows Calculator: A simple yet powerful calculator that ships with Windows | 2026-08-05T16:57:14Z |
+| 48 | [dragonfly](https://github.com/dragonflydb/dragonfly) | 30967 | 1219 | C++ | 249 | A modern replacement for Redis and Memcached | 2026-08-06T17:24:45Z |
+| 49 | [flameshot](https://github.com/flameshot-org/flameshot) | 30561 | 1984 | C++ | 648 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | 2026-08-04T20:17:12Z |
+| 50 | [folly](https://github.com/facebook/folly) | 30490 | 5866 | C++ | 316 | An open-source C++ library developed and used at Facebook. | 2026-08-06T18:05:35Z |
+| 51 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 29919 | 4208 | C++ | 9 | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. | 2026-07-25T20:22:10Z |
+| 52 | [phantomjs](https://github.com/ariya/phantomjs) | 29452 | 5667 | C++ | 14 | Scriptable Headless Browser | 2022-11-26T19:43:12Z |
+| 53 | [spdlog](https://github.com/gabime/spdlog) | 29443 | 5387 | C++ | 36 | Fast C++ logging library. | 2026-07-24T13:24:39Z |
+| 54 | [srs](https://github.com/ossrs/srs) | 29103 | 5682 | C++ | 30 | SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711. | 2026-08-06T10:48:23Z |
+| 55 | [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | 28917 | 5314 | C++ | 2904 | Notepad++ official repository | 2026-08-06T16:37:26Z |
+| 56 | [envoy](https://github.com/envoyproxy/envoy) | 28725 | 5539 | C++ | 1621 | Cloud-native high-performance edge/middle/service proxy | 2026-08-06T16:48:19Z |
+| 57 | [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 28700 | 6543 | C++ | 614 | An MCP-based chatbot \| 一个基于MCP的聊天机器人 | 2026-08-06T16:46:09Z |
+| 58 | [xgboost](https://github.com/dmlc/xgboost) | 28633 | 8878 | C++ | 389 | Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow | 2026-08-06T13:54:56Z |
+| 59 | [mongo](https://github.com/mongodb/mongo) | 28472 | 5794 | C++ | 0 | The MongoDB Database | 2026-08-06T18:50:28Z |
+| 60 | [taichi](https://github.com/taichi-dev/taichi) | 28315 | 2387 | C++ | 876 | Productive, portable, and performant GPU programming in Python. | 2026-07-06T19:33:09Z |
+| 61 | [keepassxc](https://github.com/keepassxreboot/keepassxc) | 28289 | 1871 | C++ | 780 | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | 2026-08-05T04:01:49Z |
+| 62 | [deskflow](https://github.com/deskflow/deskflow) | 27887 | 4763 | C++ | 150 | Share a single keyboard and mouse between multiple computers. | 2026-08-06T15:02:32Z |
+| 63 | [mlx](https://github.com/ml-explore/mlx) | 27856 | 2093 | C++ | 113 | MLX: An array framework for Apple silicon | 2026-08-06T15:35:31Z |
+| 64 | [emscripten](https://github.com/emscripten-core/emscripten) | 27552 | 3533 | C++ | 2026 | Emscripten: An LLVM-to-WebAssembly Compiler | 2026-08-06T16:15:18Z |
+| 65 | [rethinkdb](https://github.com/rethinkdb/rethinkdb) | 26997 | 1850 | C++ | 1342 | The open-source database for the realtime web. | 2026-03-28T06:10:59Z |
+| 66 | [apollo](https://github.com/ApolloAuto/apollo) | 26784 | 9957 | C++ | 934 | An open autonomous driving platform | 2026-04-16T12:24:54Z |
 | 67 | [DeepSpeech](https://github.com/mozilla/DeepSpeech) | 26772 | 4082 | C++ | 126 | DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. | 2025-06-19T12:52:51Z |
-| 68 | [typesense](https://github.com/typesense/typesense) | 26402 | 962 | C++ | 783 | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | 2026-08-05T10:07:05Z |
-| 69 | [flatbuffers](https://github.com/google/flatbuffers) | 26297 | 3612 | C++ | 107 | FlatBuffers: Memory Efficient Serialization Library | 2026-06-22T13:45:05Z |
-| 70 | [winget-cli](https://github.com/microsoft/winget-cli) | 26278 | 1770 | C++ | 1235 | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | 2026-08-04T21:33:36Z |
-| 71 | [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) | 25710 | 3113 | C++ | 0 | 📚 Modern C++ Tutorial: C++11 to C++26 On the Fly \| https://changkun.de/modern-cpp/ | 2026-06-21T10:12:26Z |
-| 72 | [solidity](https://github.com/argotorg/solidity) | 25693 | 6144 | C++ | 670 | Solidity, the Smart Contract Programming Language | 2026-08-05T16:03:28Z |
-| 73 | [llamafile](https://github.com/mozilla-ai/llamafile) | 25500 | 1537 | C++ | 189 | Distribute and run LLMs with a single file. | 2026-08-03T06:27:13Z |
-| 74 | [v8](https://github.com/v8/v8) | 25167 | 4314 | C++ | 0 | The official mirror of the V8 Git repository | 2026-08-05T18:25:54Z |
-| 75 | [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | 24404 | 2359 | C++ | 823 | Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  | 2026-08-05T00:43:20Z |
-| 76 | [simdjson](https://github.com/simdjson/simdjson) | 24127 | 1269 | C++ | 121 | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks | 2026-08-05T03:35:37Z |
-| 77 | [tinyrenderer](https://github.com/ssloy/tinyrenderer) | 24058 | 2286 | C++ | 2 | A brief computer graphics / rendering course | 2026-07-29T12:13:12Z |
-| 78 | [Paddle](https://github.com/PaddlePaddle/Paddle) | 24041 | 6013 | C++ | 995 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 2026-08-05T01:05:49Z |
-| 79 | [fmt](https://github.com/fmtlib/fmt) | 23708 | 2944 | C++ | 7 | A modern formatting library | 2026-08-05T15:48:24Z |
-| 80 | [ncnn](https://github.com/Tencent/ncnn) | 23649 | 4475 | C++ | 1090 | ncnn is a high-performance neural network inference framework optimized for the mobile platform | 2026-08-05T12:05:08Z |
-| 81 | [osquery](https://github.com/osquery/osquery) | 23429 | 2587 | C++ | 567 | SQL powered operating system instrumentation, monitoring, and analytics. | 2026-07-29T19:32:13Z |
-| 82 | [RedisDesktopManager](https://github.com/redis/RedisDesktopManager) | 23230 | 3237 | C++ | 62 | None | 2024-07-10T07:40:01Z |
-| 83 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | 22587 | 922 | C++ | 43 | Karabiner-Elements is a powerful tool for customizing keyboards on macOS | 2026-08-05T12:53:44Z |
-| 84 | [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22340 | 2756 | C++ | 532 | 《明日方舟》小助手，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients. | 2026-08-05T17:40:06Z |
-| 85 | [smartknob](https://github.com/scottbez1/smartknob) | 21969 | 1272 | C++ | 63 | Haptic input knob with software-defined endstops and virtual detents | 2024-02-19T10:08:59Z |
-| 86 | [Catch2](https://github.com/catchorg/Catch2) | 21418 | 3487 | C++ | 390 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) | 2026-08-01T16:19:19Z |
+| 68 | [typesense](https://github.com/typesense/typesense) | 26405 | 962 | C++ | 784 | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | 2026-08-05T10:07:05Z |
+| 69 | [flatbuffers](https://github.com/google/flatbuffers) | 26299 | 3613 | C++ | 107 | FlatBuffers: Memory Efficient Serialization Library | 2026-06-22T13:45:05Z |
+| 70 | [winget-cli](https://github.com/microsoft/winget-cli) | 26280 | 1772 | C++ | 1237 | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | 2026-08-06T16:55:20Z |
+| 71 | [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) | 25711 | 3114 | C++ | 0 | 📚 Modern C++ Tutorial: C++11 to C++26 On the Fly \| https://changkun.de/modern-cpp/ | 2026-06-21T10:12:26Z |
+| 72 | [solidity](https://github.com/argotorg/solidity) | 25693 | 6143 | C++ | 658 | Solidity, the Smart Contract Programming Language | 2026-08-06T16:05:56Z |
+| 73 | [llamafile](https://github.com/mozilla-ai/llamafile) | 25505 | 1537 | C++ | 189 | Distribute and run LLMs with a single file. | 2026-08-03T06:27:13Z |
+| 74 | [v8](https://github.com/v8/v8) | 25170 | 4316 | C++ | 0 | The official mirror of the V8 Git repository | 2026-08-06T18:35:27Z |
+| 75 | [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | 24406 | 2360 | C++ | 824 | Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  | 2026-08-05T00:43:20Z |
+| 76 | [simdjson](https://github.com/simdjson/simdjson) | 24132 | 1269 | C++ | 122 | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks | 2026-08-06T02:50:51Z |
+| 77 | [tinyrenderer](https://github.com/ssloy/tinyrenderer) | 24062 | 2286 | C++ | 2 | A brief computer graphics / rendering course | 2026-07-29T12:13:12Z |
+| 78 | [Paddle](https://github.com/PaddlePaddle/Paddle) | 24042 | 6014 | C++ | 1000 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 2026-08-06T18:29:01Z |
+| 79 | [fmt](https://github.com/fmtlib/fmt) | 23710 | 2945 | C++ | 7 | A modern formatting library | 2026-08-05T15:48:24Z |
+| 80 | [ncnn](https://github.com/Tencent/ncnn) | 23650 | 4475 | C++ | 1090 | ncnn is a high-performance neural network inference framework optimized for the mobile platform | 2026-08-05T12:05:08Z |
+| 81 | [osquery](https://github.com/osquery/osquery) | 23429 | 2589 | C++ | 568 | SQL powered operating system instrumentation, monitoring, and analytics. | 2026-08-06T00:16:16Z |
+| 82 | [RedisDesktopManager](https://github.com/redis/RedisDesktopManager) | 23229 | 3237 | C++ | 62 | None | 2024-07-10T07:40:01Z |
+| 83 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | 22596 | 925 | C++ | 43 | Karabiner-Elements is a powerful tool for customizing keyboards on macOS | 2026-08-05T12:53:44Z |
+| 84 | [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 22356 | 2760 | C++ | 537 | 《明日方舟》小助手，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients. | 2026-08-06T18:13:01Z |
+| 85 | [smartknob](https://github.com/scottbez1/smartknob) | 21971 | 1272 | C++ | 63 | Haptic input knob with software-defined endstops and virtual detents | 2024-02-19T10:08:59Z |
+| 86 | [Catch2](https://github.com/catchorg/Catch2) | 21419 | 3498 | C++ | 390 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) | 2026-08-01T16:19:19Z |
 | 87 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 21383 | 5446 | C++ | 0 | Command & Conquer: Remastered Collection | 2025-01-16T18:54:17Z |
-| 88 | [onnxruntime](https://github.com/microsoft/onnxruntime) | 21283 | 4095 | C++ | 807 | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | 2026-08-05T18:55:40Z |
-| 89 | [xbmc](https://github.com/xbmc/xbmc) | 21053 | 6571 | C++ | 254 | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | 2026-08-05T16:04:59Z |
+| 88 | [onnxruntime](https://github.com/microsoft/onnxruntime) | 21289 | 4100 | C++ | 806 | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | 2026-08-06T18:42:56Z |
+| 89 | [xbmc](https://github.com/xbmc/xbmc) | 21061 | 6572 | C++ | 254 | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | 2026-08-06T12:54:42Z |
 | 90 | [mxnet](https://github.com/apache/mxnet) | 20816 | 6689 | C++ | 1804 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 2023-10-25T21:28:33Z |
-| 91 | [video2x](https://github.com/k4yt3x/video2x) | 20754 | 1797 | C++ | 118 | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. | 2026-03-07T15:39:42Z |
-| 92 | [filament](https://github.com/google/filament) | 20321 | 2217 | C++ | 178 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 | 2026-08-05T18:34:36Z |
-| 93 | [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 20037 | 1248 | C++ | 322 | A lightweight utility that makes the Windows taskbar translucent/transparent. | 2026-06-25T07:30:33Z |
-| 94 | [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) | 19792 | 1477 | C++ | 17 | 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. | 2023-06-25T21:58:57Z |
+| 91 | [video2x](https://github.com/k4yt3x/video2x) | 20760 | 1798 | C++ | 118 | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. | 2026-03-07T15:39:42Z |
+| 92 | [filament](https://github.com/google/filament) | 20322 | 2217 | C++ | 178 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 | 2026-08-06T18:38:59Z |
+| 93 | [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 20045 | 1248 | C++ | 322 | A lightweight utility that makes the Windows taskbar translucent/transparent. | 2026-06-25T07:30:33Z |
+| 94 | [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) | 19795 | 1476 | C++ | 17 | 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. | 2023-06-25T21:58:57Z |
 | 95 | [trojan](https://github.com/trojan-gfw/trojan) | 19746 | 3024 | C++ | 92 | An unidentifiable mechanism that helps you bypass GFW. | 2024-08-21T09:27:36Z |
-| 96 | [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | 19638 | 4255 | C++ | 108 | :fire: Linux下C++轻量级WebServer服务器 | 2024-07-05T13:35:04Z |
-| 97 | [blender](https://github.com/blender/blender) | 19597 | 3093 | C++ | 0 | Official mirror of Blender | 2026-08-05T18:49:51Z |
-| 98 | [cutter](https://github.com/rizinorg/cutter) | 19436 | 1430 | C++ | 465 | Free and Open Source Reverse Engineering Platform powered by rizin | 2026-08-03T14:25:20Z |
-| 99 | [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | 19400 | 1456 | C++ | 8 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. | 2026-07-17T17:36:34Z |
-| 100 | [rpcs3](https://github.com/RPCS3/rpcs3) | 19356 | 2364 | C++ | 1007 | PlayStation 3 emulator and debugger | 2026-08-05T12:19:12Z |
+| 96 | [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | 19640 | 4256 | C++ | 108 | :fire: Linux下C++轻量级WebServer服务器 | 2024-07-05T13:35:04Z |
+| 97 | [blender](https://github.com/blender/blender) | 19609 | 3096 | C++ | 0 | Official mirror of Blender | 2026-08-06T16:29:50Z |
+| 98 | [cutter](https://github.com/rizinorg/cutter) | 19437 | 1430 | C++ | 465 | Free and Open Source Reverse Engineering Platform powered by rizin | 2026-08-03T14:25:20Z |
+| 99 | [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | 19404 | 1456 | C++ | 9 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. | 2026-07-17T17:36:34Z |
+| 100 | [rpcs3](https://github.com/RPCS3/rpcs3) | 19371 | 2367 | C++ | 1008 | PlayStation 3 emulator and debugger | 2026-08-05T12:19:12Z |
 
