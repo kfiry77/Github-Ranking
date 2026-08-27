@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [flutter](https://github.com/flutter/flutter) | 178663 | 31003 | Dart | 12532 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2026-08-26T18:47:44Z |
-| 2 | [localsend](https://github.com/localsend/localsend) | 89437 | 4977 | Dart | 992 | An open-source cross-platform alternative to AirDrop | 2026-08-24T00:11:36Z |
-| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 75970 | 5914 | Dart | 899 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | 2026-08-11T13:01:19Z |
-| 4 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 61002 | 6908 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2026-04-21T19:06:09Z |
-| 5 | [FlClash](https://github.com/chen08209/FlClash) | 50022 | 3150 | Dart | 536 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | 2026-08-26T09:05:19Z |
-| 6 | [spotube](https://github.com/KRTirtho/spotube) | 48709 | 2265 | Dart | 810 | 🎧 Open source music streaming app! Available for both desktop & mobile! | 2026-08-21T13:50:16Z |
-| 7 | [hiddify-app](https://github.com/hiddify/hiddify-app) | 32407 | 2973 | Dart | 27 | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | 2026-08-10T17:43:24Z |
-| 8 | [Kazumi](https://github.com/Predidit/Kazumi) | 29255 | 864 | Dart | 466 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 2026-08-26T13:58:36Z |
-| 9 | [ente](https://github.com/ente/ente) | 28509 | 1782 | Dart | 245 | 💚 End-to-end encrypted cloud for everything. | 2026-08-26T02:31:54Z |
-| 10 | [flutter-go](https://github.com/alibaba/flutter-go) | 23651 | 3762 | Dart | 0 | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | 2023-12-11T20:49:42Z |
-| 11 | [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | 22817 | 4824 | Dart | 9 | completely free for everyone. Its build-in Flutter Dart. | 2025-12-16T10:59:44Z |
-| 12 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | 21505 | 3785 | Dart | 19 | [Example APPS] Basic Flutter apps, for flutter devs. | 2024-08-09T20:51:30Z |
-| 13 | [Obtainium](https://github.com/ImranR98/Obtainium) | 19268 | 579 | Dart | 380 | Get Android app updates straight from the source. | 2026-08-24T05:25:46Z |
-| 14 | [samples](https://github.com/flutter/samples) | 19246 | 7869 | Dart | 13 | A collection of Flutter examples and demos | 2026-08-20T06:44:02Z |
-| 15 | [plugins](https://github.com/flutter-team-archive/plugins) | 17708 | 9609 | Dart | 0 | Plugins for Flutter maintained by the Flutter team | 2023-02-22T19:12:53Z |
-| 16 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 17675 | 1235 | Dart | 123 | PiliPlus | 2026-08-26T03:10:08Z |
-| 17 | [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 15957 | 3068 | Dart | 0 | 简简单单的看直播 | 2026-01-23T07:12:47Z |
-| 18 | [opensource-ecommerce-mobile-app](https://github.com/bagisto/opensource-ecommerce-mobile-app) | 15950 | 312 | Dart | 0 | This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories.  | 2026-08-14T08:41:49Z |
-| 19 | [lantern](https://github.com/getlantern/lantern) | 15909 | 11052 | Dart | 26 | Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux. | 2026-08-26T18:30:34Z |
+| 1 | [flutter](https://github.com/flutter/flutter) | 178675 | 31008 | Dart | 12538 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2026-08-27T18:42:50Z |
+| 2 | [localsend](https://github.com/localsend/localsend) | 89515 | 4982 | Dart | 993 | An open-source cross-platform alternative to AirDrop | 2026-08-24T00:11:36Z |
+| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 76009 | 5919 | Dart | 900 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | 2026-08-11T13:01:19Z |
+| 4 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 61012 | 6909 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2026-04-21T19:06:09Z |
+| 5 | [FlClash](https://github.com/chen08209/FlClash) | 50114 | 3162 | Dart | 538 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | 2026-08-27T08:02:10Z |
+| 6 | [spotube](https://github.com/KRTirtho/spotube) | 48743 | 2265 | Dart | 810 | 🎧 Open source music streaming app! Available for both desktop & mobile! | 2026-08-21T13:50:16Z |
+| 7 | [hiddify-app](https://github.com/hiddify/hiddify-app) | 32419 | 2975 | Dart | 27 | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | 2026-08-10T17:43:24Z |
+| 8 | [Kazumi](https://github.com/Predidit/Kazumi) | 29291 | 866 | Dart | 469 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 2026-08-27T17:07:00Z |
+| 9 | [ente](https://github.com/ente/ente) | 28527 | 1780 | Dart | 240 | 💚 End-to-end encrypted cloud for everything. | 2026-08-27T15:05:24Z |
+| 10 | [flutter-go](https://github.com/alibaba/flutter-go) | 23649 | 3762 | Dart | 0 | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | 2023-12-11T20:49:42Z |
+| 11 | [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | 22818 | 4823 | Dart | 9 | completely free for everyone. Its build-in Flutter Dart. | 2025-12-16T10:59:44Z |
+| 12 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | 21506 | 3785 | Dart | 19 | [Example APPS] Basic Flutter apps, for flutter devs. | 2024-08-09T20:51:30Z |
+| 13 | [Obtainium](https://github.com/ImranR98/Obtainium) | 19289 | 579 | Dart | 385 | Get Android app updates straight from the source. | 2026-08-24T05:25:46Z |
+| 14 | [samples](https://github.com/flutter/samples) | 19248 | 7869 | Dart | 13 | A collection of Flutter examples and demos | 2026-08-27T14:57:16Z |
+| 15 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 17735 | 1238 | Dart | 122 | PiliPlus | 2026-08-27T11:44:33Z |
+| 16 | [plugins](https://github.com/flutter-team-archive/plugins) | 17708 | 9609 | Dart | 0 | Plugins for Flutter maintained by the Flutter team | 2023-02-22T19:12:53Z |
+| 17 | [opensource-ecommerce-mobile-app](https://github.com/bagisto/opensource-ecommerce-mobile-app) | 15967 | 312 | Dart | 0 | This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories.  | 2026-08-14T08:41:49Z |
+| 18 | [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 15959 | 3073 | Dart | 0 | 简简单单的看直播 | 2026-08-27T12:45:47Z |
+| 19 | [lantern](https://github.com/getlantern/lantern) | 15914 | 11052 | Dart | 26 | Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux. | 2026-08-27T14:15:02Z |
 | 20 | [gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) | 15485 | 2626 | Dart | 4 | Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。 | 2026-08-17T01:01:39Z |
-| 21 | [karing](https://github.com/KaringX/karing) | 14511 | 1211 | Dart | 42 | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | 2026-08-25T06:56:39Z |
-| 22 | [pilipala](https://github.com/guozhigq/pilipala) | 13845 | 1068 | Dart | 776 | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | 2025-05-14T15:37:04Z |
-| 23 | [proxypin](https://github.com/wanghongenpin/proxypin) | 13825 | 1194 | Dart | 86 | Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems | 2026-08-21T19:16:31Z |
+| 21 | [karing](https://github.com/KaringX/karing) | 14532 | 1213 | Dart | 43 | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | 2026-08-27T04:21:56Z |
+| 22 | [pilipala](https://github.com/guozhigq/pilipala) | 13844 | 1068 | Dart | 776 | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | 2025-05-14T15:37:04Z |
+| 23 | [proxypin](https://github.com/wanghongenpin/proxypin) | 13840 | 1195 | Dart | 88 | Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems | 2026-08-21T19:16:31Z |
 | 24 | [dio](https://github.com/cfug/dio) | 12839 | 1560 | Dart | 20 | A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc. | 2026-08-23T14:55:56Z |
-| 25 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 12681 | 472 | Dart | 486 | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 2026-08-26T01:31:09Z |
-| 26 | [bloc](https://github.com/felangel/bloc) | 12482 | 3420 | Dart | 60 | A predictable state management library that helps implement the BLoC design pattern | 2026-08-10T16:40:08Z |
-| 27 | [sdk](https://github.com/dart-lang/sdk) | 11268 | 1856 | Dart | 8393 | The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more. | 2026-08-26T18:08:16Z |
-| 28 | [getx](https://github.com/jonataslaw/getx) | 11198 | 1848 | Dart | 1072 | Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. | 2026-06-12T14:17:03Z |
-| 29 | [venera](https://github.com/venera-app/venera) | 10882 | 574 | Dart | 142 | A comic app | 2026-04-05T04:33:33Z |
-| 30 | [flame](https://github.com/flame-engine/flame) | 10732 | 1038 | Dart | 79 | A Flutter based game engine. | 2026-08-26T15:06:21Z |
-| 31 | [flutterfire](https://github.com/firebase/flutterfire) | 9251 | 4108 | Dart | 44 | 🔥 A collection of Firebase plugins for Flutter apps. | 2026-08-26T15:18:26Z |
+| 25 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 12690 | 473 | Dart | 487 | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 2026-08-26T01:31:09Z |
+| 26 | [bloc](https://github.com/felangel/bloc) | 12483 | 3420 | Dart | 60 | A predictable state management library that helps implement the BLoC design pattern | 2026-08-10T16:40:08Z |
+| 27 | [sdk](https://github.com/dart-lang/sdk) | 11268 | 1856 | Dart | 8398 | The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more. | 2026-08-27T18:37:25Z |
+| 28 | [getx](https://github.com/jonataslaw/getx) | 11199 | 1846 | Dart | 1072 | Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. | 2026-06-12T14:17:03Z |
+| 29 | [venera](https://github.com/venera-app/venera) | 10885 | 574 | Dart | 142 | A comic app | 2026-04-05T04:33:33Z |
+| 30 | [flame](https://github.com/flame-engine/flame) | 10732 | 1038 | Dart | 78 | A Flutter based game engine. | 2026-08-27T14:41:30Z |
+| 31 | [flutterfire](https://github.com/firebase/flutterfire) | 9251 | 4108 | Dart | 42 | 🔥 A collection of Firebase plugins for Flutter apps. | 2026-08-27T14:54:28Z |
 | 32 | [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) | 9097 | 1878 | Dart | 45 | 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4） | 2024-03-20T07:33:11Z |
-| 33 | [clashmi](https://github.com/KaringX/clashmi) | 9007 | 553 | Dart | 3 | Clash Mihomo for iOS/MacOS/Android/Windows/Linux | 2026-08-26T03:43:00Z |
+| 33 | [clashmi](https://github.com/KaringX/clashmi) | 9012 | 555 | Dart | 3 | Clash Mihomo for iOS/MacOS/Android/Windows/Linux | 2026-08-26T03:43:00Z |
 | 34 | [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) | 8926 | 1712 | Dart | 38 | TodoMVC for Flutter | 2025-11-06T22:37:20Z |
 | 35 | [FlutterUnit](https://github.com/toly1994328/FlutterUnit) | 8843 | 1413 | Dart | 71 | All Platform Flutter Experience App  | 2026-08-24T13:03:59Z |
-| 36 | [anx-reader](https://github.com/Anxcye/anx-reader) | 8750 | 610 | Dart | 124 | Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.  | 2026-06-07T15:49:07Z |
-| 37 | [PicaComic](https://github.com/wgh136/PicaComic) | 8665 | 1073 | Dart | 56 | A comic app built with Flutter, supporting multiple comic sources. | 2024-12-21T09:48:05Z |
-| 38 | [flutter_deer](https://github.com/simplezhli/flutter_deer) | 8611 | 1758 | Dart | 0 | 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project. | 2026-06-07T06:55:51Z |
-| 39 | [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8593 | 546 | Dart | 9 | ServerBox - server status & toolbox | 2026-08-26T19:00:29Z |
+| 36 | [anx-reader](https://github.com/Anxcye/anx-reader) | 8751 | 611 | Dart | 126 | Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.  | 2026-06-07T15:49:07Z |
+| 37 | [PicaComic](https://github.com/wgh136/PicaComic) | 8669 | 1073 | Dart | 56 | A comic app built with Flutter, supporting multiple comic sources. | 2024-12-21T09:48:05Z |
+| 38 | [flutter_deer](https://github.com/simplezhli/flutter_deer) | 8613 | 1758 | Dart | 0 | 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project. | 2026-06-07T06:55:51Z |
+| 39 | [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8607 | 546 | Dart | 14 | ServerBox - server status & toolbox | 2026-08-27T15:06:43Z |
 | 40 | [pikapika](https://github.com/ComicSparks/pikapika) | 8288 | 487 | Dart | 2 | A comic browser，support Android / iOS / MacOS / Windows / Linux. | 2026-07-20T07:14:22Z |
-| 41 | [fl_chart](https://github.com/imaNNeo/fl_chart) | 7573 | 1964 | Dart | 375 | FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart. | 2026-07-24T23:02:03Z |
-| 42 | [riverpod](https://github.com/rrousselGit/riverpod) | 7372 | 1111 | Dart | 151 | A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze. | 2026-08-24T21:54:31Z |
+| 41 | [fl_chart](https://github.com/imaNNeo/fl_chart) | 7575 | 1964 | Dart | 375 | FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart. | 2026-07-24T23:02:03Z |
+| 42 | [riverpod](https://github.com/rrousselGit/riverpod) | 7373 | 1111 | Dart | 151 | A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze. | 2026-08-24T21:54:31Z |
 | 43 | [fish-redux](https://github.com/alibaba/fish-redux) | 7270 | 829 | Dart | 159 | An assembled flutter application framework. | 2022-02-17T16:21:20Z |
-| 44 | [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) | 7199 | 1182 | Dart | 0 | FlutterDemo合集，今天你fu了吗 | 2021-04-14T05:45:18Z |
-| 45 | [flutter_boost](https://github.com/alibaba/flutter_boost) | 7192 | 1270 | Dart | 409 | FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts | 2026-06-09T11:37:43Z |
-| 46 | [flutter-examples](https://github.com/nisrulz/flutter-examples) | 7145 | 1639 | Dart | 12 | [Examples] Simple basic isolated apps, for budding flutter devs. | 2026-08-17T23:06:37Z |
+| 44 | [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) | 7199 | 1181 | Dart | 0 | FlutterDemo合集，今天你fu了吗 | 2021-04-14T05:45:18Z |
+| 45 | [flutter_boost](https://github.com/alibaba/flutter_boost) | 7192 | 1270 | Dart | 410 | FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts | 2026-06-09T11:37:43Z |
+| 46 | [flutter-examples](https://github.com/nisrulz/flutter-examples) | 7147 | 1639 | Dart | 12 | [Examples] Simple basic isolated apps, for budding flutter devs. | 2026-08-17T23:06:37Z |
 | 47 | [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | 7110 | 2003 | Dart | 18 | Responsive Admin Panel or Dashboard using Flutter | 2026-07-28T16:33:48Z |
-| 48 | [aidea](https://github.com/mylxsw/aidea) | 6937 | 1045 | Dart | 23 | An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code. | 2026-03-04T15:28:00Z |
-| 49 | [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | 6810 | 1106 | Dart | 7 | A Collection of Flutter and Dart Tips and Tricks | 2023-09-10T16:58:52Z |
+| 48 | [aidea](https://github.com/mylxsw/aidea) | 6937 | 1044 | Dart | 23 | An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code. | 2026-03-04T15:28:00Z |
+| 49 | [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | 6809 | 1106 | Dart | 7 | A Collection of Flutter and Dart Tips and Tricks | 2023-09-10T16:58:52Z |
 | 50 | [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) | 6581 | 985 | Dart | 50 | Flutter Launch Timeline Demo | 2021-09-22T19:36:20Z |
-| 51 | [gallery](https://github.com/flutter-team-archive/gallery) | 6576 | 1546 | Dart | 0 | Flutter Gallery was a resource to help developers evaluate and use Flutter | 2026-06-08T15:16:31Z |
-| 52 | [namida](https://github.com/namidaco/namida) | 6288 | 344 | Dart | 152 | A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter | 2026-08-21T00:01:16Z |
+| 51 | [gallery](https://github.com/flutter-team-archive/gallery) | 6575 | 1546 | Dart | 0 | Flutter Gallery was a resource to help developers evaluate and use Flutter | 2026-06-08T15:16:31Z |
+| 52 | [namida](https://github.com/namidaco/namida) | 6296 | 345 | Dart | 154 | A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter | 2026-08-27T16:26:29Z |
 | 53 | [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) | 6288 | 1150 | Dart | 9 | Flutter app for collection of UI in a UIKit | 2022-06-13T15:18:00Z |
-| 54 | [AniCh](https://github.com/Sle2p/AniCh) | 6061 | 129 | Dart | 0 | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 2026-08-24T13:24:04Z |
-| 55 | [FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) | 6013 | 1355 | Dart | 7 | A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use. | 2024-02-21T21:27:42Z |
-| 56 | [SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | 5998 | 273 | Dart | 88 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription. | 2026-08-25T04:40:47Z |
-| 57 | [flukit](https://github.com/flutterchina/flukit) | 5934 | 664 | Dart | 15 |  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator... | 2024-05-20T03:16:39Z |
+| 54 | [AniCh](https://github.com/Sle2p/AniCh) | 6079 | 128 | Dart | 0 | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 2026-08-24T13:24:04Z |
+| 55 | [FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) | 6013 | 1354 | Dart | 7 | A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use. | 2024-02-21T21:27:42Z |
+| 56 | [SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | 6009 | 273 | Dart | 89 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription. | 2026-08-25T04:40:47Z |
+| 57 | [flukit](https://github.com/flutterchina/flukit) | 5935 | 664 | Dart | 15 |  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator... | 2024-05-20T03:16:39Z |
 | 58 | [GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) | 5878 | 326 | Dart | 66 | Script that organizes the Google Takeout archive into one big chronological folder | 2025-01-29T08:39:52Z |
-| 59 | [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) | 5665 | 1213 | Dart | 13 | 🔥🔥🔥  基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页！ | 2021-05-21T08:53:02Z |
-| 60 | [miru-app](https://github.com/miru-project/miru-app) | 5611 | 243 | Dart | 132 | 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms. | 2025-12-05T14:04:55Z |
-| 61 | [fvm](https://github.com/leoafarias/fvm) | 5506 | 284 | Dart | 49 | Flutter Version Management: A simple CLI to manage Flutter SDK versions. | 2026-08-24T16:03:41Z |
-| 62 | [JHenTai](https://github.com/jiangtian616/JHenTai) | 5452 | 173 | Dart | 142 | A cross-platform manga app made for e-hentai & exhentai by Flutter | 2026-08-26T09:38:49Z |
+| 59 | [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) | 5666 | 1213 | Dart | 13 | 🔥🔥🔥  基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页！ | 2021-05-21T08:53:02Z |
+| 60 | [miru-app](https://github.com/miru-project/miru-app) | 5613 | 243 | Dart | 132 | 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms. | 2025-12-05T14:04:55Z |
+| 61 | [fvm](https://github.com/leoafarias/fvm) | 5505 | 284 | Dart | 49 | Flutter Version Management: A simple CLI to manage Flutter SDK versions. | 2026-08-27T00:11:39Z |
+| 62 | [JHenTai](https://github.com/jiangtian616/JHenTai) | 5456 | 173 | Dart | 140 | A cross-platform manga app made for e-hentai & exhentai by Flutter | 2026-08-27T18:03:58Z |
 | 63 | [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) | 5415 | 829 | Dart | 16 | :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。 | 2022-02-12T04:00:04Z |
-| 64 | [jasmine](https://github.com/ComicSparks/jasmine) | 5389 | 355 | Dart | 4 | A comic browser，support Android / iOS / MacOS / Windows / Linux.  | 2026-07-28T01:38:10Z |
+| 64 | [jasmine](https://github.com/ComicSparks/jasmine) | 5391 | 356 | Dart | 4 | A comic browser，support Android / iOS / MacOS / Windows / Linux.  | 2026-07-28T01:38:10Z |
 | 65 | [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) | 5385 | 419 | Dart | 15 | Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple. | 2026-08-26T14:50:56Z |
-| 66 | [packages](https://github.com/flutter/packages) | 5294 | 3871 | Dart | 0 | A collection of useful packages maintained by the Flutter team | 2026-08-26T18:48:35Z |
-| 67 | [provider](https://github.com/rrousselGit/provider) | 5254 | 524 | Dart | 35 | InheritedWidgets, but simple | 2026-03-10T14:53:05Z |
+| 66 | [packages](https://github.com/flutter/packages) | 5294 | 3875 | Dart | 0 | A collection of useful packages maintained by the Flutter team | 2026-08-27T17:37:25Z |
+| 67 | [provider](https://github.com/rrousselGit/provider) | 5255 | 525 | Dart | 35 | InheritedWidgets, but simple | 2026-03-10T14:53:05Z |
 | 68 | [aves](https://github.com/deckerst/aves) | 5146 | 219 | Dart | 173 | Aves is a gallery and metadata explorer app, built for Android with Flutter. | 2026-08-08T22:56:02Z |
-| 69 | [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) | 4834 | 1990 | Dart | 24 | The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter. | 2024-08-23T16:07:40Z |
+| 69 | [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) | 4834 | 1989 | Dart | 24 | The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter. | 2024-08-23T16:07:40Z |
 | 70 | [getwidget](https://github.com/ionicfirebaseapp/getwidget) | 4829 | 647 | Dart | 20 | Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.  | 2026-05-24T07:18:35Z |
 | 71 | [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) | 4779 | 1708 | Dart | 32 | The repo contains the source code for all the tutorials on the FilledStacks Youtube channel. | 2023-04-25T13:56:03Z |
 | 72 | [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) | 4756 | 1391 | Dart | 1 | Updated for Flutter 3.x ** 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web | 2024-08-18T09:41:16Z |
 | 73 | [flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) | 4752 | 1012 | Dart | 4 | A collection of fun Flutter experiments, created by gskinner, in partnership with Google. | 2024-04-30T16:32:31Z |
-| 74 | [saber](https://github.com/saber-notes/saber) | 4729 | 354 | Dart | 374 | The cross-platform open-source app built for handwriting | 2026-08-24T17:10:51Z |
-| 75 | [harmonoid](https://github.com/harmonoid/harmonoid) | 4710 | 257 | Dart | 89 | 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS. | 2026-08-26T14:09:43Z |
-| 76 | [oblivion](https://github.com/bepass-org/oblivion) | 4707 | 629 | Dart | 198 | Unofficial warp client for android | 2026-08-26T18:52:30Z |
-| 77 | [Cashew](https://github.com/jameskokoska/Cashew) | 4571 | 766 | Dart | 8 | 💸 An app created to help users manage a budget and purchases | 2026-03-09T01:35:16Z |
-| 78 | [flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) | 4506 | 1045 | Dart | 8 | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. | 2026-08-25T15:45:04Z |
-| 79 | [hive](https://github.com/isar/hive) | 4392 | 450 | Dart | 557 | Lightweight and blazing fast key-value database written in pure Dart. | 2024-06-28T11:57:48Z |
+| 74 | [saber](https://github.com/saber-notes/saber) | 4733 | 354 | Dart | 375 | The cross-platform open-source app built for handwriting | 2026-08-27T01:47:46Z |
+| 75 | [harmonoid](https://github.com/harmonoid/harmonoid) | 4712 | 257 | Dart | 89 | 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS. | 2026-08-26T14:09:43Z |
+| 76 | [oblivion](https://github.com/bepass-org/oblivion) | 4707 | 629 | Dart | 198 | Unofficial warp client for android | 2026-08-26T19:06:59Z |
+| 77 | [Cashew](https://github.com/jameskokoska/Cashew) | 4573 | 767 | Dart | 8 | 💸 An app created to help users manage a budget and purchases | 2026-03-09T01:35:16Z |
+| 78 | [flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) | 4509 | 1046 | Dart | 8 | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. | 2026-08-26T22:57:18Z |
+| 79 | [hive](https://github.com/isar/hive) | 4392 | 449 | Dart | 557 | Lightweight and blazing fast key-value database written in pure Dart. | 2024-06-28T11:57:48Z |
 | 80 | [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) | 4237 | 1162 | Dart | 30 | Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage | 2024-07-31T04:58:06Z |
-| 81 | [dart-sass](https://github.com/sass/dart-sass) | 4216 | 378 | Dart | 60 | The reference implementation of Sass, written in Dart. | 2026-08-25T20:14:28Z |
-| 82 | [finamp](https://github.com/finamp-app/finamp) | 4214 | 300 | Dart | 323 | An open source Jellyfin music player | 2026-08-26T18:20:44Z |
-| 83 | [GitJournal](https://github.com/GitJournal/GitJournal) | 4209 | 305 | Dart | 128 | Mobile first Note Taking integrated with Git | 2026-05-26T13:49:39Z |
-| 84 | [Musify](https://github.com/gokadzev/Musify) | 4180 | 381 | Dart | 27 | Unlock the full potential of music: Stream effortlessly with one app! | 2026-08-26T06:50:25Z |
-| 85 | [wsa_pacman](https://github.com/alesimula/wsa_pacman) | 4175 | 863 | Dart | 52 | A GUI package manager and package installer for Windows Subsystem for Android (WSA) | 2023-12-22T15:36:15Z |
+| 81 | [finamp](https://github.com/finamp-app/finamp) | 4216 | 300 | Dart | 324 | An open source Jellyfin music player | 2026-08-26T21:33:40Z |
+| 82 | [dart-sass](https://github.com/sass/dart-sass) | 4216 | 378 | Dart | 60 | The reference implementation of Sass, written in Dart. | 2026-08-25T20:14:28Z |
+| 83 | [GitJournal](https://github.com/GitJournal/GitJournal) | 4211 | 306 | Dart | 128 | Mobile first Note Taking integrated with Git | 2026-05-26T13:49:39Z |
+| 84 | [Musify](https://github.com/gokadzev/Musify) | 4182 | 381 | Dart | 28 | Unlock the full potential of music: Stream effortlessly with one app! | 2026-08-27T09:44:37Z |
+| 85 | [wsa_pacman](https://github.com/alesimula/wsa_pacman) | 4174 | 863 | Dart | 52 | A GUI package manager and package installer for Windows Subsystem for Android (WSA) | 2023-12-22T15:36:15Z |
 | 86 | [flutter_easy_refresh](https://github.com/xuelongqy/flutter_easy_refresh) | 4068 | 654 | Dart | 61 | A flutter widget that provides pull-down refresh and pull-up load. | 2026-06-14T06:08:47Z |
 | 87 | [isar](https://github.com/isar/isar) | 4027 | 600 | Dart | 173 | Extremely fast, easy to use, and fully async NoSQL database for Flutter | 2025-06-14T08:12:25Z |
 | 88 | [flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil) | 4022 | 510 | Dart | 33 | Flutter screen adaptation, font adaptation, get screen information | 2025-06-23T15:34:53Z |
-| 89 | [wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | 3965 | 177 | Dart | 21 | A GUI to quickly manage your WSL2 instances | 2026-08-25T22:09:01Z |
+| 89 | [wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | 3965 | 177 | Dart | 20 | A GUI to quickly manage your WSL2 instances | 2026-08-27T01:19:07Z |
 | 90 | [flutter-folio](https://github.com/gskinnerTeam/flutter-folio) | 3950 | 776 | Dart | 38 | A platform adaptive Flutter app for desktop, mobile and web. | 2022-08-30T18:51:58Z |
 | 91 | [flutter-ui-nice](https://github.com/FlutterOpen/flutter-ui-nice) | 3799 | 601 | Dart | 9 | More than 130+ pages in this beautiful app and more than 45 developers has contributed to it. | 2023-05-16T03:28:01Z |
-| 92 | [kelivo](https://github.com/Chevey339/kelivo) | 3766 | 406 | Dart | 371 | A Flutter LLM Chat Client. Support Mobile & Desktop. | 2026-08-26T14:35:27Z |
-| 93 | [flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) | 3761 | 2114 | Dart | 143 | A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. | 2026-02-10T16:40:46Z |
-| 94 | [mangayomi](https://github.com/kodjodevf/mangayomi) | 3725 | 122 | Dart | 87 | Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows | 2026-08-26T17:34:34Z |
-| 95 | [fluro](https://github.com/lukepighetti/fluro) | 3713 | 409 | Dart | 36 | Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions. | 2023-03-22T17:54:12Z |
+| 92 | [kelivo](https://github.com/Chevey339/kelivo) | 3774 | 408 | Dart | 374 | A Flutter LLM Chat Client. Support Mobile & Desktop. | 2026-08-27T10:04:06Z |
+| 93 | [flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) | 3762 | 2117 | Dart | 143 | A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. | 2026-02-10T16:40:46Z |
+| 94 | [mangayomi](https://github.com/kodjodevf/mangayomi) | 3733 | 124 | Dart | 89 | Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows | 2026-08-27T14:12:13Z |
+| 95 | [fluro](https://github.com/lukepighetti/fluro) | 3713 | 410 | Dart | 36 | Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions. | 2023-03-22T17:54:12Z |
 | 96 | [inKino](https://github.com/roughike/inKino) | 3682 | 698 | Dart | 23 | A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web. | 2022-03-30T19:35:48Z |
-| 97 | [kitchenowl](https://github.com/TomBursch/kitchenowl) | 3646 | 234 | Dart | 310 | KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook. | 2026-08-25T21:25:56Z |
+| 97 | [kitchenowl](https://github.com/TomBursch/kitchenowl) | 3648 | 234 | Dart | 310 | KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook. | 2026-08-25T21:25:56Z |
 | 98 | [flutter_swiper](https://github.com/best-flutter/flutter_swiper) | 3529 | 726 | Dart | 216 | The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS. | 2023-04-23T10:38:29Z |
-| 99 | [flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) | 3466 | 1272 | Dart | 1 | E-Commerce App built in flutter | 2022-02-10T09:14:25Z |
-| 100 | [fluent_ui](https://github.com/bdlukaa/fluent_ui) | 3462 | 504 | Dart | 40 | Microsoft's WinUI3 in Flutter. | 2026-08-03T11:27:07Z |
+| 99 | [flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) | 3466 | 1273 | Dart | 1 | E-Commerce App built in flutter | 2022-02-10T09:14:25Z |
+| 100 | [fluent_ui](https://github.com/bdlukaa/fluent_ui) | 3463 | 504 | Dart | 40 | Microsoft's WinUI3 in Flutter. | 2026-08-03T11:27:07Z |
 
