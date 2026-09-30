@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22615 | 3636 | CoffeeScript | 804 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22611 | 3635 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 18790 | 888 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-07-30T16:54:33Z |
-| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16597 | 1980 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
-| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16065 | 1002 | CoffeeScript | 120 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
-| 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7538 | 402 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
+| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16596 | 1980 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
+| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16065 | 1001 | CoffeeScript | 120 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
+| 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7536 | 402 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 6 | [morris.js](https://github.com/morrisjs/morris.js) | 6872 | 1190 | CoffeeScript | 283 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
 | 7 | [At.js](https://github.com/ichord/At.js) | 5238 | 649 | CoffeeScript | 149 | Add Github like mentions autocomplete to your application. | 2021-11-18T12:53:24Z |
 | 8 | [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 4959 | 603 | CoffeeScript | 206 | XML to JavaScript object converter. | 2026-04-30T09:04:18Z |
@@ -19,7 +19,7 @@
 | 12 | [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | 4404 | 913 | CoffeeScript | 174 | Quick and easy product tours with Twitter Bootstrap Popovers | 2023-10-09T22:35:49Z |
 | 13 | [yakyak](https://github.com/yakyak/yakyak) | 3752 | 304 | CoffeeScript | 87 | Desktop chat client for Google Hangouts | 2025-09-30T16:44:14Z |
 | 14 | [pagedraw](https://github.com/Pagedraw/pagedraw) | 3560 | 458 | CoffeeScript | 12 | a UI builder for React web apps | 2023-01-12T01:49:13Z |
-| 15 | [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) | 3557 | 411 | CoffeeScript | 50 | Atom package - Activate POWER MODE to write your code in style. | 2019-05-24T15:52:02Z |
+| 15 | [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) | 3558 | 411 | CoffeeScript | 50 | Atom package - Activate POWER MODE to write your code in style. | 2019-05-24T15:52:02Z |
 | 16 | [hubot-scripts](https://github.com/github/hubot-scripts) | 3538 | 1795 | CoffeeScript | 0 | DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json | 2017-07-10T16:06:49Z |
 | 17 | [turbolinks-classic](https://github.com/turbolinks/turbolinks-classic) | 3514 | 420 | CoffeeScript | 40 | Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5. | 2017-12-06T23:33:26Z |
 | 18 | [jquery.payment](https://github.com/stripe-archive/jquery.payment) | 3506 | 659 | CoffeeScript | 0 | [DEPRECATED] A general purpose library for building credit card forms, validating inputs and formatting numbers.           | 2017-08-02T14:10:57Z |
