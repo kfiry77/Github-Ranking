@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8025 | 601 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-10-08T22:03:32Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7311 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3111 | 811 | ActionScript | 74 | The Cross Platform Game Engine | 2026-10-10T18:06:19Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2510 | 1096 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8027 | 602 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-10-08T22:03:32Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7312 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3110 | 811 | ActionScript | 74 | The Cross Platform Game Engine | 2026-10-10T18:06:19Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2511 | 1096 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1504 | 454 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [mapgen2](https://github.com/amitp/mapgen2) | 1378 | 212 | ActionScript | 2 | Map generator for games written in Flash. *There's an HTML5 version* on github/redblobgames/mapgen2 . Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1357 | 517 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
@@ -97,7 +97,7 @@
 | 90 | [django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) | 149 | 110 | ActionScript | 18 | django-filebrowser for default Django admin site.  Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git)  Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version | 2021-05-04T07:37:24Z |
 | 91 | [mockolate](https://github.com/drewbourne/mockolate) | 144 | 25 | ActionScript | 27 | fake chocolate, mock objects and test spies for AS3 | 2012-07-18T02:16:19Z |
 | 92 | [numeric-springing](https://github.com/TheAllenChou/numeric-springing) | 143 | 12 | ActionScript | 0 | Precise & designer-friendly numeric springing algorithms | 2020-04-18T19:20:48Z |
-| 93 | [backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) | 141 | 53 | ActionScript | 12 | The Backyard Monsters preservation project 🎮 | 2026-10-12T20:57:49Z |
+| 93 | [backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) | 141 | 53 | ActionScript | 12 | The Backyard Monsters preservation project 🎮 | 2026-10-13T23:33:13Z |
 | 94 | [purePDF](https://github.com/sephiroth74/purePDF) | 140 | 61 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
 | 95 | [StarlingPunk](https://github.com/asaia/StarlingPunk) | 139 | 28 | ActionScript | 4 | StarlingPunk is a framework built on top the Starling library designed to add structure and organization to your 2D game projects. It’s perfect for rapidly prototyping ideas and promotes code reuse between projects.  As you may have been able to tell from the name, StarlingPunk is heavily inspired by the popular FlashPunk framework, although its not a direct port. | 2017-04-17T03:21:37Z |
 | 96 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 138 | 16 | ActionScript | 284 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2026-08-19T11:32:48Z |
