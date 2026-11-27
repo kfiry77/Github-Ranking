@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8063 | 606 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-11-19T15:23:30Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8063 | 606 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-11-27T14:48:24Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7315 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3129 | 812 | ActionScript | 77 | The Cross Platform Game Engine | 2026-10-10T18:06:19Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2509 | 1093 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
-| 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1505 | 451 | ActionScript | 107 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
+| 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1505 | 450 | ActionScript | 107 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [mapgen2](https://github.com/amitp/mapgen2) | 1379 | 210 | ActionScript | 2 | Map generator for games written in Flash. *There's an HTML5 version* on github/redblobgames/mapgen2 . Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1358 | 522 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1143 | 196 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
